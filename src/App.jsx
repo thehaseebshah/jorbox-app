@@ -134,7 +134,7 @@ function App() {
         borderTop: '1px solid var(--border-color)',
         paddingTop: '2rem'
       }}>
-        <p>&copy; {new Date().getFullYear()} Card Companion App</p>
+        <p>&copy; {new Date().getFullYear()} Al Burhan JorBox</p>
       </footer>
     </div>
   );
