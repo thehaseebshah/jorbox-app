@@ -1,27 +1,48 @@
 import React from 'react';
+import { ChevronDown } from 'lucide-react';
 
 const CategorySelector = ({ categories, selectedCategory, onSelectCategory }) => {
     if (!categories || categories.length === 0) return null;
 
     return (
-        <div className="category-selector" style={{ display: 'flex', justifyContent: 'center', gap: '1rem', marginBottom: '2rem', flexWrap: 'wrap' }}>
-            <button
-                onClick={() => onSelectCategory(null)}
-                className={!selectedCategory ? 'btn-primary' : 'btn-secondary'}
-                style={{ padding: '8px 16px', fontSize: '0.9rem' }}
-            >
-                All
-            </button>
-            {categories.map(category => (
-                <button
-                    key={category}
-                    onClick={() => onSelectCategory(category)}
-                    className={selectedCategory === category ? 'btn-primary' : 'btn-secondary'}
-                    style={{ padding: '8px 16px', fontSize: '0.9rem' }}
+        <div className="category-selector-container" style={{ marginBottom: '2rem', textAlign: 'center' }}>
+            <label htmlFor="category-select" style={{ display: 'block', marginBottom: '0.5rem', color: 'var(--text-secondary)' }}>
+                Filter by Category
+            </label>
+            <div className="custom-select-wrapper" style={{ position: 'relative', display: 'inline-block', minWidth: '200px' }}>
+                <select
+                    id="category-select"
+                    value={selectedCategory || ''}
+                    onChange={(e) => onSelectCategory(e.target.value || null)}
+                    className="glass-panel"
+                    style={{
+                        width: '100%',
+                        padding: '12px 40px 12px 16px',
+                        appearance: 'none',
+                        color: 'var(--text-primary)',
+                        fontSize: '1rem',
+                        cursor: 'pointer'
+                    }}
                 >
-                    {category}
-                </button>
-            ))}
+                    <option value="">All Categories</option>
+                    {categories.map(category => (
+                        <option key={category} value={category} style={{ color: 'black' }}>
+                            {category}
+                        </option>
+                    ))}
+                </select>
+                <ChevronDown
+                    size={20}
+                    style={{
+                        position: 'absolute',
+                        right: '12px',
+                        top: '50%',
+                        transform: 'translateY(-50%)',
+                        pointerEvents: 'none',
+                        color: 'var(--text-secondary)'
+                    }}
+                />
+            </div>
         </div>
     );
 };
