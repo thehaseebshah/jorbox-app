@@ -1,9 +1,9 @@
 [
     {
         "id": "game1",
-        "name": "Space Explorers",
+        "name": "Main",
         "csv": "/data/game1.csv",
-        "hasCategories": false
+        "hasCategories": true
     },
     {
         "id": "game2",

@@ -1,6 +1,626 @@
-Name,Description
-Rocket,A vehicle used to travel to space.
-Astronaut,A person trained to travel in a spacecraft.
-Planet,A celestial body orbiting a star.
-Star,A luminous ball of gas, mostly hydrogen and helium.
-Comet,A celestial object consisting of a nucleus of ice and dust.
+Name,Description,Category
+Pakistani Cities,Karachi,Pakistani Cities
+Pakistani Cities,Lahore,Pakistani Cities
+Pakistani Cities,Islamabad,Pakistani Cities
+Pakistani Cities,Rawalpindi,Pakistani Cities
+Pakistani Cities,Faisalabad,Pakistani Cities
+Pakistani Cities,Multan,Pakistani Cities
+Pakistani Cities,Peshawar,Pakistani Cities
+Pakistani Cities,Quetta,Pakistani Cities
+Pakistani Cities,Sialkot,Pakistani Cities
+Pakistani Cities,Gujranwala,Pakistani Cities
+Pakistani Cities,Hyderabad,Pakistani Cities
+Pakistani Cities,Abbottabad,Pakistani Cities
+Pakistani Cities,Murree,Pakistani Cities
+Pakistani Cities,Sukkur,Pakistani Cities
+Pakistani Cities,Bahawalpur,Pakistani Cities
+Pakistani Cities,Sargodha,Pakistani Cities
+Pakistani Cities,Gujarat,Pakistani Cities
+Pakistani Cities,Larkana,Pakistani Cities
+Pakistani Cities,Sheikhupura,Pakistani Cities
+Pakistani Cities,Jhelum,Pakistani Cities
+Pakistani Cities,Mardan,Pakistani Cities
+Pakistani Cities,Kasur,Pakistani Cities
+Pakistani Cities,Rahim Yar Khan,Pakistani Cities
+Pakistani Cities,Sahiwal,Pakistani Cities
+Pakistani Cities,Okara,Pakistani Cities
+Traditional Dishes,Biryani,Traditional Dishes
+Traditional Dishes,Pulao,Traditional Dishes
+Traditional Dishes,Nihari,Traditional Dishes
+Traditional Dishes,Haleem,Traditional Dishes
+Traditional Dishes,Karahi,Traditional Dishes
+Traditional Dishes,Korma,Traditional Dishes
+Traditional Dishes,Sajji,Traditional Dishes
+Traditional Dishes,Chapli Kabab,Traditional Dishes
+Traditional Dishes,Seekh Kabab,Traditional Dishes
+Traditional Dishes,Paye,Traditional Dishes
+Traditional Dishes,Halwa Puri,Traditional Dishes
+Traditional Dishes,Saag,Traditional Dishes
+Traditional Dishes,Makki Ki Roti,Traditional Dishes
+Traditional Dishes,Daal Chawal,Traditional Dishes
+Traditional Dishes,Aloo Gosht,Traditional Dishes
+Traditional Dishes,Koftay,Traditional Dishes
+Traditional Dishes,Katakat,Traditional Dishes
+Traditional Dishes,Chargha,Traditional Dishes
+Traditional Dishes,Tikka,Traditional Dishes
+Traditional Dishes,Malai Boti,Traditional Dishes
+Traditional Dishes,Reshmi Kabab,Traditional Dishes
+Traditional Dishes,Gola Kabab,Traditional Dishes
+Traditional Dishes,Bihari Kabab,Traditional Dishes
+Traditional Dishes,Kunna,Traditional Dishes
+Traditional Dishes,Bong Paye,Traditional Dishes
+Spices,Salt,Spices
+Spices,Pepper,Spices
+Spices,Turmeric,Spices
+Spices,Chili,Spices
+Spices,Cumin,Spices
+Spices,Coriander,Spices
+Spices,Cardamom,Spices
+Spices,Cinnamon,Spices
+Spices,Clove,Spices
+Spices,Nutmeg,Spices
+Spices,Saffron,Spices
+Spices,Ginger,Spices
+Spices,Garlic,Spices
+Spices,Anise,Spices
+Spices,Fenugreek,Spices
+Spices,Mustard Seeds,Spices
+Spices,Poppy Seeds,Spices
+Spices,Sesame,Spices
+Spices,Bay Leaf,Spices
+Spices,Black Salt,Spices
+Spices,Chaat Masala,Spices
+Spices,Garam Masala,Spices
+Spices,Tamarind,Spices
+Spices,Mint,Spices
+Spices,Basil,Spices
+Fruits,Mango,Fruits
+Fruits,Apple,Fruits
+Fruits,Banana,Fruits
+Fruits,Orange,Fruits
+Fruits,Grapes,Fruits
+Fruits,Pomegranate,Fruits
+Fruits,Guava,Fruits
+Fruits,Watermelon,Fruits
+Fruits,Melon,Fruits
+Fruits,Apricot,Fruits
+Fruits,Peach,Fruits
+Fruits,Plum,Fruits
+Fruits,Pear,Fruits
+Fruits,Strawberry,Fruits
+Fruits,Cherry,Fruits
+Fruits,Lychee,Fruits
+Fruits,Papaya,Fruits
+Fruits,Pineapple,Fruits
+Fruits,Coconut,Fruits
+Fruits,Date,Fruits
+Fruits,Fig,Fruits
+Fruits,Mulberry,Fruits
+Fruits,Kinnow,Fruits
+Fruits,Falsa,Fruits
+Fruits,Jamun,Fruits
+Vegetables,Potato,Vegetables
+Vegetables,Onion,Vegetables
+Vegetables,Tomato,Vegetables
+Vegetables,Garlic,Vegetables
+Vegetables,Ginger,Vegetables
+Vegetables,Spinach,Vegetables
+Vegetables,Cauliflower,Vegetables
+Vegetables,Cabbage,Vegetables
+Vegetables,Carrot,Vegetables
+Vegetables,Radish,Vegetables
+Vegetables,Turnip,Vegetables
+Vegetables,Peas,Vegetables
+Vegetables,Okra,Vegetables
+Vegetables,Eggplant,Vegetables
+Vegetables,Cucumber,Vegetables
+Vegetables,Zucchini,Vegetables
+Vegetables,Pumpkin,Vegetables
+Vegetables,Bitter Gourd,Vegetables
+Vegetables,Bottle Gourd,Vegetables
+Vegetables,Capsicum,Vegetables
+Vegetables,Chili,Vegetables
+Vegetables,Coriander,Vegetables
+Vegetables,Mint,Vegetables
+Vegetables,Lemon,Vegetables
+Vegetables,Beetroot,Vegetables
+Clothing,Shalwar,Clothing
+Clothing,Kameez,Clothing
+Clothing,Kurta,Clothing
+Clothing,Dupatta,Clothing
+Clothing,Sari,Clothing
+Clothing,Lehnga,Clothing
+Clothing,Sherwani,Clothing
+Clothing,Waistcoat,Clothing
+Clothing,Turban,Clothing
+Clothing,Scarf,Clothing
+Clothing,Shawl,Clothing
+Clothing,Ajrak,Clothing
+Clothing,Topi,Clothing
+Clothing,Vest,Clothing
+Clothing,Jacket,Clothing
+Clothing,Coat,Clothing
+Clothing,Sweater,Clothing
+Clothing,Socks,Clothing
+Clothing,Gloves,Clothing
+Clothing,Tie,Clothing
+Clothing,Belt,Clothing
+Clothing,Trousers,Clothing
+Clothing,Jeans,Clothing
+Clothing,Shirt,Clothing
+Clothing,Frock,Clothing
+Furniture,Chair,Furniture
+Furniture,Table,Furniture
+Furniture,Sofa,Furniture
+Furniture,Bed,Furniture
+Furniture,Cupboard,Furniture
+Furniture,Wardrobe,Furniture
+Furniture,Cabinet,Furniture
+Furniture,Desk,Furniture
+Furniture,Stool,Furniture
+Furniture,Bench,Furniture
+Furniture,Bookshelf,Furniture
+Furniture,Dresser,Furniture
+Furniture,Mirror,Furniture
+Furniture,Lamp,Furniture
+Furniture,Rug,Furniture
+Furniture,Carpet,Furniture
+Furniture,Curtain,Furniture
+Furniture,Mattress,Furniture
+Furniture,Pillow,Furniture
+Furniture,Cushion,Furniture
+Furniture,Blanket,Furniture
+Furniture,Sheet,Furniture
+Furniture,Cot,Furniture
+Furniture,Cradle,Furniture
+Furniture,Recliner,Furniture
+Kitchen Items,Spoon,Kitchen Items
+Kitchen Items,Fork,Kitchen Items
+Kitchen Items,Knife,Kitchen Items
+Kitchen Items,Plate,Kitchen Items
+Kitchen Items,Bowl,Kitchen Items
+Kitchen Items,Glass,Kitchen Items
+Kitchen Items,Cup,Kitchen Items
+Kitchen Items,Mug,Kitchen Items
+Kitchen Items,Jug,Kitchen Items
+Kitchen Items,Teapot,Kitchen Items
+Kitchen Items,Pan,Kitchen Items
+Kitchen Items,Pot,Kitchen Items
+Kitchen Items,Cooker,Kitchen Items
+Kitchen Items,Tawa,Kitchen Items
+Kitchen Items,Rolling Pin,Kitchen Items
+Kitchen Items,Grater,Kitchen Items
+Kitchen Items,Peeler,Kitchen Items
+Kitchen Items,Strainer,Kitchen Items
+Kitchen Items,Sieve,Kitchen Items
+Kitchen Items,Tongs,Kitchen Items
+Kitchen Items,Ladle,Kitchen Items
+Kitchen Items,Tray,Kitchen Items
+Kitchen Items,Bottle,Kitchen Items
+Kitchen Items,Jar,Kitchen Items
+Kitchen Items,Container,Kitchen Items
+Animals,Lion,Animals
+Animals,Tiger,Animals
+Animals,Elephant,Animals
+Animals,Horse,Animals
+Animals,Dog,Animals
+Animals,Cat,Animals
+Animals,Cow,Animals
+Animals,Buffalo,Animals
+Animals,Goat,Animals
+Animals,Sheep,Animals
+Animals,Camel,Animals
+Animals,Donkey,Animals
+Animals,Monkey,Animals
+Animals,Bear,Animals
+Animals,Deer,Animals
+Animals,Rabbit,Animals
+Animals,Fox,Animals
+Animals,Wolf,Animals
+Animals,Snake,Animals
+Animals,Crocodile,Animals
+Animals,Turtle,Animals
+Animals,Frog,Animals
+Animals,Mouse,Animals
+Animals,Rat,Animals
+Animals,Squirrel,Animals
+Birds,Eagle,Birds
+Birds,Sparrow,Birds
+Birds,Pigeon,Birds
+Birds,Parrot,Birds
+Birds,Crow,Birds
+Birds,Peacock,Birds
+Birds,Hen,Birds
+Birds,Rooster,Birds
+Birds,Duck,Birds
+Birds,Swan,Birds
+Birds,Owl,Birds
+Birds,Hawk,Birds
+Birds,Kite,Birds
+Birds,Vulture,Birds
+Birds,Ostrich,Birds
+Birds,Penguin,Birds
+Birds,Flamingo,Birds
+Birds,Woodpecker,Birds
+Birds,Kingfisher,Birds
+Birds,Cuckoo,Birds
+Birds,Dove,Birds
+Birds,Myna,Birds
+Birds,Bulbul,Birds
+Birds,Chakor,Birds
+Birds,Partridge,Birds
+Sports,Cricket,Sports
+Sports,Hockey,Sports
+Sports,Football,Sports
+Sports,Tennis,Sports
+Sports,Squash,Sports
+Sports,Badminton,Sports
+Sports,Boxing,Sports
+Sports,Wrestling,Sports
+Sports,Kabaddi,Sports
+Sports,Polo,Sports
+Sports,Golf,Sports
+Sports,Swimming,Sports
+Sports,Running,Sports
+Sports,Cycling,Sports
+Sports,Volleyball,Sports
+Sports,Basketball,Sports
+Sports,Snooker,Sports
+Sports,Table Tennis,Sports
+Sports,Archery,Sports
+Sports,Shooting,Sports
+Sports,Skiing,Sports
+Sports,Skating,Sports
+Sports,Karate,Sports
+Sports,Judo,Sports
+Sports,Gymnastics,Sports
+Historical Places,Badshahi Mosque,Historical Places
+Historical Places,Minar-e-Pakistan,Historical Places
+Historical Places,Faisal Mosque,Historical Places
+Historical Places,Lahore Fort,Historical Places
+Historical Places,Shalimar Gardens,Historical Places
+Historical Places,Rohtas Fort,Historical Places
+Historical Places,Mohenjo-daro,Historical Places
+Historical Places,Harappa,Historical Places
+Historical Places,Taxila,Historical Places
+Historical Places,Hiran Minar,Historical Places
+Historical Places,Katas Raj,Historical Places
+Historical Places,Derawar Fort,Historical Places
+Historical Places,Ranikot Fort,Historical Places
+Historical Places,Baltit Fort,Historical Places
+Historical Places,Altit Fort,Historical Places
+Historical Places,Noor Mahal,Historical Places
+Historical Places,Wazir Khan Mosque,Historical Places
+Historical Places,Tomb of Jahangir,Historical Places
+Historical Places,Tomb of Jinnah,Historical Places
+Historical Places,Ziarat Residency,Historical Places
+Historical Places,Khyber Pass,Historical Places
+Historical Places,Clifton Fort,Historical Places
+Historical Places,Frere Hall,Historical Places
+Historical Places,Mohatta Palace,Historical Places
+Historical Places,Shahi Qila,Historical Places
+Occupations,Doctor,Occupations
+Occupations,Engineer,Occupations
+Occupations,Teacher,Occupations
+Occupations,Pilot,Occupations
+Occupations,Soldier,Occupations
+Occupations,Police,Occupations
+Occupations,Lawyer,Occupations
+Occupations,Judge,Occupations
+Occupations,Chef,Occupations
+Occupations,Farmer,Occupations
+Occupations,Driver,Occupations
+Occupations,Tailor,Occupations
+Occupations,Barber,Occupations
+Occupations,Carpenter,Occupations
+Occupations,Plumber,Occupations
+Occupations,Electrician,Occupations
+Occupations,Mechanic,Occupations
+Occupations,Painter,Occupations
+Occupations,Writer,Occupations
+Occupations,Artist,Occupations
+Occupations,Singer,Occupations
+Occupations,Actor,Occupations
+Occupations,Banker,Occupations
+Occupations,Accountant,Occupations
+Occupations,Scientist,Occupations
+Transport,Car,Transport
+Transport,Bus,Transport
+Transport,Truck,Transport
+Transport,Bike,Transport
+Transport,Cycle,Transport
+Transport,Rickshaw,Transport
+Transport,Chingchi,Transport
+Transport,Train,Transport
+Transport,Airplane,Transport
+Transport,Boat,Transport
+Transport,Ship,Transport
+Transport,Van,Transport
+Transport,Taxi,Transport
+Transport,Scooter,Transport
+Transport,Tractor,Transport
+Transport,Trolley,Transport
+Transport,Ambulance,Transport
+Transport,Fire Truck,Transport
+Transport,Police Car,Transport
+Transport,Jeep,Transport
+Transport,Helicopter,Transport
+Transport,Rocket,Transport
+Transport,Metro Bus,Transport
+Transport,Orange Line,Transport
+Transport,Tongas,Transport
+Stationery,Pen,Stationery
+Stationery,Pencil,Stationery
+Stationery,Eraser,Stationery
+Stationery,Sharpener,Stationery
+Stationery,Ruler,Stationery
+Stationery,Notebook,Stationery
+Stationery,Paper,Stationery
+Stationery,Glue,Stationery
+Stationery,Scissors,Stationery
+Stationery,Marker,Stationery
+Stationery,Highlighter,Stationery
+Stationery,Stapler,Stationery
+Stationery,Pin,Stationery
+Stationery,Clip,Stationery
+Stationery,Tape,Stationery
+Stationery,Calculator,Stationery
+Stationery,Compass,Stationery
+Stationery,Protractor,Stationery
+Stationery,File,Stationery
+Stationery,Folder,Stationery
+Stationery,Envelope,Stationery
+Stationery,Diary,Stationery
+Stationery,Chart,Stationery
+Stationery,Card,Stationery
+Stationery,Ink,Stationery
+Colors,Red,Colors
+Colors,Blue,Colors
+Colors,Green,Colors
+Colors,Yellow,Colors
+Colors,Orange,Colors
+Colors,Purple,Colors
+Colors,Pink,Colors
+Colors,Black,Colors
+Colors,White,Colors
+Colors,Grey,Colors
+Colors,Brown,Colors
+Colors,Maroon,Colors
+Colors,Turquoise,Colors
+Colors,Gold,Colors
+Colors,Silver,Colors
+Colors,Beige,Colors
+Colors,Cream,Colors
+Colors,Indigo,Colors
+Colors,Violet,Colors
+Colors,Magenta,Colors
+Colors,Cyan,Colors
+Colors,Teal,Colors
+Colors,Olive,Colors
+Colors,Navy,Colors
+Colors,Peach,Colors
+Body Parts,Head,Body Parts
+Body Parts,Eye,Body Parts
+Body Parts,Ear,Body Parts
+Body Parts,Nose,Body Parts
+Body Parts,Mouth,Body Parts
+Body Parts,Hand,Body Parts
+Body Parts,Foot,Body Parts
+Body Parts,Leg,Body Parts
+Body Parts,Arm,Body Parts
+Body Parts,Finger,Body Parts
+Body Parts,Thumb,Body Parts
+Body Parts,Knee,Body Parts
+Body Parts,Elbow,Body Parts
+Body Parts,Shoulder,Body Parts
+Body Parts,Neck,Body Parts
+Body Parts,Hair,Body Parts
+Body Parts,Tooth,Body Parts
+Body Parts,Tongue,Body Parts
+Body Parts,Lip,Body Parts
+Body Parts,Chin,Body Parts
+Body Parts,Cheek,Body Parts
+Body Parts,Forehead,Body Parts
+Body Parts,Stomach,Body Parts
+Body Parts,Back,Body Parts
+Body Parts,Chest,Body Parts
+Jewelry,Ring,Jewelry
+Jewelry,Necklace,Jewelry
+Jewelry,Bangle,Jewelry
+Jewelry,Earring,Jewelry
+Jewelry,Nose Pin,Jewelry
+Jewelry,Anklet,Jewelry
+Jewelry,Bracelet,Jewelry
+Jewelry,Chain,Jewelry
+Jewelry,Locket,Jewelry
+Jewelry,Tiara,Jewelry
+Jewelry,Crown,Jewelry
+Jewelry,Diamond,Jewelry
+Jewelry,Gold,Jewelry
+Jewelry,Silver,Jewelry
+Jewelry,Pearl,Jewelry
+Jewelry,Ruby,Jewelry
+Jewelry,Emerald,Jewelry
+Jewelry,Sapphire,Jewelry
+Jewelry,Choker,Jewelry
+Jewelry,Jhumka,Jewelry
+Jewelry,Matha Patti,Jewelry
+Jewelry,Brooch,Jewelry
+Jewelry,Pendant,Jewelry
+Jewelry,Stud,Jewelry
+Jewelry,Hoop,Jewelry
+Nature,Sun,Nature
+Nature,Moon,Nature
+Nature,Star,Nature
+Nature,Sky,Nature
+Nature,Cloud,Nature
+Nature,Rain,Nature
+Nature,Snow,Nature
+Nature,Wind,Nature
+Nature,Storm,Nature
+Nature,River,Nature
+Nature,Sea,Nature
+Nature,Ocean,Nature
+Nature,Lake,Nature
+Nature,Pond,Nature
+Nature,Mountain,Nature
+Nature,Hill,Nature
+Nature,Valley,Nature
+Nature,Forest,Nature
+Nature,Tree,Nature
+Nature,Flower,Nature
+Nature,Grass,Nature
+Nature,Leaf,Nature
+Nature,Sand,Nature
+Nature,Rock,Nature
+Nature,Stone,Nature
+Electronics,TV,Electronics
+Electronics,Radio,Electronics
+Electronics,Computer,Electronics
+Electronics,Laptop,Electronics
+Electronics,Mobile,Electronics
+Electronics,Tablet,Electronics
+Electronics,Camera,Electronics
+Electronics,Speaker,Electronics
+Electronics,Headphone,Electronics
+Electronics,Mouse,Electronics
+Electronics,Keyboard,Electronics
+Electronics,Printer,Electronics
+Electronics,Scanner,Electronics
+Electronics,Fan,Electronics
+Electronics,AC,Electronics
+Electronics,Heater,Electronics
+Electronics,Fridge,Electronics
+Electronics,Oven,Electronics
+Electronics,Microwave,Electronics
+Electronics,Iron,Electronics
+Electronics,Blender,Electronics
+Electronics,Toaster,Electronics
+Electronics,Juicer,Electronics
+Electronics,Watch,Electronics
+Electronics,Clock,Electronics
+Tools,Hammer,Tools
+Tools,Nail,Tools
+Tools,Screw,Tools
+Tools,Screwdriver,Tools
+Tools,Wrench,Tools
+Tools,Plier,Tools
+Tools,Saw,Tools
+Tools,Drill,Tools
+Tools,Axe,Tools
+Tools,Shovel,Tools
+Tools,Spade,Tools
+Tools,Rake,Tools
+Tools,Hoe,Tools
+Tools,Ladder,Tools
+Tools,Tape Measure,Tools
+Tools,Level,Tools
+Tools,Chisel,Tools
+Tools,File,Tools
+Tools,Clamp,Tools
+Tools,Vice,Tools
+Tools,Cutter,Tools
+Tools,Scissor,Tools
+Tools,Knife,Tools
+Tools,Torch,Tools
+Tools,Brush,Tools
+Fabrics,Cotton,Fabrics
+Fabrics,Silk,Fabrics
+Fabrics,Wool,Fabrics
+Fabrics,Lawn,Fabrics
+Fabrics,Linen,Fabrics
+Fabrics,Khaddar,Fabrics
+Fabrics,Velvet,Fabrics
+Fabrics,Chiffon,Fabrics
+Fabrics,Georgette,Fabrics
+Fabrics,Denim,Fabrics
+Fabrics,Leather,Fabrics
+Fabrics,Polyester,Fabrics
+Fabrics,Rayon,Fabrics
+Fabrics,Satin,Fabrics
+Fabrics,Net,Fabrics
+Fabrics,Banarasi,Fabrics
+Fabrics,Jamawar,Fabrics
+Fabrics,Organza,Fabrics
+Fabrics,Pashmina,Fabrics
+Fabrics,Jute,Fabrics
+Fabrics,Nylon,Fabrics
+Fabrics,Spandex,Fabrics
+Fabrics,Fleece,Fabrics
+Fabrics,Corduroy,Fabrics
+Fabrics,Canvas,Fabrics
+Beverages,Water,Beverages
+Beverages,Milk,Beverages
+Beverages,Tea,Beverages
+Beverages,Coffee,Beverages
+Beverages,Juice,Beverages
+Beverages,Soda,Beverages
+Beverages,Lassi,Beverages
+Beverages,Shake,Beverages
+Beverages,Smoothie,Beverages
+Beverages,Lemonade,Beverages
+Beverages,Squash,Beverages
+Beverages,Sherbet,Beverages
+Beverages,Rooh Afza,Beverages
+Beverages,Kanji,Beverages
+Beverages,Sattu,Beverages
+Beverages,Buttermilk,Beverages
+Beverages,Green Tea,Beverages
+Beverages,Kashmiri Chai,Beverages
+Beverages,Doodh Soda,Beverages
+Beverages,Cold Drink,Beverages
+Beverages,Energy Drink,Beverages
+Beverages,Soup,Beverages
+Beverages,Broth,Beverages
+Beverages,Cider,Beverages
+Beverages,Cocoa,Beverages
+Desserts,Gulab Jamun,Desserts
+Desserts,Barfi,Desserts
+Desserts,Jalebi,Desserts
+Desserts,Laddu,Desserts
+Desserts,Halwa,Desserts
+Desserts,Kheer,Desserts
+Desserts,Custard,Desserts
+Desserts,Cake,Desserts
+Desserts,Pastry,Desserts
+Desserts,Ice Cream,Desserts
+Desserts,Chocolate,Desserts
+Desserts,Cookie,Desserts
+Desserts,Biscuit,Desserts
+Desserts,Brownie,Desserts
+Desserts,Pudding,Desserts
+Desserts,Trifle,Desserts
+Desserts,Falooda,Desserts
+Desserts,Ras Malai,Desserts
+Desserts,Cham Cham,Desserts
+Desserts,Sohan Halwa,Desserts
+Desserts,Patisa,Desserts
+Desserts,Kalakand,Desserts
+Desserts,Zarda,Desserts
+Desserts,Sheer Khurma,Desserts
+Desserts,Sawaiyan,Desserts
+Family Relations,Mother,Family Relations
+Family Relations,Father,Family Relations
+Family Relations,Brother,Family Relations
+Family Relations,Sister,Family Relations
+Family Relations,Son,Family Relations
+Family Relations,Daughter,Family Relations
+Family Relations,Grandfather,Family Relations
+Family Relations,Grandmother,Family Relations
+Family Relations,Uncle,Family Relations
+Family Relations,Aunt,Family Relations
+Family Relations,Cousin,Family Relations
+Family Relations,Nephew,Family Relations
+Family Relations,Niece,Family Relations
+Family Relations,Husband,Family Relations
+Family Relations,Wife,Family Relations
+Family Relations,Father-in-law,Family Relations
+Family Relations,Mother-in-law,Family Relations
+Family Relations,Brother-in-law,Family Relations
+Family Relations,Sister-in-law,Family Relations
+Family Relations,Step-mother,Family Relations
+Family Relations,Step-father,Family Relations
+Family Relations,Grandson,Family Relations
+Family Relations,Granddaughter,Family Relations
+Family Relations,Ancestor,Family Relations
+Family Relations,Relative,Family Relations
