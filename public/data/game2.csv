@@ -1,8 +1,759 @@
 Name,Description,Category
-Knight,A warrior in armor.,Characters
-Dragon,A mythical creature that breathes fire.,Monsters
-Sword,A weapon with a long metal blade.,Items
-Castle,A large fortified building.,Locations
-Wizard,A man who has magical powers.,Characters
-Goblin,A small, grotesque, monstrous creature.,Monsters
-Potion,A liquid with healing or magical properties.,Items
+Karachi,Pakistani, Karachi, place, town,Pakistani Cities
+Lahore,Pakistani, Lahore, place, town,Pakistani Cities
+Islamabad,Pakistani, Islamabad, place, town,Pakistani Cities
+Rawalpindi,Pakistani, Rawalpindi, place, town,Pakistani Cities
+Faisalabad,Pakistani, Faisalabad, place, town,Pakistani Cities
+Multan,Pakistani, Multan, place, town,Pakistani Cities
+Peshawar,Pakistani, Peshawar, place, town,Pakistani Cities
+Quetta,Pakistani, Quetta, place, town,Pakistani Cities
+Sialkot,Pakistani, Sialkot, place, town,Pakistani Cities
+Gujranwala,Pakistani, Gujranwala, place, town,Pakistani Cities
+Hyderabad,Pakistani, Hyderabad, place, town,Pakistani Cities
+Abbottabad,Pakistani, Abbottabad, place, town,Pakistani Cities
+Murree,Pakistani, Murree, place, town,Pakistani Cities
+Sukkur,Pakistani, Sukkur, place, town,Pakistani Cities
+Bahawalpur,Pakistani, Bahawalpur, place, town,Pakistani Cities
+Sargodha,Pakistani, Sargodha, place, town,Pakistani Cities
+Gujarat,Pakistani, Gujarat, place, town,Pakistani Cities
+Larkana,Pakistani, Larkana, place, town,Pakistani Cities
+Sheikhupura,Pakistani, Sheikhupura, place, town,Pakistani Cities
+Jhelum,Pakistani, Jhelum, place, town,Pakistani Cities
+Mardan,Pakistani, Mardan, place, town,Pakistani Cities
+Kasur,Pakistani, Kasur, place, town,Pakistani Cities
+Rahim Yar Khan,Pakistani, Rahim, Yar, town,Pakistani Cities
+Sahiwal,Pakistani, Sahiwal, place, town,Pakistani Cities
+Okara,Pakistani, Okara, place, town,Pakistani Cities
+Biryani,Traditional, Biryani, eat, cook,Traditional Dishes
+Pulao,Traditional, Pulao, eat, cook,Traditional Dishes
+Nihari,Traditional, Nihari, eat, cook,Traditional Dishes
+Haleem,Traditional, Haleem, eat, cook,Traditional Dishes
+Karahi,Traditional, Karahi, eat, cook,Traditional Dishes
+Korma,Traditional, Korma, eat, cook,Traditional Dishes
+Sajji,Traditional, Sajji, eat, cook,Traditional Dishes
+Chapli Kabab,Traditional, Chapli, Kabab, cook,Traditional Dishes
+Seekh Kabab,Traditional, Seekh, Kabab, cook,Traditional Dishes
+Paye,Traditional, Paye, eat, cook,Traditional Dishes
+Halwa Puri,Traditional, Halwa, Puri, cook,Traditional Dishes
+Saag,Traditional, Saag, eat, cook,Traditional Dishes
+Makki Ki Roti,Traditional, Makki, Roti, cook,Traditional Dishes
+Daal Chawal,Traditional, Daal, Chawal, cook,Traditional Dishes
+Aloo Gosht,Traditional, Aloo, Gosht, cook,Traditional Dishes
+Koftay,Traditional, Koftay, eat, cook,Traditional Dishes
+Katakat,Traditional, Katakat, eat, cook,Traditional Dishes
+Chargha,Traditional, Chargha, eat, cook,Traditional Dishes
+Tikka,Traditional, Tikka, eat, cook,Traditional Dishes
+Malai Boti,Traditional, Malai, Boti, cook,Traditional Dishes
+Reshmi Kabab,Traditional, Reshmi, Kabab, cook,Traditional Dishes
+Gola Kabab,Traditional, Gola, Kabab, cook,Traditional Dishes
+Bihari Kabab,Traditional, Bihari, Kabab, cook,Traditional Dishes
+Kunna,Traditional, Kunna, eat, cook,Traditional Dishes
+Bong Paye,Traditional, Bong, Paye, cook,Traditional Dishes
+Salt,Spices, Salt, cooking, ingredient,Spices
+Pepper,Spices, Pepper, cooking, ingredient,Spices
+Turmeric,Spices, Turmeric, cooking, ingredient,Spices
+Chili,Spices, Chili, cooking, ingredient,Spices
+Cumin,Spices, Cumin, cooking, ingredient,Spices
+Coriander,Spices, Coriander, cooking, ingredient,Spices
+Cardamom,Spices, Cardamom, cooking, ingredient,Spices
+Cinnamon,Spices, Cinnamon, cooking, ingredient,Spices
+Clove,Spices, Clove, cooking, ingredient,Spices
+Nutmeg,Spices, Nutmeg, cooking, ingredient,Spices
+Saffron,Spices, Saffron, cooking, ingredient,Spices
+Ginger,Spices, Ginger, cooking, ingredient,Spices
+Garlic,Spices, Garlic, cooking, ingredient,Spices
+Anise,Spices, Anise, cooking, ingredient,Spices
+Fenugreek,Spices, Fenugreek, cooking, ingredient,Spices
+Mustard Seeds,Spices, Mustard, Seeds, ingredient,Spices
+Poppy Seeds,Spices, Poppy, Seeds, ingredient,Spices
+Sesame,Spices, Sesame, cooking, ingredient,Spices
+Bay Leaf,Spices, Bay, Leaf, ingredient,Spices
+Black Salt,Spices, Black, Salt, ingredient,Spices
+Chaat Masala,Spices, Chaat, Masala, ingredient,Spices
+Garam Masala,Spices, Garam, Masala, ingredient,Spices
+Tamarind,Spices, Tamarind, cooking, ingredient,Spices
+Mint,Spices, Mint, cooking, ingredient,Spices
+Basil,Spices, Basil, cooking, ingredient,Spices
+Mango,Fruits, Mango, eat, tree,Fruits
+Apple,Fruits, Apple, eat, tree,Fruits
+Banana,Fruits, Banana, eat, tree,Fruits
+Orange,Fruits, Orange, eat, tree,Fruits
+Grapes,Fruits, Grapes, eat, tree,Fruits
+Pomegranate,Fruits, Pomegranate, eat, tree,Fruits
+Guava,Fruits, Guava, eat, tree,Fruits
+Watermelon,Fruits, Watermelon, eat, tree,Fruits
+Melon,Fruits, Melon, eat, tree,Fruits
+Apricot,Fruits, Apricot, eat, tree,Fruits
+Peach,Fruits, Peach, eat, tree,Fruits
+Plum,Fruits, Plum, eat, tree,Fruits
+Pear,Fruits, Pear, eat, tree,Fruits
+Strawberry,Fruits, Strawberry, eat, tree,Fruits
+Cherry,Fruits, Cherry, eat, tree,Fruits
+Lychee,Fruits, Lychee, eat, tree,Fruits
+Papaya,Fruits, Papaya, eat, tree,Fruits
+Pineapple,Fruits, Pineapple, eat, tree,Fruits
+Coconut,Fruits, Coconut, eat, tree,Fruits
+Date,Fruits, Date, eat, tree,Fruits
+Fig,Fruits, Fig, eat, tree,Fruits
+Mulberry,Fruits, Mulberry, eat, tree,Fruits
+Kinnow,Fruits, Kinnow, eat, tree,Fruits
+Falsa,Fruits, Falsa, eat, tree,Fruits
+Jamun,Fruits, Jamun, eat, tree,Fruits
+Potato,Vegetables, Potato, eat, plant,Vegetables
+Onion,Vegetables, Onion, eat, plant,Vegetables
+Tomato,Vegetables, Tomato, eat, plant,Vegetables
+Garlic,Vegetables, Garlic, eat, plant,Vegetables
+Ginger,Vegetables, Ginger, eat, plant,Vegetables
+Spinach,Vegetables, Spinach, eat, plant,Vegetables
+Cauliflower,Vegetables, Cauliflower, eat, plant,Vegetables
+Cabbage,Vegetables, Cabbage, eat, plant,Vegetables
+Carrot,Vegetables, Carrot, eat, plant,Vegetables
+Radish,Vegetables, Radish, eat, plant,Vegetables
+Turnip,Vegetables, Turnip, eat, plant,Vegetables
+Peas,Vegetables, Peas, eat, plant,Vegetables
+Okra,Vegetables, Okra, eat, plant,Vegetables
+Eggplant,Vegetables, Eggplant, eat, plant,Vegetables
+Cucumber,Vegetables, Cucumber, eat, plant,Vegetables
+Zucchini,Vegetables, Zucchini, eat, plant,Vegetables
+Pumpkin,Vegetables, Pumpkin, eat, plant,Vegetables
+Bitter Gourd,Vegetables, Bitter, Gourd, plant,Vegetables
+Bottle Gourd,Vegetables, Bottle, Gourd, plant,Vegetables
+Capsicum,Vegetables, Capsicum, eat, plant,Vegetables
+Chili,Vegetables, Chili, eat, plant,Vegetables
+Coriander,Vegetables, Coriander, eat, plant,Vegetables
+Mint,Vegetables, Mint, eat, plant,Vegetables
+Lemon,Vegetables, Lemon, eat, plant,Vegetables
+Beetroot,Vegetables, Beetroot, eat, plant,Vegetables
+Shalwar,Clothing, Shalwar, dress, garment,Clothing
+Kameez,Clothing, Kameez, dress, garment,Clothing
+Kurta,Clothing, Kurta, dress, garment,Clothing
+Dupatta,Clothing, Dupatta, dress, garment,Clothing
+Sari,Clothing, Sari, dress, garment,Clothing
+Lehnga,Clothing, Lehnga, dress, garment,Clothing
+Sherwani,Clothing, Sherwani, dress, garment,Clothing
+Waistcoat,Clothing, Waistcoat, dress, garment,Clothing
+Turban,Clothing, Turban, dress, garment,Clothing
+Scarf,Clothing, Scarf, dress, garment,Clothing
+Shawl,Clothing, Shawl, dress, garment,Clothing
+Ajrak,Clothing, Ajrak, dress, garment,Clothing
+Topi,Clothing, Topi, dress, garment,Clothing
+Vest,Clothing, Vest, dress, garment,Clothing
+Jacket,Clothing, Jacket, dress, garment,Clothing
+Coat,Clothing, Coat, dress, garment,Clothing
+Sweater,Clothing, Sweater, dress, garment,Clothing
+Socks,Clothing, Socks, dress, garment,Clothing
+Gloves,Clothing, Gloves, dress, garment,Clothing
+Tie,Clothing, Tie, dress, garment,Clothing
+Belt,Clothing, Belt, dress, garment,Clothing
+Trousers,Clothing, Trousers, dress, garment,Clothing
+Jeans,Clothing, Jeans, dress, garment,Clothing
+Shirt,Clothing, Shirt, dress, garment,Clothing
+Frock,Clothing, Frock, dress, garment,Clothing
+Chair,Furniture, Chair, sit, room,Furniture
+Table,Furniture, Table, sit, room,Furniture
+Sofa,Furniture, Sofa, sit, room,Furniture
+Bed,Furniture, Bed, sit, room,Furniture
+Cupboard,Furniture, Cupboard, sit, room,Furniture
+Wardrobe,Furniture, Wardrobe, sit, room,Furniture
+Cabinet,Furniture, Cabinet, sit, room,Furniture
+Desk,Furniture, Desk, sit, room,Furniture
+Stool,Furniture, Stool, sit, room,Furniture
+Bench,Furniture, Bench, sit, room,Furniture
+Bookshelf,Furniture, Bookshelf, sit, room,Furniture
+Dresser,Furniture, Dresser, sit, room,Furniture
+Mirror,Furniture, Mirror, sit, room,Furniture
+Lamp,Furniture, Lamp, sit, room,Furniture
+Rug,Furniture, Rug, sit, room,Furniture
+Carpet,Furniture, Carpet, sit, room,Furniture
+Curtain,Furniture, Curtain, sit, room,Furniture
+Mattress,Furniture, Mattress, sit, room,Furniture
+Pillow,Furniture, Pillow, sit, room,Furniture
+Cushion,Furniture, Cushion, sit, room,Furniture
+Blanket,Furniture, Blanket, sit, room,Furniture
+Sheet,Furniture, Sheet, sit, room,Furniture
+Cot,Furniture, Cot, sit, room,Furniture
+Cradle,Furniture, Cradle, sit, room,Furniture
+Recliner,Furniture, Recliner, sit, room,Furniture
+Spoon,Kitchen, Spoon, utensil, tool,Kitchen Items
+Fork,Kitchen, Fork, utensil, tool,Kitchen Items
+Knife,Kitchen, Knife, utensil, tool,Kitchen Items
+Plate,Kitchen, Plate, utensil, tool,Kitchen Items
+Bowl,Kitchen, Bowl, utensil, tool,Kitchen Items
+Glass,Kitchen, Glass, utensil, tool,Kitchen Items
+Cup,Kitchen, Cup, utensil, tool,Kitchen Items
+Mug,Kitchen, Mug, utensil, tool,Kitchen Items
+Jug,Kitchen, Jug, utensil, tool,Kitchen Items
+Teapot,Kitchen, Teapot, utensil, tool,Kitchen Items
+Pan,Kitchen, Pan, utensil, tool,Kitchen Items
+Pot,Kitchen, Pot, utensil, tool,Kitchen Items
+Cooker,Kitchen, Cooker, utensil, tool,Kitchen Items
+Tawa,Kitchen, Tawa, utensil, tool,Kitchen Items
+Rolling Pin,Kitchen, Rolling, Pin, tool,Kitchen Items
+Grater,Kitchen, Grater, utensil, tool,Kitchen Items
+Peeler,Kitchen, Peeler, utensil, tool,Kitchen Items
+Strainer,Kitchen, Strainer, utensil, tool,Kitchen Items
+Sieve,Kitchen, Sieve, utensil, tool,Kitchen Items
+Tongs,Kitchen, Tongs, utensil, tool,Kitchen Items
+Ladle,Kitchen, Ladle, utensil, tool,Kitchen Items
+Tray,Kitchen, Tray, utensil, tool,Kitchen Items
+Bottle,Kitchen, Bottle, utensil, tool,Kitchen Items
+Jar,Kitchen, Jar, utensil, tool,Kitchen Items
+Container,Kitchen, Container, utensil, tool,Kitchen Items
+Lion,Animals, Lion, wild, pet,Animals
+Tiger,Animals, Tiger, wild, pet,Animals
+Elephant,Animals, Elephant, wild, pet,Animals
+Horse,Animals, Horse, wild, pet,Animals
+Dog,Animals, Dog, wild, pet,Animals
+Cat,Animals, Cat, wild, pet,Animals
+Cow,Animals, Cow, wild, pet,Animals
+Buffalo,Animals, Buffalo, wild, pet,Animals
+Goat,Animals, Goat, wild, pet,Animals
+Sheep,Animals, Sheep, wild, pet,Animals
+Camel,Animals, Camel, wild, pet,Animals
+Donkey,Animals, Donkey, wild, pet,Animals
+Monkey,Animals, Monkey, wild, pet,Animals
+Bear,Animals, Bear, wild, pet,Animals
+Deer,Animals, Deer, wild, pet,Animals
+Rabbit,Animals, Rabbit, wild, pet,Animals
+Fox,Animals, Fox, wild, pet,Animals
+Wolf,Animals, Wolf, wild, pet,Animals
+Snake,Animals, Snake, wild, pet,Animals
+Crocodile,Animals, Crocodile, wild, pet,Animals
+Turtle,Animals, Turtle, wild, pet,Animals
+Frog,Animals, Frog, wild, pet,Animals
+Mouse,Animals, Mouse, wild, pet,Animals
+Rat,Animals, Rat, wild, pet,Animals
+Squirrel,Animals, Squirrel, wild, pet,Animals
+Eagle,Birds, Eagle, feather, wing,Birds
+Sparrow,Birds, Sparrow, feather, wing,Birds
+Pigeon,Birds, Pigeon, feather, wing,Birds
+Parrot,Birds, Parrot, feather, wing,Birds
+Crow,Birds, Crow, feather, wing,Birds
+Peacock,Birds, Peacock, feather, wing,Birds
+Hen,Birds, Hen, feather, wing,Birds
+Rooster,Birds, Rooster, feather, wing,Birds
+Duck,Birds, Duck, feather, wing,Birds
+Swan,Birds, Swan, feather, wing,Birds
+Owl,Birds, Owl, feather, wing,Birds
+Hawk,Birds, Hawk, feather, wing,Birds
+Kite,Birds, Kite, feather, wing,Birds
+Vulture,Birds, Vulture, feather, wing,Birds
+Ostrich,Birds, Ostrich, feather, wing,Birds
+Penguin,Birds, Penguin, feather, wing,Birds
+Flamingo,Birds, Flamingo, feather, wing,Birds
+Woodpecker,Birds, Woodpecker, feather, wing,Birds
+Kingfisher,Birds, Kingfisher, feather, wing,Birds
+Cuckoo,Birds, Cuckoo, feather, wing,Birds
+Dove,Birds, Dove, feather, wing,Birds
+Myna,Birds, Myna, feather, wing,Birds
+Bulbul,Birds, Bulbul, feather, wing,Birds
+Chakor,Birds, Chakor, feather, wing,Birds
+Partridge,Birds, Partridge, feather, wing,Birds
+Cricket,Sports, Cricket, play, team,Sports
+Hockey,Sports, Hockey, play, team,Sports
+Football,Sports, Football, play, team,Sports
+Tennis,Sports, Tennis, play, team,Sports
+Squash,Sports, Squash, play, team,Sports
+Badminton,Sports, Badminton, play, team,Sports
+Boxing,Sports, Boxing, play, team,Sports
+Wrestling,Sports, Wrestling, play, team,Sports
+Kabaddi,Sports, Kabaddi, play, team,Sports
+Polo,Sports, Polo, play, team,Sports
+Golf,Sports, Golf, play, team,Sports
+Swimming,Sports, Swimming, play, team,Sports
+Running,Sports, Running, play, team,Sports
+Cycling,Sports, Cycling, play, team,Sports
+Volleyball,Sports, Volleyball, play, team,Sports
+Basketball,Sports, Basketball, play, team,Sports
+Snooker,Sports, Snooker, play, team,Sports
+Table Tennis,Sports, Table, Tennis, team,Sports
+Archery,Sports, Archery, play, team,Sports
+Shooting,Sports, Shooting, play, team,Sports
+Skiing,Sports, Skiing, play, team,Sports
+Skating,Sports, Skating, play, team,Sports
+Karate,Sports, Karate, play, team,Sports
+Judo,Sports, Judo, play, team,Sports
+Gymnastics,Sports, Gymnastics, play, team,Sports
+Badshahi Mosque,Historical, Badshahi, Mosque, building,Historical Places
+Minar-e-Pakistan,Historical, Minar-e-Pakistan, monument, building,Historical Places
+Faisal Mosque,Historical, Faisal, Mosque, building,Historical Places
+Lahore Fort,Historical, Lahore, Fort, building,Historical Places
+Shalimar Gardens,Historical, Shalimar, Gardens, building,Historical Places
+Rohtas Fort,Historical, Rohtas, Fort, building,Historical Places
+Mohenjo-daro,Historical, Mohenjo-daro, monument, building,Historical Places
+Harappa,Historical, Harappa, monument, building,Historical Places
+Taxila,Historical, Taxila, monument, building,Historical Places
+Hiran Minar,Historical, Hiran, Minar, building,Historical Places
+Katas Raj,Historical, Katas, Raj, building,Historical Places
+Derawar Fort,Historical, Derawar, Fort, building,Historical Places
+Ranikot Fort,Historical, Ranikot, Fort, building,Historical Places
+Baltit Fort,Historical, Baltit, Fort, building,Historical Places
+Altit Fort,Historical, Altit, Fort, building,Historical Places
+Noor Mahal,Historical, Noor, Mahal, building,Historical Places
+Wazir Khan Mosque,Historical, Wazir, Khan, building,Historical Places
+Tomb of Jahangir,Historical, Tomb, Jahangir, building,Historical Places
+Tomb of Jinnah,Historical, Tomb, Jinnah, building,Historical Places
+Ziarat Residency,Historical, Ziarat, Residency, building,Historical Places
+Khyber Pass,Historical, Khyber, Pass, building,Historical Places
+Clifton Fort,Historical, Clifton, Fort, building,Historical Places
+Frere Hall,Historical, Frere, Hall, building,Historical Places
+Mohatta Palace,Historical, Mohatta, Palace, building,Historical Places
+Shahi Qila,Historical, Shahi, Qila, building,Historical Places
+Doctor,Occupations, Doctor, profession, career,Occupations
+Engineer,Occupations, Engineer, profession, career,Occupations
+Teacher,Occupations, Teacher, profession, career,Occupations
+Pilot,Occupations, Pilot, profession, career,Occupations
+Soldier,Occupations, Soldier, profession, career,Occupations
+Police,Occupations, Police, profession, career,Occupations
+Lawyer,Occupations, Lawyer, profession, career,Occupations
+Judge,Occupations, Judge, profession, career,Occupations
+Chef,Occupations, Chef, profession, career,Occupations
+Farmer,Occupations, Farmer, profession, career,Occupations
+Driver,Occupations, Driver, profession, career,Occupations
+Tailor,Occupations, Tailor, profession, career,Occupations
+Barber,Occupations, Barber, profession, career,Occupations
+Carpenter,Occupations, Carpenter, profession, career,Occupations
+Plumber,Occupations, Plumber, profession, career,Occupations
+Electrician,Occupations, Electrician, profession, career,Occupations
+Mechanic,Occupations, Mechanic, profession, career,Occupations
+Painter,Occupations, Painter, profession, career,Occupations
+Writer,Occupations, Writer, profession, career,Occupations
+Artist,Occupations, Artist, profession, career,Occupations
+Singer,Occupations, Singer, profession, career,Occupations
+Actor,Occupations, Actor, profession, career,Occupations
+Banker,Occupations, Banker, profession, career,Occupations
+Accountant,Occupations, Accountant, profession, career,Occupations
+Scientist,Occupations, Scientist, profession, career,Occupations
+Car,Transport, Car, ride, travel,Transport
+Bus,Transport, Bus, ride, travel,Transport
+Truck,Transport, Truck, ride, travel,Transport
+Bike,Transport, Bike, ride, travel,Transport
+Cycle,Transport, Cycle, ride, travel,Transport
+Rickshaw,Transport, Rickshaw, ride, travel,Transport
+Chingchi,Transport, Chingchi, ride, travel,Transport
+Train,Transport, Train, ride, travel,Transport
+Airplane,Transport, Airplane, ride, travel,Transport
+Boat,Transport, Boat, ride, travel,Transport
+Ship,Transport, Ship, ride, travel,Transport
+Van,Transport, Van, ride, travel,Transport
+Taxi,Transport, Taxi, ride, travel,Transport
+Scooter,Transport, Scooter, ride, travel,Transport
+Tractor,Transport, Tractor, ride, travel,Transport
+Trolley,Transport, Trolley, ride, travel,Transport
+Ambulance,Transport, Ambulance, ride, travel,Transport
+Fire Truck,Transport, Fire, Truck, travel,Transport
+Police Car,Transport, Police, Car, travel,Transport
+Jeep,Transport, Jeep, ride, travel,Transport
+Helicopter,Transport, Helicopter, ride, travel,Transport
+Rocket,Transport, Rocket, ride, travel,Transport
+Metro Bus,Transport, Metro, Bus, travel,Transport
+Orange Line,Transport, Orange, Line, travel,Transport
+Tongas,Transport, Tongas, ride, travel,Transport
+Pen,Stationery, Pen, school, office,Stationery
+Pencil,Stationery, Pencil, school, office,Stationery
+Eraser,Stationery, Eraser, school, office,Stationery
+Sharpener,Stationery, Sharpener, school, office,Stationery
+Ruler,Stationery, Ruler, school, office,Stationery
+Notebook,Stationery, Notebook, school, office,Stationery
+Paper,Stationery, Paper, school, office,Stationery
+Glue,Stationery, Glue, school, office,Stationery
+Scissors,Stationery, Scissors, school, office,Stationery
+Marker,Stationery, Marker, school, office,Stationery
+Highlighter,Stationery, Highlighter, school, office,Stationery
+Stapler,Stationery, Stapler, school, office,Stationery
+Pin,Stationery, Pin, school, office,Stationery
+Clip,Stationery, Clip, school, office,Stationery
+Tape,Stationery, Tape, school, office,Stationery
+Calculator,Stationery, Calculator, school, office,Stationery
+Compass,Stationery, Compass, school, office,Stationery
+Protractor,Stationery, Protractor, school, office,Stationery
+File,Stationery, File, school, office,Stationery
+Folder,Stationery, Folder, school, office,Stationery
+Envelope,Stationery, Envelope, school, office,Stationery
+Diary,Stationery, Diary, school, office,Stationery
+Chart,Stationery, Chart, school, office,Stationery
+Card,Stationery, Card, school, office,Stationery
+Ink,Stationery, Ink, school, office,Stationery
+Red,Colors, Red, hue, paint,Colors
+Blue,Colors, Blue, hue, paint,Colors
+Green,Colors, Green, hue, paint,Colors
+Yellow,Colors, Yellow, hue, paint,Colors
+Orange,Colors, Orange, hue, paint,Colors
+Purple,Colors, Purple, hue, paint,Colors
+Pink,Colors, Pink, hue, paint,Colors
+Black,Colors, Black, hue, paint,Colors
+White,Colors, White, hue, paint,Colors
+Grey,Colors, Grey, hue, paint,Colors
+Brown,Colors, Brown, hue, paint,Colors
+Maroon,Colors, Maroon, hue, paint,Colors
+Turquoise,Colors, Turquoise, hue, paint,Colors
+Gold,Colors, Gold, hue, paint,Colors
+Silver,Colors, Silver, hue, paint,Colors
+Beige,Colors, Beige, hue, paint,Colors
+Cream,Colors, Cream, hue, paint,Colors
+Indigo,Colors, Indigo, hue, paint,Colors
+Violet,Colors, Violet, hue, paint,Colors
+Magenta,Colors, Magenta, hue, paint,Colors
+Cyan,Colors, Cyan, hue, paint,Colors
+Teal,Colors, Teal, hue, paint,Colors
+Olive,Colors, Olive, hue, paint,Colors
+Navy,Colors, Navy, hue, paint,Colors
+Peach,Colors, Peach, hue, paint,Colors
+Head,Body, Head, human, anatomy,Body Parts
+Eye,Body, Eye, human, anatomy,Body Parts
+Ear,Body, Ear, human, anatomy,Body Parts
+Nose,Body, Nose, human, anatomy,Body Parts
+Mouth,Body, Mouth, human, anatomy,Body Parts
+Hand,Body, Hand, human, anatomy,Body Parts
+Foot,Body, Foot, human, anatomy,Body Parts
+Leg,Body, Leg, human, anatomy,Body Parts
+Arm,Body, Arm, human, anatomy,Body Parts
+Finger,Body, Finger, human, anatomy,Body Parts
+Thumb,Body, Thumb, human, anatomy,Body Parts
+Knee,Body, Knee, human, anatomy,Body Parts
+Elbow,Body, Elbow, human, anatomy,Body Parts
+Shoulder,Body, Shoulder, human, anatomy,Body Parts
+Neck,Body, Neck, human, anatomy,Body Parts
+Hair,Body, Hair, human, anatomy,Body Parts
+Tooth,Body, Tooth, human, anatomy,Body Parts
+Tongue,Body, Tongue, human, anatomy,Body Parts
+Lip,Body, Lip, human, anatomy,Body Parts
+Chin,Body, Chin, human, anatomy,Body Parts
+Cheek,Body, Cheek, human, anatomy,Body Parts
+Forehead,Body, Forehead, human, anatomy,Body Parts
+Stomach,Body, Stomach, human, anatomy,Body Parts
+Back,Body, Back, human, anatomy,Body Parts
+Chest,Body, Chest, human, anatomy,Body Parts
+Ring,Jewelry, Ring, wear, ornament,Jewelry
+Necklace,Jewelry, Necklace, wear, ornament,Jewelry
+Bangle,Jewelry, Bangle, wear, ornament,Jewelry
+Earring,Jewelry, Earring, wear, ornament,Jewelry
+Nose Pin,Jewelry, Nose, Pin, ornament,Jewelry
+Anklet,Jewelry, Anklet, wear, ornament,Jewelry
+Bracelet,Jewelry, Bracelet, wear, ornament,Jewelry
+Chain,Jewelry, Chain, wear, ornament,Jewelry
+Locket,Jewelry, Locket, wear, ornament,Jewelry
+Tiara,Jewelry, Tiara, wear, ornament,Jewelry
+Crown,Jewelry, Crown, wear, ornament,Jewelry
+Diamond,Jewelry, Diamond, wear, ornament,Jewelry
+Gold,Jewelry, Gold, wear, ornament,Jewelry
+Silver,Jewelry, Silver, wear, ornament,Jewelry
+Pearl,Jewelry, Pearl, wear, ornament,Jewelry
+Ruby,Jewelry, Ruby, wear, ornament,Jewelry
+Emerald,Jewelry, Emerald, wear, ornament,Jewelry
+Sapphire,Jewelry, Sapphire, wear, ornament,Jewelry
+Choker,Jewelry, Choker, wear, ornament,Jewelry
+Jhumka,Jewelry, Jhumka, wear, ornament,Jewelry
+Matha Patti,Jewelry, Matha, Patti, ornament,Jewelry
+Brooch,Jewelry, Brooch, wear, ornament,Jewelry
+Pendant,Jewelry, Pendant, wear, ornament,Jewelry
+Stud,Jewelry, Stud, wear, ornament,Jewelry
+Hoop,Jewelry, Hoop, wear, ornament,Jewelry
+Sun,Nature, Sun, earth, environment,Nature
+Moon,Nature, Moon, earth, environment,Nature
+Star,Nature, Star, earth, environment,Nature
+Sky,Nature, Sky, earth, environment,Nature
+Cloud,Nature, Cloud, earth, environment,Nature
+Rain,Nature, Rain, earth, environment,Nature
+Snow,Nature, Snow, earth, environment,Nature
+Wind,Nature, Wind, earth, environment,Nature
+Storm,Nature, Storm, earth, environment,Nature
+River,Nature, River, earth, environment,Nature
+Sea,Nature, Sea, earth, environment,Nature
+Ocean,Nature, Ocean, earth, environment,Nature
+Lake,Nature, Lake, earth, environment,Nature
+Pond,Nature, Pond, earth, environment,Nature
+Mountain,Nature, Mountain, earth, environment,Nature
+Hill,Nature, Hill, earth, environment,Nature
+Valley,Nature, Valley, earth, environment,Nature
+Forest,Nature, Forest, earth, environment,Nature
+Tree,Nature, Tree, earth, environment,Nature
+Flower,Nature, Flower, earth, environment,Nature
+Grass,Nature, Grass, earth, environment,Nature
+Leaf,Nature, Leaf, earth, environment,Nature
+Sand,Nature, Sand, earth, environment,Nature
+Rock,Nature, Rock, earth, environment,Nature
+Stone,Nature, Stone, earth, environment,Nature
+TV,Electronics, device, machine, gadget,Electronics
+Radio,Electronics, Radio, machine, gadget,Electronics
+Computer,Electronics, Computer, machine, gadget,Electronics
+Laptop,Electronics, Laptop, machine, gadget,Electronics
+Mobile,Electronics, Mobile, machine, gadget,Electronics
+Tablet,Electronics, Tablet, machine, gadget,Electronics
+Camera,Electronics, Camera, machine, gadget,Electronics
+Speaker,Electronics, Speaker, machine, gadget,Electronics
+Headphone,Electronics, Headphone, machine, gadget,Electronics
+Mouse,Electronics, Mouse, machine, gadget,Electronics
+Keyboard,Electronics, Keyboard, machine, gadget,Electronics
+Printer,Electronics, Printer, machine, gadget,Electronics
+Scanner,Electronics, Scanner, machine, gadget,Electronics
+Fan,Electronics, Fan, machine, gadget,Electronics
+AC,Electronics, device, machine, gadget,Electronics
+Heater,Electronics, Heater, machine, gadget,Electronics
+Fridge,Electronics, Fridge, machine, gadget,Electronics
+Oven,Electronics, Oven, machine, gadget,Electronics
+Microwave,Electronics, Microwave, machine, gadget,Electronics
+Iron,Electronics, Iron, machine, gadget,Electronics
+Blender,Electronics, Blender, machine, gadget,Electronics
+Toaster,Electronics, Toaster, machine, gadget,Electronics
+Juicer,Electronics, Juicer, machine, gadget,Electronics
+Watch,Electronics, Watch, machine, gadget,Electronics
+Clock,Electronics, Clock, machine, gadget,Electronics
+Hammer,Tools, Hammer, fix, build,Tools
+Nail,Tools, Nail, fix, build,Tools
+Screw,Tools, Screw, fix, build,Tools
+Screwdriver,Tools, Screwdriver, fix, build,Tools
+Wrench,Tools, Wrench, fix, build,Tools
+Plier,Tools, Plier, fix, build,Tools
+Saw,Tools, Saw, fix, build,Tools
+Drill,Tools, Drill, fix, build,Tools
+Axe,Tools, Axe, fix, build,Tools
+Shovel,Tools, Shovel, fix, build,Tools
+Spade,Tools, Spade, fix, build,Tools
+Rake,Tools, Rake, fix, build,Tools
+Hoe,Tools, Hoe, fix, build,Tools
+Ladder,Tools, Ladder, fix, build,Tools
+Tape Measure,Tools, Tape, Measure, build,Tools
+Level,Tools, Level, fix, build,Tools
+Chisel,Tools, Chisel, fix, build,Tools
+File,Tools, File, fix, build,Tools
+Clamp,Tools, Clamp, fix, build,Tools
+Vice,Tools, Vice, fix, build,Tools
+Cutter,Tools, Cutter, fix, build,Tools
+Scissor,Tools, Scissor, fix, build,Tools
+Knife,Tools, Knife, fix, build,Tools
+Torch,Tools, Torch, fix, build,Tools
+Brush,Tools, Brush, fix, build,Tools
+Cotton,Fabrics, Cotton, material, textile,Fabrics
+Silk,Fabrics, Silk, material, textile,Fabrics
+Wool,Fabrics, Wool, material, textile,Fabrics
+Lawn,Fabrics, Lawn, material, textile,Fabrics
+Linen,Fabrics, Linen, material, textile,Fabrics
+Khaddar,Fabrics, Khaddar, material, textile,Fabrics
+Velvet,Fabrics, Velvet, material, textile,Fabrics
+Chiffon,Fabrics, Chiffon, material, textile,Fabrics
+Georgette,Fabrics, Georgette, material, textile,Fabrics
+Denim,Fabrics, Denim, material, textile,Fabrics
+Leather,Fabrics, Leather, material, textile,Fabrics
+Polyester,Fabrics, Polyester, material, textile,Fabrics
+Rayon,Fabrics, Rayon, material, textile,Fabrics
+Satin,Fabrics, Satin, material, textile,Fabrics
+Net,Fabrics, Net, material, textile,Fabrics
+Banarasi,Fabrics, Banarasi, material, textile,Fabrics
+Jamawar,Fabrics, Jamawar, material, textile,Fabrics
+Organza,Fabrics, Organza, material, textile,Fabrics
+Pashmina,Fabrics, Pashmina, material, textile,Fabrics
+Jute,Fabrics, Jute, material, textile,Fabrics
+Nylon,Fabrics, Nylon, material, textile,Fabrics
+Spandex,Fabrics, Spandex, material, textile,Fabrics
+Fleece,Fabrics, Fleece, material, textile,Fabrics
+Corduroy,Fabrics, Corduroy, material, textile,Fabrics
+Canvas,Fabrics, Canvas, material, textile,Fabrics
+Water,Beverages, Water, liquid, sip,Beverages
+Milk,Beverages, Milk, liquid, sip,Beverages
+Tea,Beverages, Tea, liquid, sip,Beverages
+Coffee,Beverages, Coffee, liquid, sip,Beverages
+Juice,Beverages, Juice, liquid, sip,Beverages
+Soda,Beverages, Soda, liquid, sip,Beverages
+Lassi,Beverages, Lassi, liquid, sip,Beverages
+Shake,Beverages, Shake, liquid, sip,Beverages
+Smoothie,Beverages, Smoothie, liquid, sip,Beverages
+Lemonade,Beverages, Lemonade, liquid, sip,Beverages
+Squash,Beverages, Squash, liquid, sip,Beverages
+Sherbet,Beverages, Sherbet, liquid, sip,Beverages
+Rooh Afza,Beverages, Rooh, Afza, sip,Beverages
+Kanji,Beverages, Kanji, liquid, sip,Beverages
+Sattu,Beverages, Sattu, liquid, sip,Beverages
+Buttermilk,Beverages, Buttermilk, liquid, sip,Beverages
+Green Tea,Beverages, Green, Tea, sip,Beverages
+Kashmiri Chai,Beverages, Kashmiri, Chai, sip,Beverages
+Doodh Soda,Beverages, Doodh, Soda, sip,Beverages
+Cold Drink,Beverages, Cold, Drink, sip,Beverages
+Energy Drink,Beverages, Energy, Drink, sip,Beverages
+Soup,Beverages, Soup, liquid, sip,Beverages
+Broth,Beverages, Broth, liquid, sip,Beverages
+Cider,Beverages, Cider, liquid, sip,Beverages
+Cocoa,Beverages, Cocoa, liquid, sip,Beverages
+Gulab Jamun,Desserts, Gulab, Jamun, treat,Desserts
+Barfi,Desserts, Barfi, sugar, treat,Desserts
+Jalebi,Desserts, Jalebi, sugar, treat,Desserts
+Laddu,Desserts, Laddu, sugar, treat,Desserts
+Halwa,Desserts, Halwa, sugar, treat,Desserts
+Kheer,Desserts, Kheer, sugar, treat,Desserts
+Custard,Desserts, Custard, sugar, treat,Desserts
+Cake,Desserts, Cake, sugar, treat,Desserts
+Pastry,Desserts, Pastry, sugar, treat,Desserts
+Ice Cream,Desserts, Ice, Cream, treat,Desserts
+Chocolate,Desserts, Chocolate, sugar, treat,Desserts
+Cookie,Desserts, Cookie, sugar, treat,Desserts
+Biscuit,Desserts, Biscuit, sugar, treat,Desserts
+Brownie,Desserts, Brownie, sugar, treat,Desserts
+Pudding,Desserts, Pudding, sugar, treat,Desserts
+Trifle,Desserts, Trifle, sugar, treat,Desserts
+Falooda,Desserts, Falooda, sugar, treat,Desserts
+Ras Malai,Desserts, Ras, Malai, treat,Desserts
+Cham Cham,Desserts, Cham, Cham, treat,Desserts
+Sohan Halwa,Desserts, Sohan, Halwa, treat,Desserts
+Patisa,Desserts, Patisa, sugar, treat,Desserts
+Kalakand,Desserts, Kalakand, sugar, treat,Desserts
+Zarda,Desserts, Zarda, sugar, treat,Desserts
+Sheer Khurma,Desserts, Sheer, Khurma, treat,Desserts
+Sawaiyan,Desserts, Sawaiyan, sugar, treat,Desserts
+Mother,Family, Mother, relation, kin,Family Relations
+Father,Family, Father, relation, kin,Family Relations
+Brother,Family, Brother, relation, kin,Family Relations
+Sister,Family, Sister, relation, kin,Family Relations
+Son,Family, Son, relation, kin,Family Relations
+Daughter,Family, Daughter, relation, kin,Family Relations
+Grandfather,Family, Grandfather, relation, kin,Family Relations
+Grandmother,Family, Grandmother, relation, kin,Family Relations
+Uncle,Family, Uncle, relation, kin,Family Relations
+Aunt,Family, Aunt, relation, kin,Family Relations
+Cousin,Family, Cousin, relation, kin,Family Relations
+Nephew,Family, Nephew, relation, kin,Family Relations
+Niece,Family, Niece, relation, kin,Family Relations
+Husband,Family, Husband, relation, kin,Family Relations
+Wife,Family, Wife, relation, kin,Family Relations
+Father-in-law,Family, Father-in-law, relation, kin,Family Relations
+Mother-in-law,Family, Mother-in-law, relation, kin,Family Relations
+Brother-in-law,Family, Brother-in-law, relation, kin,Family Relations
+Sister-in-law,Family, Sister-in-law, relation, kin,Family Relations
+Step-mother,Family, Step-mother, relation, kin,Family Relations
+Step-father,Family, Step-father, relation, kin,Family Relations
+Grandson,Family, Grandson, relation, kin,Family Relations
+Granddaughter,Family, Granddaughter, relation, kin,Family Relations
+Ancestor,Family, Ancestor, relation, kin,Family Relations
+Relative,Family, Relative, relation, kin,Family Relations
+Abu Bakr,Sahaba, Abu, Bakr, Muslim,Sahaba
+Umar,Sahaba, Umar, Islam, Muslim,Sahaba
+Uthman,Sahaba, Uthman, Islam, Muslim,Sahaba
+Ali,Sahaba, Ali, Islam, Muslim,Sahaba
+Bilal,Sahaba, Bilal, Islam, Muslim,Sahaba
+Khalid,Sahaba, Khalid, Islam, Muslim,Sahaba
+Salman,Sahaba, Salman, Islam, Muslim,Sahaba
+Abu Huraira,Sahaba, Abu, Huraira, Muslim,Sahaba
+Aisha,Sahaba, Aisha, Islam, Muslim,Sahaba
+Khadija,Sahaba, Khadija, Islam, Muslim,Sahaba
+Fatima,Sahaba, Fatima, Islam, Muslim,Sahaba
+Hassan,Sahaba, Hassan, Islam, Muslim,Sahaba
+Hussain,Sahaba, Hussain, Islam, Muslim,Sahaba
+Zaid,Sahaba, Zaid, Islam, Muslim,Sahaba
+Talha,Sahaba, Talha, Islam, Muslim,Sahaba
+Zubair,Sahaba, Zubair, Islam, Muslim,Sahaba
+Saad,Sahaba, Saad, Islam, Muslim,Sahaba
+Abdur Rahman,Sahaba, Abdur, Rahman, Muslim,Sahaba
+Anas,Sahaba, Anas, Islam, Muslim,Sahaba
+Abdullah,Sahaba, Abdullah, Islam, Muslim,Sahaba
+Muadh,Sahaba, Muadh, Islam, Muslim,Sahaba
+Usamah,Sahaba, Usamah, Islam, Muslim,Sahaba
+Ammar,Sahaba, Ammar, Islam, Muslim,Sahaba
+Suhaib,Sahaba, Suhaib, Islam, Muslim,Sahaba
+Abu Ubaidah,Sahaba, Abu, Ubaidah, Muslim,Sahaba
+Hamza,Sahaba, Hamza, Islam, Muslim,Sahaba
+Abbas,Sahaba, Abbas, Islam, Muslim,Sahaba
+Jafar,Sahaba, Jafar, Islam, Muslim,Sahaba
+Adam,Prophets, Adam, Allah, Islam,Prophets
+Noah,Prophets, Noah, Allah, Islam,Prophets
+Abraham,Prophets, Abraham, Allah, Islam,Prophets
+Ishmael,Prophets, Ishmael, Allah, Islam,Prophets
+Isaac,Prophets, Isaac, Allah, Islam,Prophets
+Jacob,Prophets, Jacob, Allah, Islam,Prophets
+Joseph,Prophets, Joseph, Allah, Islam,Prophets
+Moses,Prophets, Moses, Allah, Islam,Prophets
+Aaron,Prophets, Aaron, Allah, Islam,Prophets
+David,Prophets, David, Allah, Islam,Prophets
+Solomon,Prophets, Solomon, Allah, Islam,Prophets
+Job,Prophets, Job, Allah, Islam,Prophets
+Jonah,Prophets, Jonah, Allah, Islam,Prophets
+Elijah,Prophets, Elijah, Allah, Islam,Prophets
+Elisha,Prophets, Elisha, Allah, Islam,Prophets
+Zachariah,Prophets, Zachariah, Allah, Islam,Prophets
+John,Prophets, John, Allah, Islam,Prophets
+Jesus,Prophets, Jesus, Allah, Islam,Prophets
+Muhammad,Prophets, Muhammad, Allah, Islam,Prophets
+Lot,Prophets, Lot, Allah, Islam,Prophets
+Shuaib,Prophets, Shuaib, Allah, Islam,Prophets
+Hud,Prophets, Hud, Allah, Islam,Prophets
+Saleh,Prophets, Saleh, Allah, Islam,Prophets
+Idris,Prophets, Idris, Allah, Islam,Prophets
+Dhul-Kifl,Prophets, Dhul-Kifl, Allah, Islam,Prophets
+Yunus,Prophets, Yunus, Allah, Islam,Prophets
+Allah,Islamic, Allah, religion, faith,Islamic Terms
+Islam,Islamic, Islam, religion, faith,Islamic Terms
+Muslim,Islamic, Muslim, religion, faith,Islamic Terms
+Quran,Islamic, Quran, religion, faith,Islamic Terms
+Hadith,Islamic, Hadith, religion, faith,Islamic Terms
+Sunnah,Islamic, Sunnah, religion, faith,Islamic Terms
+Salah,Islamic, Salah, religion, faith,Islamic Terms
+Zakat,Islamic, Zakat, religion, faith,Islamic Terms
+Sawm,Islamic, Sawm, religion, faith,Islamic Terms
+Hajj,Islamic, Hajj, religion, faith,Islamic Terms
+Shahada,Islamic, Shahada, religion, faith,Islamic Terms
+Iman,Islamic, Iman, religion, faith,Islamic Terms
+Taqwa,Islamic, Taqwa, religion, faith,Islamic Terms
+Dua,Islamic, Dua, religion, faith,Islamic Terms
+Dhikr,Islamic, Dhikr, religion, faith,Islamic Terms
+Jannah,Islamic, Jannah, religion, faith,Islamic Terms
+Jahannam,Islamic, Jahannam, religion, faith,Islamic Terms
+Ramadan,Islamic, Ramadan, religion, faith,Islamic Terms
+Eid,Islamic, Eid, religion, faith,Islamic Terms
+Kaaba,Islamic, Kaaba, religion, faith,Islamic Terms
+Mecca,Islamic, Mecca, religion, faith,Islamic Terms
+Medina,Islamic, Medina, religion, faith,Islamic Terms
+Masjid,Islamic, Masjid, religion, faith,Islamic Terms
+Imam,Islamic, Imam, religion, faith,Islamic Terms
+Wudu,Islamic, Wudu, religion, faith,Islamic Terms
+Mecca,Islamic, Mecca, holy, mosque,Islamic Locations
+Medina,Islamic, Medina, holy, mosque,Islamic Locations
+Jerusalem,Islamic, Jerusalem, holy, mosque,Islamic Locations
+Kaaba,Islamic, Kaaba, holy, mosque,Islamic Locations
+Masjid al-Haram,Islamic, Masjid, al-Haram, mosque,Islamic Locations
+Masjid al-Nabawi,Islamic, Masjid, al-Nabawi, mosque,Islamic Locations
+Al-Aqsa,Islamic, Al-Aqsa, holy, mosque,Islamic Locations
+Dome of the Rock,Islamic, Dome, the, mosque,Islamic Locations
+Mount Arafat,Islamic, Mount, Arafat, mosque,Islamic Locations
+Mina,Islamic, Mina, holy, mosque,Islamic Locations
+Muzdalifah,Islamic, Muzdalifah, holy, mosque,Islamic Locations
+Safa,Islamic, Safa, holy, mosque,Islamic Locations
+Marwa,Islamic, Marwa, holy, mosque,Islamic Locations
+Zamzam,Islamic, Zamzam, holy, mosque,Islamic Locations
+Cave Hira,Islamic, Cave, Hira, mosque,Islamic Locations
+Cave Thawr,Islamic, Cave, Thawr, mosque,Islamic Locations
+Uhud,Islamic, Uhud, holy, mosque,Islamic Locations
+Badr,Islamic, Badr, holy, mosque,Islamic Locations
+Quba,Islamic, Quba, holy, mosque,Islamic Locations
+Jannat al-Baqi,Islamic, Jannat, al-Baqi, mosque,Islamic Locations
+Mount Uhud,Islamic, Mount, Uhud, mosque,Islamic Locations
+Hudaybiyyah,Islamic, Hudaybiyyah, holy, mosque,Islamic Locations
+Taif,Islamic, Taif, holy, mosque,Islamic Locations
+Tabuk,Islamic, Tabuk, holy, mosque,Islamic Locations
+Khaybar,Islamic, Khaybar, holy, mosque,Islamic Locations
+Yemen,Islamic, Yemen, holy, mosque,Islamic Locations
+Damascus,Islamic, Damascus, holy, mosque,Islamic Locations
+Baghdad,Islamic, Baghdad, holy, mosque,Islamic Locations
+Cordoba,Islamic, Cordoba, holy, mosque,Islamic Locations
+Salahuddin,Muslim, Salahuddin, leader, Islamic,Muslim Historical Figures
+Ibn Sina,Muslim, Ibn, Sina, Islamic,Muslim Historical Figures
+Al-Khwarizmi,Muslim, Al-Khwarizmi, leader, Islamic,Muslim Historical Figures
+Ibn Rushd,Muslim, Ibn, Rushd, Islamic,Muslim Historical Figures
+Al-Ghazali,Muslim, Al-Ghazali, leader, Islamic,Muslim Historical Figures
+Rumi,Muslim, Rumi, leader, Islamic,Muslim Historical Figures
+Ibn Battuta,Muslim, Ibn, Battuta, Islamic,Muslim Historical Figures
+Al-Biruni,Muslim, Al-Biruni, leader, Islamic,Muslim Historical Figures
+Ibn Khaldun,Muslim, Ibn, Khaldun, Islamic,Muslim Historical Figures
+Harun al-Rashid,Muslim, Harun, al-Rashid, Islamic,Muslim Historical Figures
+Tariq ibn Ziyad,Muslim, Tariq, ibn, Islamic,Muslim Historical Figures
+Umar ibn Abdul Aziz,Muslim, Umar, ibn, Islamic,Muslim Historical Figures
+Imam Bukhari,Muslim, Imam, Bukhari, Islamic,Muslim Historical Figures
+Imam Muslim,Muslim, Imam, Muslim, Islamic,Muslim Historical Figures
+Imam Abu Hanifa,Muslim, Imam, Abu, Islamic,Muslim Historical Figures
+Imam Malik,Muslim, Imam, Malik, Islamic,Muslim Historical Figures
+Imam Shafi,Muslim, Imam, Shafi, Islamic,Muslim Historical Figures
+Imam Ahmad,Muslim, Imam, Ahmad, Islamic,Muslim Historical Figures
+Al-Farabi,Muslim, Al-Farabi, leader, Islamic,Muslim Historical Figures
+Ibn Taymiyyah,Muslim, Ibn, Taymiyyah, Islamic,Muslim Historical Figures
+Al-Razi,Muslim, Al-Razi, leader, Islamic,Muslim Historical Figures
+Omar Khayyam,Muslim, Omar, Khayyam, Islamic,Muslim Historical Figures
+Fatima al-Fihri,Muslim, Fatima, al-Fihri, Islamic,Muslim Historical Figures
+Nusaybah,Muslim, Nusaybah, leader, Islamic,Muslim Historical Figures
+Sultan Mehmed,Muslim, Sultan, Mehmed, Islamic,Muslim Historical Figures

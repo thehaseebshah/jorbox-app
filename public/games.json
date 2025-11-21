@@ -7,7 +7,7 @@
     },
     {
         "id": "game2",
-        "name": "Medieval Quest",
+        "name": "Charades (Banned Words)",
         "csv": "/data/game2.csv",
         "hasCategories": true
     }
