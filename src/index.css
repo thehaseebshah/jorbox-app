@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Inter:wght@400;600&display=swap');
+
 :root {
   --bg-primary: #0f172a;
   --bg-secondary: #1e293b;
@@ -9,6 +11,7 @@
   --accent-glow: rgba(56, 189, 248, 0.5);
   --border-color: rgba(148, 163, 184, 0.1);
   --font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-heading: 'Outfit', sans-serif;
   --transition-speed: 0.3s;
 }
 

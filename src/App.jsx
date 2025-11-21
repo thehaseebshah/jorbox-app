@@ -74,11 +74,28 @@ function App() {
           border: '1px solid var(--border-color)'
         }}>
           <Layers size={32} color="var(--accent-primary)" />
-          <h1 style={{ fontSize: '2rem', fontWeight: '800', letterSpacing: '-1px' }}>
-            Card Companion
+          <h1 style={{
+            fontSize: '2rem',
+            fontWeight: '800',
+            letterSpacing: '-0.5px',
+            fontFamily: 'var(--font-heading)',
+            background: 'linear-gradient(to right, #fff, var(--accent-primary))',
+            WebkitBackgroundClip: 'text',
+            WebkitTextFillColor: 'transparent'
+          }}>
+            Al Burhan JorBox
           </h1>
         </div>
-        <p style={{ color: 'var(--text-secondary)' }}>Select a game to view its cards</p>
+        <p style={{
+          color: 'var(--text-secondary)',
+          fontFamily: 'var(--font-heading)',
+          fontSize: '1.1rem',
+          fontWeight: '300',
+          letterSpacing: '1px',
+          textTransform: 'uppercase'
+        }}>
+          Companion App
+        </p>
       </header>
 
       <main>
