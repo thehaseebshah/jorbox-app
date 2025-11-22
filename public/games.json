@@ -28,5 +28,11 @@
         "name": "Categories Game",
         "csv": "/data/game6.csv",
         "hasCategories": true
+    },
+    {
+        "id": "game7",
+        "name": "Nokri (A copy of Funemployed)",
+        "csv": "/data/game7.csv",
+        "hasCategories": true
     }
 ]
