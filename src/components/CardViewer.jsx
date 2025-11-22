@@ -1,37 +1,33 @@
 import React, { useState, useEffect } from 'react';
-import { ChevronLeft, ChevronRight } from 'lucide-react';
+import { ChevronRight } from 'lucide-react';
 
 const CardViewer = ({ cards }) => {
+    const [shuffledCards, setShuffledCards] = useState([]);
     const [currentIndex, setCurrentIndex] = useState(0);
     const [isAnimating, setIsAnimating] = useState(false);
 
-    // Reset index when cards change
+    // Shuffle cards when they change
     useEffect(() => {
-        setCurrentIndex(0);
+        if (cards && cards.length > 0) {
+            const shuffled = [...cards].sort(() => Math.random() - 0.5);
+            setShuffledCards(shuffled);
+            setCurrentIndex(0);
+        }
     }, [cards]);
 
-    if (!cards || cards.length === 0) {
+    if (!shuffledCards || shuffledCards.length === 0) {
         return <div style={{ textAlign: 'center', padding: '2rem' }}>No cards available.</div>;
     }
 
-    const currentCard = cards[currentIndex];
+    const currentCard = shuffledCards[currentIndex];
 
     const handleNext = () => {
         if (isAnimating) return;
         setIsAnimating(true);
         setTimeout(() => {
-            setCurrentIndex((prev) => (prev + 1) % cards.length);
+            setCurrentIndex((prev) => (prev + 1) % shuffledCards.length);
             setIsAnimating(false);
         }, 300); // Match transition duration
-    };
-
-    const handlePrev = () => {
-        if (isAnimating) return;
-        setIsAnimating(true);
-        setTimeout(() => {
-            setCurrentIndex((prev) => (prev - 1 + cards.length) % cards.length);
-            setIsAnimating(false);
-        }, 300);
     };
 
     return (
@@ -91,16 +87,13 @@ const CardViewer = ({ cards }) => {
                     fontSize: '0.8rem',
                     color: 'var(--text-secondary)'
                 }}>
-                    {currentIndex + 1} / {cards.length}
+                    {currentIndex + 1} / {shuffledCards.length}
                 </div>
             </div>
 
-            <div className="controls" style={{ display: 'flex', justifyContent: 'space-between', marginTop: '2rem' }}>
-                <button onClick={handlePrev} className="btn-secondary" style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-                    <ChevronLeft size={20} /> Previous
-                </button>
-                <button onClick={handleNext} className="btn-primary" style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
-                    Next <ChevronRight size={20} />
+            <div className="controls" style={{ display: 'flex', justifyContent: 'center', marginTop: '2rem' }}>
+                <button onClick={handleNext} className="btn-primary" style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', fontSize: '1.1rem', padding: '14px 32px' }}>
+                    Next <ChevronRight size={24} />
                 </button>
             </div>
         </div>
