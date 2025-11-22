@@ -10,5 +10,11 @@
         "name": "Charades (Banned Words)",
         "csv": "/data/game2.csv",
         "hasCategories": true
+    },
+    {
+        "id": "game4",
+        "name": "Kuch bhi Kaho (Say Anything)",
+        "csv": "/data/game4.csv",
+        "hasCategories": true
     }
 ]
