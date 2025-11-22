@@ -34,5 +34,11 @@
         "name": "Nokri",
         "csv": "/data/game7.csv",
         "hasCategories": true
+    },
+    {
+        "id": "game8",
+        "name": "Lagao Tukey",
+        "csv": "/data/game8.csv",
+        "hasCategories": true
     }
 ]
