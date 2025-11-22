@@ -46,5 +46,11 @@
         "name": "Lagao Tukey",
         "csv": "/data/game8.csv",
         "hasCategories": true
+    },
+    {
+        "id": "game9",
+        "name": "Trivia",
+        "csv": "/data/game9.csv",
+        "hasCategories": false
     }
 ]
