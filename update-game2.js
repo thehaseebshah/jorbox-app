@@ -75,7 +75,8 @@ function generateBannedWords(name, originalDescription, category) {
         }
     }
 
-    return bannedWords.slice(0, 4).join(', ');
+    // Use pipe separator instead of comma to avoid CSV parsing issues
+    return bannedWords.slice(0, 4).join(' | ');
 }
 
 // Process the file
@@ -111,4 +112,4 @@ for (let i = 0; i < lines.length; i++) {
 // Write back to game2.csv
 fs.writeFileSync(game2Path, output.join('\n'));
 
-console.log(`Updated ${output.length - 1} entries in game2.csv with banned words`);
+console.log(`Updated ${output.length - 1} entries in game2.csv with banned words (pipe-separated)`);

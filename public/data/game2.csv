@@ -1,759 +1,759 @@
 Name,Description,Category
-Karachi,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Lahore,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Islamabad,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Rawalpindi,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Faisalabad,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Multan,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Peshawar,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Quetta,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Sialkot,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Gujranwala,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Hyderabad,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Abbottabad,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Murree,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Sukkur,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Bahawalpur,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Sargodha,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Gujarat,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Larkana,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Sheikhupura,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Jhelum,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Mardan,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Kasur,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Rahim Yar Khan,Rahim, city, Pakistan, Sindh,Pakistani Cities
-Sahiwal,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Okara,city, Pakistan, Sindh, Punjab,Pakistani Cities
-Biryani,food, rice, meat, curry,Traditional Dishes
-Pulao,food, rice, meat, curry,Traditional Dishes
-Nihari,food, rice, meat, curry,Traditional Dishes
-Haleem,food, rice, meat, curry,Traditional Dishes
-Karahi,food, rice, meat, curry,Traditional Dishes
-Korma,food, rice, meat, curry,Traditional Dishes
-Sajji,food, rice, meat, curry,Traditional Dishes
-Chapli Kabab,Chapli, food, rice, meat,Traditional Dishes
-Seekh Kabab,Seekh, food, rice, meat,Traditional Dishes
-Paye,food, rice, meat, curry,Traditional Dishes
-Halwa Puri,Halwa, food, rice, meat,Traditional Dishes
-Saag,food, rice, meat, curry,Traditional Dishes
-Makki Ki Roti,Makki, food, rice, meat,Traditional Dishes
-Daal Chawal,Daal, food, rice, meat,Traditional Dishes
-Aloo Gosht,Aloo, food, rice, meat,Traditional Dishes
-Koftay,food, rice, meat, curry,Traditional Dishes
-Katakat,food, rice, meat, curry,Traditional Dishes
-Chargha,food, rice, meat, curry,Traditional Dishes
-Tikka,food, rice, meat, curry,Traditional Dishes
-Malai Boti,Malai, food, rice, meat,Traditional Dishes
-Reshmi Kabab,Reshmi, food, rice, meat,Traditional Dishes
-Gola Kabab,Gola, food, rice, meat,Traditional Dishes
-Bihari Kabab,Bihari, food, rice, meat,Traditional Dishes
-Kunna,food, rice, meat, curry,Traditional Dishes
-Bong Paye,Bong, food, rice, meat,Traditional Dishes
-Salt,spice, powder, flavor, cooking,Spices
-Pepper,spice, powder, flavor, cooking,Spices
-Turmeric,spice, powder, flavor, cooking,Spices
-Chili,spice, powder, flavor, cooking,Spices
-Cumin,spice, powder, flavor, cooking,Spices
-Coriander,spice, powder, flavor, cooking,Spices
-Cardamom,spice, powder, flavor, cooking,Spices
-Cinnamon,spice, powder, flavor, cooking,Spices
-Clove,spice, powder, flavor, cooking,Spices
-Nutmeg,spice, powder, flavor, cooking,Spices
-Saffron,spice, powder, flavor, cooking,Spices
-Ginger,spice, powder, flavor, cooking,Spices
-Garlic,spice, powder, flavor, cooking,Spices
-Anise,spice, powder, flavor, cooking,Spices
-Fenugreek,spice, powder, flavor, cooking,Spices
-Mustard Seeds,Mustard, spice, powder, flavor,Spices
-Poppy Seeds,Poppy, spice, powder, flavor,Spices
-Sesame,spice, powder, flavor, cooking,Spices
-Bay Leaf,Bay, spice, powder, flavor,Spices
-Black Salt,Black, spice, powder, flavor,Spices
-Chaat Masala,Chaat, spice, powder, flavor,Spices
-Garam Masala,Garam, spice, powder, flavor,Spices
-Tamarind,spice, powder, flavor, cooking,Spices
-Mint,spice, powder, flavor, cooking,Spices
-Basil,spice, powder, flavor, cooking,Spices
-Mango,fruit, sweet, juice, tree,Fruits
-Apple,fruit, sweet, juice, tree,Fruits
-Banana,fruit, sweet, juice, tree,Fruits
-Orange,fruit, sweet, juice, tree,Fruits
-Grapes,fruit, sweet, juice, tree,Fruits
-Pomegranate,fruit, sweet, juice, tree,Fruits
-Guava,fruit, sweet, juice, tree,Fruits
-Watermelon,fruit, sweet, juice, tree,Fruits
-Melon,fruit, sweet, juice, tree,Fruits
-Apricot,fruit, sweet, juice, tree,Fruits
-Peach,fruit, sweet, juice, tree,Fruits
-Plum,fruit, sweet, juice, tree,Fruits
-Pear,fruit, sweet, juice, tree,Fruits
-Strawberry,fruit, sweet, juice, tree,Fruits
-Cherry,fruit, sweet, juice, tree,Fruits
-Lychee,fruit, sweet, juice, tree,Fruits
-Papaya,fruit, sweet, juice, tree,Fruits
-Pineapple,fruit, sweet, juice, tree,Fruits
-Coconut,fruit, sweet, juice, tree,Fruits
-Date,fruit, sweet, juice, tree,Fruits
-Fig,fruit, sweet, juice, tree,Fruits
-Mulberry,fruit, sweet, juice, tree,Fruits
-Kinnow,fruit, sweet, juice, tree,Fruits
-Falsa,fruit, sweet, juice, tree,Fruits
-Jamun,fruit, sweet, juice, tree,Fruits
-Potato,vegetable, green, salad, cook,Vegetables
-Onion,vegetable, green, salad, cook,Vegetables
-Tomato,vegetable, green, salad, cook,Vegetables
-Garlic,vegetable, green, salad, cook,Vegetables
-Ginger,vegetable, green, salad, cook,Vegetables
-Spinach,vegetable, green, salad, cook,Vegetables
-Cauliflower,vegetable, green, salad, cook,Vegetables
-Cabbage,vegetable, green, salad, cook,Vegetables
-Carrot,vegetable, green, salad, cook,Vegetables
-Radish,vegetable, green, salad, cook,Vegetables
-Turnip,vegetable, green, salad, cook,Vegetables
-Peas,vegetable, green, salad, cook,Vegetables
-Okra,vegetable, green, salad, cook,Vegetables
-Eggplant,vegetable, green, salad, cook,Vegetables
-Cucumber,vegetable, green, salad, cook,Vegetables
-Zucchini,vegetable, green, salad, cook,Vegetables
-Pumpkin,vegetable, green, salad, cook,Vegetables
-Bitter Gourd,Bitter, vegetable, green, salad,Vegetables
-Bottle Gourd,Bottle, vegetable, green, salad,Vegetables
-Capsicum,vegetable, green, salad, cook,Vegetables
-Chili,vegetable, green, salad, cook,Vegetables
-Coriander,vegetable, green, salad, cook,Vegetables
-Mint,vegetable, green, salad, cook,Vegetables
-Lemon,vegetable, green, salad, cook,Vegetables
-Beetroot,vegetable, green, salad, cook,Vegetables
-Shalwar,wear, dress, traditional, cloth,Clothing
-Kameez,wear, dress, traditional, cloth,Clothing
-Kurta,wear, dress, traditional, cloth,Clothing
-Dupatta,wear, dress, traditional, cloth,Clothing
-Sari,wear, dress, traditional, cloth,Clothing
-Lehnga,wear, dress, traditional, cloth,Clothing
-Sherwani,wear, dress, traditional, cloth,Clothing
-Waistcoat,wear, dress, traditional, cloth,Clothing
-Turban,wear, dress, traditional, cloth,Clothing
-Scarf,wear, dress, traditional, cloth,Clothing
-Shawl,wear, dress, traditional, cloth,Clothing
-Ajrak,wear, dress, traditional, cloth,Clothing
-Topi,wear, dress, traditional, cloth,Clothing
-Vest,wear, dress, traditional, cloth,Clothing
-Jacket,wear, dress, traditional, cloth,Clothing
-Coat,wear, dress, traditional, cloth,Clothing
-Sweater,wear, dress, traditional, cloth,Clothing
-Socks,wear, dress, traditional, cloth,Clothing
-Gloves,wear, dress, traditional, cloth,Clothing
-Tie,wear, dress, traditional, cloth,Clothing
-Belt,wear, dress, traditional, cloth,Clothing
-Trousers,wear, dress, traditional, cloth,Clothing
-Jeans,wear, dress, traditional, cloth,Clothing
-Shirt,wear, dress, traditional, cloth,Clothing
-Frock,wear, dress, traditional, cloth,Clothing
-Chair,furniture, wood, sit, home,Furniture
-Table,furniture, wood, sit, home,Furniture
-Sofa,furniture, wood, sit, home,Furniture
-Bed,furniture, wood, sit, home,Furniture
-Cupboard,furniture, wood, sit, home,Furniture
-Wardrobe,furniture, wood, sit, home,Furniture
-Cabinet,furniture, wood, sit, home,Furniture
-Desk,furniture, wood, sit, home,Furniture
-Stool,furniture, wood, sit, home,Furniture
-Bench,furniture, wood, sit, home,Furniture
-Bookshelf,furniture, wood, sit, home,Furniture
-Dresser,furniture, wood, sit, home,Furniture
-Mirror,furniture, wood, sit, home,Furniture
-Lamp,furniture, wood, sit, home,Furniture
-Rug,furniture, wood, sit, home,Furniture
-Carpet,furniture, wood, sit, home,Furniture
-Curtain,furniture, wood, sit, home,Furniture
-Mattress,furniture, wood, sit, home,Furniture
-Pillow,furniture, wood, sit, home,Furniture
-Cushion,furniture, wood, sit, home,Furniture
-Blanket,furniture, wood, sit, home,Furniture
-Sheet,furniture, wood, sit, home,Furniture
-Cot,furniture, wood, sit, home,Furniture
-Cradle,furniture, wood, sit, home,Furniture
-Recliner,furniture, wood, sit, home,Furniture
-Spoon,kitchen, cook, metal, utensil,Kitchen Items
-Fork,kitchen, cook, metal, utensil,Kitchen Items
-Knife,kitchen, cook, metal, utensil,Kitchen Items
-Plate,kitchen, cook, metal, utensil,Kitchen Items
-Bowl,kitchen, cook, metal, utensil,Kitchen Items
-Glass,kitchen, cook, metal, utensil,Kitchen Items
-Cup,kitchen, cook, metal, utensil,Kitchen Items
-Mug,kitchen, cook, metal, utensil,Kitchen Items
-Jug,kitchen, cook, metal, utensil,Kitchen Items
-Teapot,kitchen, cook, metal, utensil,Kitchen Items
-Pan,kitchen, cook, metal, utensil,Kitchen Items
-Pot,kitchen, cook, metal, utensil,Kitchen Items
-Cooker,kitchen, metal, utensil, similar,Kitchen Items
-Tawa,kitchen, cook, metal, utensil,Kitchen Items
-Rolling Pin,Rolling, kitchen, cook, metal,Kitchen Items
-Grater,kitchen, cook, metal, utensil,Kitchen Items
-Peeler,kitchen, cook, metal, utensil,Kitchen Items
-Strainer,kitchen, cook, metal, utensil,Kitchen Items
-Sieve,kitchen, cook, metal, utensil,Kitchen Items
-Tongs,kitchen, cook, metal, utensil,Kitchen Items
-Ladle,kitchen, cook, metal, utensil,Kitchen Items
-Tray,kitchen, cook, metal, utensil,Kitchen Items
-Bottle,kitchen, cook, metal, utensil,Kitchen Items
-Jar,kitchen, cook, metal, utensil,Kitchen Items
-Container,kitchen, cook, metal, utensil,Kitchen Items
-Lion,animal, wild, mammal, zoo,Animals
-Tiger,animal, wild, mammal, zoo,Animals
-Elephant,animal, wild, mammal, zoo,Animals
-Horse,animal, wild, mammal, zoo,Animals
-Dog,animal, wild, mammal, zoo,Animals
-Cat,animal, wild, mammal, zoo,Animals
-Cow,animal, wild, mammal, zoo,Animals
-Buffalo,animal, wild, mammal, zoo,Animals
-Goat,animal, wild, mammal, zoo,Animals
-Sheep,animal, wild, mammal, zoo,Animals
-Camel,animal, wild, mammal, zoo,Animals
-Donkey,animal, wild, mammal, zoo,Animals
-Monkey,animal, wild, mammal, zoo,Animals
-Bear,animal, wild, mammal, zoo,Animals
-Deer,animal, wild, mammal, zoo,Animals
-Rabbit,animal, wild, mammal, zoo,Animals
-Fox,animal, wild, mammal, zoo,Animals
-Wolf,animal, wild, mammal, zoo,Animals
-Snake,animal, wild, mammal, zoo,Animals
-Crocodile,animal, wild, mammal, zoo,Animals
-Turtle,animal, wild, mammal, zoo,Animals
-Frog,animal, wild, mammal, zoo,Animals
-Mouse,animal, wild, mammal, zoo,Animals
-Rat,animal, wild, mammal, zoo,Animals
-Squirrel,animal, wild, mammal, zoo,Animals
-Eagle,bird, fly, feather, nest,Birds
-Sparrow,bird, fly, feather, nest,Birds
-Pigeon,bird, fly, feather, nest,Birds
-Parrot,bird, fly, feather, nest,Birds
-Crow,bird, fly, feather, nest,Birds
-Peacock,bird, fly, feather, nest,Birds
-Hen,bird, fly, feather, nest,Birds
-Rooster,bird, fly, feather, nest,Birds
-Duck,bird, fly, feather, nest,Birds
-Swan,bird, fly, feather, nest,Birds
-Owl,bird, fly, feather, nest,Birds
-Hawk,bird, fly, feather, nest,Birds
-Kite,bird, fly, feather, nest,Birds
-Vulture,bird, fly, feather, nest,Birds
-Ostrich,bird, fly, feather, nest,Birds
-Penguin,bird, fly, feather, nest,Birds
-Flamingo,bird, fly, feather, nest,Birds
-Woodpecker,bird, fly, feather, nest,Birds
-Kingfisher,bird, fly, feather, nest,Birds
-Cuckoo,bird, fly, feather, nest,Birds
-Dove,bird, fly, feather, nest,Birds
-Myna,bird, fly, feather, nest,Birds
-Bulbul,bird, fly, feather, nest,Birds
-Chakor,bird, fly, feather, nest,Birds
-Partridge,bird, fly, feather, nest,Birds
-Cricket,sport, game, ball, player,Sports
-Hockey,sport, game, ball, player,Sports
-Football,sport, game, player, similar,Sports
-Tennis,sport, game, ball, player,Sports
-Squash,sport, game, ball, player,Sports
-Badminton,sport, game, ball, player,Sports
-Boxing,sport, game, ball, player,Sports
-Wrestling,sport, game, ball, player,Sports
-Kabaddi,sport, game, ball, player,Sports
-Polo,sport, game, ball, player,Sports
-Golf,sport, game, ball, player,Sports
-Swimming,sport, game, ball, player,Sports
-Running,sport, game, ball, player,Sports
-Cycling,sport, game, ball, player,Sports
-Volleyball,sport, game, player, similar,Sports
-Basketball,sport, game, player, similar,Sports
-Snooker,sport, game, ball, player,Sports
-Table Tennis,Table, sport, game, ball,Sports
-Archery,sport, game, ball, player,Sports
-Shooting,sport, game, ball, player,Sports
-Skiing,sport, game, ball, player,Sports
-Skating,sport, game, ball, player,Sports
-Karate,sport, game, ball, player,Sports
-Judo,sport, game, ball, player,Sports
-Gymnastics,sport, game, ball, player,Sports
-Badshahi Mosque,Badshahi, historic, old, monument,Historical Places
-Minar-e-Pakistan,Minar, historic, old, monument,Historical Places
-Faisal Mosque,Faisal, historic, old, monument,Historical Places
-Lahore Fort,Lahore, historic, old, monument,Historical Places
-Shalimar Gardens,Shalimar, historic, old, monument,Historical Places
-Rohtas Fort,Rohtas, historic, old, monument,Historical Places
-Mohenjo-daro,Mohenjo, historic, old, monument,Historical Places
-Harappa,historic, old, monument, ancient,Historical Places
-Taxila,historic, old, monument, ancient,Historical Places
-Hiran Minar,Hiran, historic, old, monument,Historical Places
-Katas Raj,Katas, historic, old, monument,Historical Places
-Derawar Fort,Derawar, historic, old, monument,Historical Places
-Ranikot Fort,Ranikot, historic, old, monument,Historical Places
-Baltit Fort,Baltit, historic, old, monument,Historical Places
-Altit Fort,Altit, historic, old, monument,Historical Places
-Noor Mahal,Noor, historic, old, monument,Historical Places
-Wazir Khan Mosque,Wazir, historic, old, monument,Historical Places
-Tomb of Jahangir,Tomb, historic, old, monument,Historical Places
-Tomb of Jinnah,Tomb, historic, old, monument,Historical Places
-Ziarat Residency,Ziarat, historic, old, monument,Historical Places
-Khyber Pass,Khyber, historic, old, monument,Historical Places
-Clifton Fort,Clifton, historic, old, monument,Historical Places
-Frere Hall,Frere, historic, old, monument,Historical Places
-Mohatta Palace,Mohatta, historic, old, monument,Historical Places
-Shahi Qila,Shahi, historic, old, monument,Historical Places
-Doctor,job, work, professional, career,Occupations
-Engineer,job, work, professional, career,Occupations
-Teacher,job, work, professional, career,Occupations
-Pilot,job, work, professional, career,Occupations
-Soldier,job, work, professional, career,Occupations
-Police,job, work, professional, career,Occupations
-Lawyer,job, work, professional, career,Occupations
-Judge,job, work, professional, career,Occupations
-Chef,job, work, professional, career,Occupations
-Farmer,job, work, professional, career,Occupations
-Driver,job, work, professional, career,Occupations
-Tailor,job, work, professional, career,Occupations
-Barber,job, work, professional, career,Occupations
-Carpenter,job, work, professional, career,Occupations
-Plumber,job, work, professional, career,Occupations
-Electrician,job, work, professional, career,Occupations
-Mechanic,job, work, professional, career,Occupations
-Painter,job, work, professional, career,Occupations
-Writer,job, work, professional, career,Occupations
-Artist,job, work, professional, career,Occupations
-Singer,job, work, professional, career,Occupations
-Actor,job, work, professional, career,Occupations
-Banker,job, work, professional, career,Occupations
-Accountant,job, work, professional, career,Occupations
-Scientist,job, work, professional, career,Occupations
-Car,vehicle, ride, wheels, travel,Transport
-Bus,vehicle, ride, wheels, travel,Transport
-Truck,vehicle, ride, wheels, travel,Transport
-Bike,vehicle, ride, wheels, travel,Transport
-Cycle,vehicle, ride, wheels, travel,Transport
-Rickshaw,vehicle, ride, wheels, travel,Transport
-Chingchi,vehicle, ride, wheels, travel,Transport
-Train,vehicle, ride, wheels, travel,Transport
-Airplane,vehicle, ride, wheels, travel,Transport
-Boat,vehicle, ride, wheels, travel,Transport
-Ship,vehicle, ride, wheels, travel,Transport
-Van,vehicle, ride, wheels, travel,Transport
-Taxi,vehicle, ride, wheels, travel,Transport
-Scooter,vehicle, ride, wheels, travel,Transport
-Tractor,vehicle, ride, wheels, travel,Transport
-Trolley,vehicle, ride, wheels, travel,Transport
-Ambulance,vehicle, ride, wheels, travel,Transport
-Fire Truck,Fire, vehicle, ride, wheels,Transport
-Police Car,Police, vehicle, ride, wheels,Transport
-Jeep,vehicle, ride, wheels, travel,Transport
-Helicopter,vehicle, ride, wheels, travel,Transport
-Rocket,vehicle, ride, wheels, travel,Transport
-Metro Bus,Metro, vehicle, ride, wheels,Transport
-Orange Line,Orange, vehicle, ride, wheels,Transport
-Tongas,vehicle, ride, wheels, travel,Transport
-Pen,paper, write, school, office,Stationery
-Pencil,paper, write, school, office,Stationery
-Eraser,paper, write, school, office,Stationery
-Sharpener,paper, write, school, office,Stationery
-Ruler,paper, write, school, office,Stationery
-Notebook,paper, write, school, office,Stationery
-Paper,write, school, office, similar,Stationery
-Glue,paper, write, school, office,Stationery
-Scissors,paper, write, school, office,Stationery
-Marker,paper, write, school, office,Stationery
-Highlighter,paper, write, school, office,Stationery
-Stapler,paper, write, school, office,Stationery
-Pin,paper, write, school, office,Stationery
-Clip,paper, write, school, office,Stationery
-Tape,paper, write, school, office,Stationery
-Calculator,paper, write, school, office,Stationery
-Compass,paper, write, school, office,Stationery
-Protractor,paper, write, school, office,Stationery
-File,paper, write, school, office,Stationery
-Folder,paper, write, school, office,Stationery
-Envelope,paper, write, school, office,Stationery
-Diary,paper, write, school, office,Stationery
-Chart,paper, write, school, office,Stationery
-Card,paper, write, school, office,Stationery
-Ink,paper, write, school, office,Stationery
-Red,color, paint, bright, shade,Colors
-Blue,color, paint, bright, shade,Colors
-Green,color, paint, bright, shade,Colors
-Yellow,color, paint, bright, shade,Colors
-Orange,color, paint, bright, shade,Colors
-Purple,color, paint, bright, shade,Colors
-Pink,color, paint, bright, shade,Colors
-Black,color, paint, bright, shade,Colors
-White,color, paint, bright, shade,Colors
-Grey,color, paint, bright, shade,Colors
-Brown,color, paint, bright, shade,Colors
-Maroon,color, paint, bright, shade,Colors
-Turquoise,color, paint, bright, shade,Colors
-Gold,color, paint, bright, shade,Colors
-Silver,color, paint, bright, shade,Colors
-Beige,color, paint, bright, shade,Colors
-Cream,color, paint, bright, shade,Colors
-Indigo,color, paint, bright, shade,Colors
-Violet,color, paint, bright, shade,Colors
-Magenta,color, paint, bright, shade,Colors
-Cyan,color, paint, bright, shade,Colors
-Teal,color, paint, bright, shade,Colors
-Olive,color, paint, bright, shade,Colors
-Navy,color, paint, bright, shade,Colors
-Peach,color, paint, bright, shade,Colors
-Head,body, human, anatomy, organ,Body Parts
-Eye,body, human, anatomy, organ,Body Parts
-Ear,body, human, anatomy, organ,Body Parts
-Nose,body, human, anatomy, organ,Body Parts
-Mouth,body, human, anatomy, organ,Body Parts
-Hand,body, human, anatomy, organ,Body Parts
-Foot,body, human, anatomy, organ,Body Parts
-Leg,body, human, anatomy, organ,Body Parts
-Arm,body, human, anatomy, organ,Body Parts
-Finger,body, human, anatomy, organ,Body Parts
-Thumb,body, human, anatomy, organ,Body Parts
-Knee,body, human, anatomy, organ,Body Parts
-Elbow,body, human, anatomy, organ,Body Parts
-Shoulder,body, human, anatomy, organ,Body Parts
-Neck,body, human, anatomy, organ,Body Parts
-Hair,body, human, anatomy, organ,Body Parts
-Tooth,body, human, anatomy, organ,Body Parts
-Tongue,body, human, anatomy, organ,Body Parts
-Lip,body, human, anatomy, organ,Body Parts
-Chin,body, human, anatomy, organ,Body Parts
-Cheek,body, human, anatomy, organ,Body Parts
-Forehead,body, human, anatomy, organ,Body Parts
-Stomach,body, human, anatomy, organ,Body Parts
-Back,body, human, anatomy, organ,Body Parts
-Chest,body, human, anatomy, organ,Body Parts
-Ring,gold, wear, shiny, precious,Jewelry
-Necklace,gold, wear, shiny, precious,Jewelry
-Bangle,gold, wear, shiny, precious,Jewelry
-Earring,gold, wear, shiny, precious,Jewelry
-Nose Pin,Nose, gold, wear, shiny,Jewelry
-Anklet,gold, wear, shiny, precious,Jewelry
-Bracelet,gold, wear, shiny, precious,Jewelry
-Chain,gold, wear, shiny, precious,Jewelry
-Locket,gold, wear, shiny, precious,Jewelry
-Tiara,gold, wear, shiny, precious,Jewelry
-Crown,gold, wear, shiny, precious,Jewelry
-Diamond,gold, wear, shiny, precious,Jewelry
-Gold,wear, shiny, precious, similar,Jewelry
-Silver,gold, wear, shiny, precious,Jewelry
-Pearl,gold, wear, shiny, precious,Jewelry
-Ruby,gold, wear, shiny, precious,Jewelry
-Emerald,gold, wear, shiny, precious,Jewelry
-Sapphire,gold, wear, shiny, precious,Jewelry
-Choker,gold, wear, shiny, precious,Jewelry
-Jhumka,gold, wear, shiny, precious,Jewelry
-Matha Patti,Matha, gold, wear, shiny,Jewelry
-Brooch,gold, wear, shiny, precious,Jewelry
-Pendant,gold, wear, shiny, precious,Jewelry
-Stud,gold, wear, shiny, precious,Jewelry
-Hoop,gold, wear, shiny, precious,Jewelry
-Sun,natural, outdoor, earth, sky,Nature
-Moon,natural, outdoor, earth, sky,Nature
-Star,natural, outdoor, earth, sky,Nature
-Sky,natural, outdoor, earth, similar,Nature
-Cloud,natural, outdoor, earth, sky,Nature
-Rain,natural, outdoor, earth, sky,Nature
-Snow,natural, outdoor, earth, sky,Nature
-Wind,natural, outdoor, earth, sky,Nature
-Storm,natural, outdoor, earth, sky,Nature
-River,natural, outdoor, earth, sky,Nature
-Sea,natural, outdoor, earth, sky,Nature
-Ocean,natural, outdoor, earth, sky,Nature
-Lake,natural, outdoor, earth, sky,Nature
-Pond,natural, outdoor, earth, sky,Nature
-Mountain,natural, outdoor, earth, sky,Nature
-Hill,natural, outdoor, earth, sky,Nature
-Valley,natural, outdoor, earth, sky,Nature
-Forest,natural, outdoor, earth, sky,Nature
-Tree,natural, outdoor, earth, sky,Nature
-Flower,natural, outdoor, earth, sky,Nature
-Grass,natural, outdoor, earth, sky,Nature
-Leaf,natural, outdoor, earth, sky,Nature
-Sand,natural, outdoor, earth, sky,Nature
-Rock,natural, outdoor, earth, sky,Nature
-Stone,natural, outdoor, earth, sky,Nature
-TV,electric, device, screen, battery,Electronics
-Radio,electric, device, screen, battery,Electronics
-Computer,electric, device, screen, battery,Electronics
-Laptop,electric, device, screen, battery,Electronics
-Mobile,electric, device, screen, battery,Electronics
-Tablet,electric, device, screen, battery,Electronics
-Camera,electric, device, screen, battery,Electronics
-Speaker,electric, device, screen, battery,Electronics
-Headphone,electric, device, screen, battery,Electronics
-Mouse,electric, device, screen, battery,Electronics
-Keyboard,electric, device, screen, battery,Electronics
-Printer,electric, device, screen, battery,Electronics
-Scanner,electric, device, screen, battery,Electronics
-Fan,electric, device, screen, battery,Electronics
-AC,electric, device, screen, battery,Electronics
-Heater,electric, device, screen, battery,Electronics
-Fridge,electric, device, screen, battery,Electronics
-Oven,electric, device, screen, battery,Electronics
-Microwave,electric, device, screen, battery,Electronics
-Iron,electric, device, screen, battery,Electronics
-Blender,electric, device, screen, battery,Electronics
-Toaster,electric, device, screen, battery,Electronics
-Juicer,electric, device, screen, battery,Electronics
-Watch,electric, device, screen, battery,Electronics
-Clock,electric, device, screen, battery,Electronics
-Hammer,tool, metal, work, fix,Tools
-Nail,tool, metal, work, fix,Tools
-Screw,tool, metal, work, fix,Tools
-Screwdriver,tool, metal, work, fix,Tools
-Wrench,tool, metal, work, fix,Tools
-Plier,tool, metal, work, fix,Tools
-Saw,tool, metal, work, fix,Tools
-Drill,tool, metal, work, fix,Tools
-Axe,tool, metal, work, fix,Tools
-Shovel,tool, metal, work, fix,Tools
-Spade,tool, metal, work, fix,Tools
-Rake,tool, metal, work, fix,Tools
-Hoe,tool, metal, work, fix,Tools
-Ladder,tool, metal, work, fix,Tools
-Tape Measure,Tape, tool, metal, work,Tools
-Level,tool, metal, work, fix,Tools
-Chisel,tool, metal, work, fix,Tools
-File,tool, metal, work, fix,Tools
-Clamp,tool, metal, work, fix,Tools
-Vice,tool, metal, work, fix,Tools
-Cutter,tool, metal, work, fix,Tools
-Scissor,tool, metal, work, fix,Tools
-Knife,tool, metal, work, fix,Tools
-Torch,tool, metal, work, fix,Tools
-Brush,tool, metal, work, fix,Tools
-Cotton,cloth, material, soft, weave,Fabrics
-Silk,cloth, material, soft, weave,Fabrics
-Wool,cloth, material, soft, weave,Fabrics
-Lawn,cloth, material, soft, weave,Fabrics
-Linen,cloth, material, soft, weave,Fabrics
-Khaddar,cloth, material, soft, weave,Fabrics
-Velvet,cloth, material, soft, weave,Fabrics
-Chiffon,cloth, material, soft, weave,Fabrics
-Georgette,cloth, material, soft, weave,Fabrics
-Denim,cloth, material, soft, weave,Fabrics
-Leather,cloth, material, soft, weave,Fabrics
-Polyester,cloth, material, soft, weave,Fabrics
-Rayon,cloth, material, soft, weave,Fabrics
-Satin,cloth, material, soft, weave,Fabrics
-Net,cloth, material, soft, weave,Fabrics
-Banarasi,cloth, material, soft, weave,Fabrics
-Jamawar,cloth, material, soft, weave,Fabrics
-Organza,cloth, material, soft, weave,Fabrics
-Pashmina,cloth, material, soft, weave,Fabrics
-Jute,cloth, material, soft, weave,Fabrics
-Nylon,cloth, material, soft, weave,Fabrics
-Spandex,cloth, material, soft, weave,Fabrics
-Fleece,cloth, material, soft, weave,Fabrics
-Corduroy,cloth, material, soft, weave,Fabrics
-Canvas,cloth, material, soft, weave,Fabrics
-Water,drink, liquid, cup, hot,Beverages
-Milk,drink, liquid, cup, hot,Beverages
-Tea,drink, liquid, cup, hot,Beverages
-Coffee,drink, liquid, cup, hot,Beverages
-Juice,drink, liquid, cup, hot,Beverages
-Soda,drink, liquid, cup, hot,Beverages
-Lassi,drink, liquid, cup, hot,Beverages
-Shake,drink, liquid, cup, hot,Beverages
-Smoothie,drink, liquid, cup, hot,Beverages
-Lemonade,drink, liquid, cup, hot,Beverages
-Squash,drink, liquid, cup, hot,Beverages
-Sherbet,drink, liquid, cup, hot,Beverages
-Rooh Afza,Rooh, drink, liquid, cup,Beverages
-Kanji,drink, liquid, cup, hot,Beverages
-Sattu,drink, liquid, cup, hot,Beverages
-Buttermilk,drink, liquid, cup, hot,Beverages
-Green Tea,Green, drink, liquid, cup,Beverages
-Kashmiri Chai,Kashmiri, drink, liquid, cup,Beverages
-Doodh Soda,Doodh, drink, liquid, cup,Beverages
-Cold Drink,Cold, liquid, cup, hot,Beverages
-Energy Drink,Energy, liquid, cup, hot,Beverages
-Soup,drink, liquid, cup, hot,Beverages
-Broth,drink, liquid, cup, hot,Beverages
-Cider,drink, liquid, cup, hot,Beverages
-Cocoa,drink, liquid, cup, hot,Beverages
-Gulab Jamun,Gulab, sweet, sugar, eat,Desserts
-Barfi,sweet, sugar, eat, delicious,Desserts
-Jalebi,sweet, sugar, eat, delicious,Desserts
-Laddu,sweet, sugar, eat, delicious,Desserts
-Halwa,sweet, sugar, eat, delicious,Desserts
-Kheer,sweet, sugar, eat, delicious,Desserts
-Custard,sweet, sugar, eat, delicious,Desserts
-Cake,sweet, sugar, eat, delicious,Desserts
-Pastry,sweet, sugar, eat, delicious,Desserts
-Ice Cream,Ice, sweet, sugar, eat,Desserts
-Chocolate,sweet, sugar, eat, delicious,Desserts
-Cookie,sweet, sugar, eat, delicious,Desserts
-Biscuit,sweet, sugar, eat, delicious,Desserts
-Brownie,sweet, sugar, eat, delicious,Desserts
-Pudding,sweet, sugar, eat, delicious,Desserts
-Trifle,sweet, sugar, eat, delicious,Desserts
-Falooda,sweet, sugar, eat, delicious,Desserts
-Ras Malai,Ras, sweet, sugar, eat,Desserts
-Cham Cham,Cham, sweet, sugar, eat,Desserts
-Sohan Halwa,Sohan, sweet, sugar, eat,Desserts
-Patisa,sweet, sugar, eat, delicious,Desserts
-Kalakand,sweet, sugar, eat, delicious,Desserts
-Zarda,sweet, sugar, eat, delicious,Desserts
-Sheer Khurma,Sheer, sweet, sugar, eat,Desserts
-Sawaiyan,sweet, sugar, eat, delicious,Desserts
-Mother,family, relative, blood, relation,Family Relations
-Father,family, relative, blood, relation,Family Relations
-Brother,family, relative, blood, relation,Family Relations
-Sister,family, relative, blood, relation,Family Relations
-Son,family, relative, blood, relation,Family Relations
-Daughter,family, relative, blood, relation,Family Relations
-Grandfather,family, relative, blood, relation,Family Relations
-Grandmother,family, relative, blood, relation,Family Relations
-Uncle,family, relative, blood, relation,Family Relations
-Aunt,family, relative, blood, relation,Family Relations
-Cousin,family, relative, blood, relation,Family Relations
-Nephew,family, relative, blood, relation,Family Relations
-Niece,family, relative, blood, relation,Family Relations
-Husband,family, relative, blood, relation,Family Relations
-Wife,family, relative, blood, relation,Family Relations
-Father-in-law,Father, family, relative, blood,Family Relations
-Mother-in-law,Mother, family, relative, blood,Family Relations
-Brother-in-law,Brother, family, relative, blood,Family Relations
-Sister-in-law,Sister, family, relative, blood,Family Relations
-Step-mother,Step, family, relative, blood,Family Relations
-Step-father,Step, family, relative, blood,Family Relations
-Grandson,family, relative, blood, relation,Family Relations
-Granddaughter,family, relative, blood, relation,Family Relations
-Ancestor,family, relative, blood, relation,Family Relations
-Relative,family, blood, relation, similar,Family Relations
-Abu Bakr,Abu, companion, Prophet, Caliph,Sahaba
-Umar,companion, Prophet, Caliph, Muslim,Sahaba
-Uthman,companion, Prophet, Caliph, Muslim,Sahaba
-Ali,companion, Prophet, Caliph, Muslim,Sahaba
-Bilal,companion, Prophet, Caliph, Muslim,Sahaba
-Khalid,companion, Prophet, Caliph, Muslim,Sahaba
-Salman,companion, Prophet, Caliph, Muslim,Sahaba
-Abu Huraira,Abu, companion, Prophet, Caliph,Sahaba
-Aisha,companion, Prophet, Caliph, Muslim,Sahaba
-Khadija,companion, Prophet, Caliph, Muslim,Sahaba
-Fatima,companion, Prophet, Caliph, Muslim,Sahaba
-Hassan,companion, Prophet, Caliph, Muslim,Sahaba
-Hussain,companion, Prophet, Caliph, Muslim,Sahaba
-Zaid,companion, Prophet, Caliph, Muslim,Sahaba
-Talha,companion, Prophet, Caliph, Muslim,Sahaba
-Zubair,companion, Prophet, Caliph, Muslim,Sahaba
-Saad,companion, Prophet, Caliph, Muslim,Sahaba
-Abdur Rahman,Abdur, companion, Prophet, Caliph,Sahaba
-Anas,companion, Prophet, Caliph, Muslim,Sahaba
-Abdullah,companion, Prophet, Caliph, Muslim,Sahaba
-Muadh,companion, Prophet, Caliph, Muslim,Sahaba
-Usamah,companion, Prophet, Caliph, Muslim,Sahaba
-Ammar,companion, Prophet, Caliph, Muslim,Sahaba
-Suhaib,companion, Prophet, Caliph, Muslim,Sahaba
-Abu Ubaidah,Abu, companion, Prophet, Caliph,Sahaba
-Hamza,companion, Prophet, Caliph, Muslim,Sahaba
-Abbas,companion, Prophet, Caliph, Muslim,Sahaba
-Jafar,companion, Prophet, Caliph, Muslim,Sahaba
-Adam,prophet, messenger, Allah, revelation,Prophets
-Noah,prophet, messenger, Allah, revelation,Prophets
-Abraham,prophet, messenger, Allah, revelation,Prophets
-Ishmael,prophet, messenger, Allah, revelation,Prophets
-Isaac,prophet, messenger, Allah, revelation,Prophets
-Jacob,prophet, messenger, Allah, revelation,Prophets
-Joseph,prophet, messenger, Allah, revelation,Prophets
-Moses,prophet, messenger, Allah, revelation,Prophets
-Aaron,prophet, messenger, Allah, revelation,Prophets
-David,prophet, messenger, Allah, revelation,Prophets
-Solomon,prophet, messenger, Allah, revelation,Prophets
-Job,prophet, messenger, Allah, revelation,Prophets
-Jonah,prophet, messenger, Allah, revelation,Prophets
-Elijah,prophet, messenger, Allah, revelation,Prophets
-Elisha,prophet, messenger, Allah, revelation,Prophets
-Zachariah,prophet, messenger, Allah, revelation,Prophets
-John,prophet, messenger, Allah, revelation,Prophets
-Jesus,prophet, messenger, Allah, revelation,Prophets
-Muhammad,prophet, messenger, Allah, revelation,Prophets
-Lot,prophet, messenger, Allah, revelation,Prophets
-Shuaib,prophet, messenger, Allah, revelation,Prophets
-Hud,prophet, messenger, Allah, revelation,Prophets
-Saleh,prophet, messenger, Allah, revelation,Prophets
-Idris,prophet, messenger, Allah, revelation,Prophets
-Dhul-Kifl,Dhul, prophet, messenger, Allah,Prophets
-Yunus,prophet, messenger, Allah, revelation,Prophets
-Allah,Islam, Muslim, Arabic, religious,Islamic Terms
-Islam,Muslim, Arabic, religious, similar,Islamic Terms
-Muslim,Islam, Arabic, religious, similar,Islamic Terms
-Quran,Islam, Muslim, Arabic, religious,Islamic Terms
-Hadith,Islam, Muslim, Arabic, religious,Islamic Terms
-Sunnah,Islam, Muslim, Arabic, religious,Islamic Terms
-Salah,Islam, Muslim, Arabic, religious,Islamic Terms
-Zakat,Islam, Muslim, Arabic, religious,Islamic Terms
-Sawm,Islam, Muslim, Arabic, religious,Islamic Terms
-Hajj,Islam, Muslim, Arabic, religious,Islamic Terms
-Shahada,Islam, Muslim, Arabic, religious,Islamic Terms
-Iman,Islam, Muslim, Arabic, religious,Islamic Terms
-Taqwa,Islam, Muslim, Arabic, religious,Islamic Terms
-Dua,Islam, Muslim, Arabic, religious,Islamic Terms
-Dhikr,Islam, Muslim, Arabic, religious,Islamic Terms
-Jannah,Islam, Muslim, Arabic, religious,Islamic Terms
-Jahannam,Islam, Muslim, Arabic, religious,Islamic Terms
-Ramadan,Islam, Muslim, Arabic, religious,Islamic Terms
-Eid,Islam, Muslim, Arabic, religious,Islamic Terms
-Kaaba,Islam, Muslim, Arabic, religious,Islamic Terms
-Mecca,Islam, Muslim, Arabic, religious,Islamic Terms
-Medina,Islam, Muslim, Arabic, religious,Islamic Terms
-Masjid,Islam, Muslim, Arabic, religious,Islamic Terms
-Imam,Islam, Muslim, Arabic, religious,Islamic Terms
-Wudu,Islam, Muslim, Arabic, religious,Islamic Terms
-Mecca,mosque, holy, pilgrimage, similar,Islamic Locations
-Medina,mosque, holy, Mecca, pilgrimage,Islamic Locations
-Jerusalem,mosque, holy, Mecca, pilgrimage,Islamic Locations
-Kaaba,mosque, holy, Mecca, pilgrimage,Islamic Locations
-Masjid al-Haram,Masjid, mosque, holy, Mecca,Islamic Locations
-Masjid al-Nabawi,Masjid, mosque, holy, Mecca,Islamic Locations
-Al-Aqsa,mosque, holy, Mecca, pilgrimage,Islamic Locations
-Dome of the Rock,Dome, mosque, holy, Mecca,Islamic Locations
-Mount Arafat,Mount, mosque, holy, Mecca,Islamic Locations
-Mina,mosque, holy, Mecca, pilgrimage,Islamic Locations
-Muzdalifah,mosque, holy, Mecca, pilgrimage,Islamic Locations
-Safa,mosque, holy, Mecca, pilgrimage,Islamic Locations
-Marwa,mosque, holy, Mecca, pilgrimage,Islamic Locations
-Zamzam,mosque, holy, Mecca, pilgrimage,Islamic Locations
-Cave Hira,Cave, mosque, holy, Mecca,Islamic Locations
-Cave Thawr,Cave, mosque, holy, Mecca,Islamic Locations
-Uhud,mosque, holy, Mecca, pilgrimage,Islamic Locations
-Badr,mosque, holy, Mecca, pilgrimage,Islamic Locations
-Quba,mosque, holy, Mecca, pilgrimage,Islamic Locations
-Jannat al-Baqi,Jannat, mosque, holy, Mecca,Islamic Locations
-Mount Uhud,Mount, mosque, holy, Mecca,Islamic Locations
-Hudaybiyyah,mosque, holy, Mecca, pilgrimage,Islamic Locations
-Taif,mosque, holy, Mecca, pilgrimage,Islamic Locations
-Tabuk,mosque, holy, Mecca, pilgrimage,Islamic Locations
-Khaybar,mosque, holy, Mecca, pilgrimage,Islamic Locations
-Yemen,mosque, holy, Mecca, pilgrimage,Islamic Locations
-Damascus,mosque, holy, Mecca, pilgrimage,Islamic Locations
-Baghdad,mosque, holy, Mecca, pilgrimage,Islamic Locations
-Cordoba,mosque, holy, Mecca, pilgrimage,Islamic Locations
-Salahuddin,scholar, Islamic, famous, history,Muslim Historical Figures
-Ibn Sina,Ibn, scholar, Islamic, famous,Muslim Historical Figures
-Al-Khwarizmi,scholar, Islamic, famous, history,Muslim Historical Figures
-Ibn Rushd,Ibn, scholar, Islamic, famous,Muslim Historical Figures
-Al-Ghazali,scholar, Islamic, famous, history,Muslim Historical Figures
-Rumi,scholar, Islamic, famous, history,Muslim Historical Figures
-Ibn Battuta,Ibn, scholar, Islamic, famous,Muslim Historical Figures
-Al-Biruni,scholar, Islamic, famous, history,Muslim Historical Figures
-Ibn Khaldun,Ibn, scholar, Islamic, famous,Muslim Historical Figures
-Harun al-Rashid,Harun, scholar, Islamic, famous,Muslim Historical Figures
-Tariq ibn Ziyad,Tariq, scholar, Islamic, famous,Muslim Historical Figures
-Umar ibn Abdul Aziz,Umar, scholar, Islamic, famous,Muslim Historical Figures
-Imam Bukhari,Imam, scholar, Islamic, famous,Muslim Historical Figures
-Imam Muslim,Imam, scholar, Islamic, famous,Muslim Historical Figures
-Imam Abu Hanifa,Imam, scholar, Islamic, famous,Muslim Historical Figures
-Imam Malik,Imam, scholar, Islamic, famous,Muslim Historical Figures
-Imam Shafi,Imam, scholar, Islamic, famous,Muslim Historical Figures
-Imam Ahmad,Imam, scholar, Islamic, famous,Muslim Historical Figures
-Al-Farabi,scholar, Islamic, famous, history,Muslim Historical Figures
-Ibn Taymiyyah,Ibn, scholar, Islamic, famous,Muslim Historical Figures
-Al-Razi,scholar, Islamic, famous, history,Muslim Historical Figures
-Omar Khayyam,Omar, scholar, Islamic, famous,Muslim Historical Figures
-Fatima al-Fihri,Fatima, scholar, Islamic, famous,Muslim Historical Figures
-Nusaybah,scholar, Islamic, famous, history,Muslim Historical Figures
-Sultan Mehmed,Sultan, scholar, Islamic, famous,Muslim Historical Figures
+Karachi,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Lahore,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Islamabad,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Rawalpindi,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Faisalabad,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Multan,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Peshawar,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Quetta,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Sialkot,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Gujranwala,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Hyderabad,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Abbottabad,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Murree,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Sukkur,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Bahawalpur,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Sargodha,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Gujarat,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Larkana,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Sheikhupura,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Jhelum,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Mardan,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Kasur,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Rahim Yar Khan,Rahim | thing | object | item,city, Pakistan, Sindh,Pakistani Cities
+Sahiwal,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Okara,thing | object | item | word,Pakistan, Sindh, Punjab,Pakistani Cities
+Biryani,thing | object | item | word,rice, meat, curry,Traditional Dishes
+Pulao,thing | object | item | word,rice, meat, curry,Traditional Dishes
+Nihari,thing | object | item | word,rice, meat, curry,Traditional Dishes
+Haleem,thing | object | item | word,rice, meat, curry,Traditional Dishes
+Karahi,thing | object | item | word,rice, meat, curry,Traditional Dishes
+Korma,thing | object | item | word,rice, meat, curry,Traditional Dishes
+Sajji,thing | object | item | word,rice, meat, curry,Traditional Dishes
+Chapli Kabab,Chapli | thing | object | item,food, rice, meat,Traditional Dishes
+Seekh Kabab,Seekh | thing | object | item,food, rice, meat,Traditional Dishes
+Paye,thing | object | item | word,rice, meat, curry,Traditional Dishes
+Halwa Puri,Halwa | thing | object | item,food, rice, meat,Traditional Dishes
+Saag,thing | object | item | word,rice, meat, curry,Traditional Dishes
+Makki Ki Roti,Makki | thing | object | item,food, rice, meat,Traditional Dishes
+Daal Chawal,Daal | thing | object | item,food, rice, meat,Traditional Dishes
+Aloo Gosht,Aloo | thing | object | item,food, rice, meat,Traditional Dishes
+Koftay,thing | object | item | word,rice, meat, curry,Traditional Dishes
+Katakat,thing | object | item | word,rice, meat, curry,Traditional Dishes
+Chargha,thing | object | item | word,rice, meat, curry,Traditional Dishes
+Tikka,thing | object | item | word,rice, meat, curry,Traditional Dishes
+Malai Boti,Malai | thing | object | item,food, rice, meat,Traditional Dishes
+Reshmi Kabab,Reshmi | thing | object | item,food, rice, meat,Traditional Dishes
+Gola Kabab,Gola | thing | object | item,food, rice, meat,Traditional Dishes
+Bihari Kabab,Bihari | thing | object | item,food, rice, meat,Traditional Dishes
+Kunna,thing | object | item | word,rice, meat, curry,Traditional Dishes
+Bong Paye,Bong | thing | object | item,food, rice, meat,Traditional Dishes
+Salt,thing | object | item | word,powder, flavor, cooking,Spices
+Pepper,thing | object | item | word,powder, flavor, cooking,Spices
+Turmeric,thing | object | item | word,powder, flavor, cooking,Spices
+Chili,thing | object | item | word,powder, flavor, cooking,Spices
+Cumin,thing | object | item | word,powder, flavor, cooking,Spices
+Coriander,thing | object | item | word,powder, flavor, cooking,Spices
+Cardamom,thing | object | item | word,powder, flavor, cooking,Spices
+Cinnamon,thing | object | item | word,powder, flavor, cooking,Spices
+Clove,thing | object | item | word,powder, flavor, cooking,Spices
+Nutmeg,thing | object | item | word,powder, flavor, cooking,Spices
+Saffron,thing | object | item | word,powder, flavor, cooking,Spices
+Ginger,thing | object | item | word,powder, flavor, cooking,Spices
+Garlic,thing | object | item | word,powder, flavor, cooking,Spices
+Anise,thing | object | item | word,powder, flavor, cooking,Spices
+Fenugreek,thing | object | item | word,powder, flavor, cooking,Spices
+Mustard Seeds,Mustard | thing | object | item,spice, powder, flavor,Spices
+Poppy Seeds,Poppy | thing | object | item,spice, powder, flavor,Spices
+Sesame,thing | object | item | word,powder, flavor, cooking,Spices
+Bay Leaf,Bay | thing | object | item,spice, powder, flavor,Spices
+Black Salt,Black | thing | object | item,spice, powder, flavor,Spices
+Chaat Masala,Chaat | thing | object | item,spice, powder, flavor,Spices
+Garam Masala,Garam | thing | object | item,spice, powder, flavor,Spices
+Tamarind,thing | object | item | word,powder, flavor, cooking,Spices
+Mint,thing | object | item | word,powder, flavor, cooking,Spices
+Basil,thing | object | item | word,powder, flavor, cooking,Spices
+Mango,thing | object | item | word,sweet, juice, tree,Fruits
+Apple,thing | object | item | word,sweet, juice, tree,Fruits
+Banana,thing | object | item | word,sweet, juice, tree,Fruits
+Orange,thing | object | item | word,sweet, juice, tree,Fruits
+Grapes,thing | object | item | word,sweet, juice, tree,Fruits
+Pomegranate,thing | object | item | word,sweet, juice, tree,Fruits
+Guava,thing | object | item | word,sweet, juice, tree,Fruits
+Watermelon,thing | object | item | word,sweet, juice, tree,Fruits
+Melon,thing | object | item | word,sweet, juice, tree,Fruits
+Apricot,thing | object | item | word,sweet, juice, tree,Fruits
+Peach,thing | object | item | word,sweet, juice, tree,Fruits
+Plum,thing | object | item | word,sweet, juice, tree,Fruits
+Pear,thing | object | item | word,sweet, juice, tree,Fruits
+Strawberry,thing | object | item | word,sweet, juice, tree,Fruits
+Cherry,thing | object | item | word,sweet, juice, tree,Fruits
+Lychee,thing | object | item | word,sweet, juice, tree,Fruits
+Papaya,thing | object | item | word,sweet, juice, tree,Fruits
+Pineapple,thing | object | item | word,sweet, juice, tree,Fruits
+Coconut,thing | object | item | word,sweet, juice, tree,Fruits
+Date,thing | object | item | word,sweet, juice, tree,Fruits
+Fig,thing | object | item | word,sweet, juice, tree,Fruits
+Mulberry,thing | object | item | word,sweet, juice, tree,Fruits
+Kinnow,thing | object | item | word,sweet, juice, tree,Fruits
+Falsa,thing | object | item | word,sweet, juice, tree,Fruits
+Jamun,thing | object | item | word,sweet, juice, tree,Fruits
+Potato,thing | object | item | word,green, salad, cook,Vegetables
+Onion,thing | object | item | word,green, salad, cook,Vegetables
+Tomato,thing | object | item | word,green, salad, cook,Vegetables
+Garlic,thing | object | item | word,green, salad, cook,Vegetables
+Ginger,thing | object | item | word,green, salad, cook,Vegetables
+Spinach,thing | object | item | word,green, salad, cook,Vegetables
+Cauliflower,thing | object | item | word,green, salad, cook,Vegetables
+Cabbage,thing | object | item | word,green, salad, cook,Vegetables
+Carrot,thing | object | item | word,green, salad, cook,Vegetables
+Radish,thing | object | item | word,green, salad, cook,Vegetables
+Turnip,thing | object | item | word,green, salad, cook,Vegetables
+Peas,thing | object | item | word,green, salad, cook,Vegetables
+Okra,thing | object | item | word,green, salad, cook,Vegetables
+Eggplant,thing | object | item | word,green, salad, cook,Vegetables
+Cucumber,thing | object | item | word,green, salad, cook,Vegetables
+Zucchini,thing | object | item | word,green, salad, cook,Vegetables
+Pumpkin,thing | object | item | word,green, salad, cook,Vegetables
+Bitter Gourd,Bitter | thing | object | item,vegetable, green, salad,Vegetables
+Bottle Gourd,Bottle | thing | object | item,vegetable, green, salad,Vegetables
+Capsicum,thing | object | item | word,green, salad, cook,Vegetables
+Chili,thing | object | item | word,green, salad, cook,Vegetables
+Coriander,thing | object | item | word,green, salad, cook,Vegetables
+Mint,thing | object | item | word,green, salad, cook,Vegetables
+Lemon,thing | object | item | word,green, salad, cook,Vegetables
+Beetroot,thing | object | item | word,green, salad, cook,Vegetables
+Shalwar,thing | object | item | word,dress, traditional, cloth,Clothing
+Kameez,thing | object | item | word,dress, traditional, cloth,Clothing
+Kurta,thing | object | item | word,dress, traditional, cloth,Clothing
+Dupatta,thing | object | item | word,dress, traditional, cloth,Clothing
+Sari,thing | object | item | word,dress, traditional, cloth,Clothing
+Lehnga,thing | object | item | word,dress, traditional, cloth,Clothing
+Sherwani,thing | object | item | word,dress, traditional, cloth,Clothing
+Waistcoat,thing | object | item | word,dress, traditional, cloth,Clothing
+Turban,thing | object | item | word,dress, traditional, cloth,Clothing
+Scarf,thing | object | item | word,dress, traditional, cloth,Clothing
+Shawl,thing | object | item | word,dress, traditional, cloth,Clothing
+Ajrak,thing | object | item | word,dress, traditional, cloth,Clothing
+Topi,thing | object | item | word,dress, traditional, cloth,Clothing
+Vest,thing | object | item | word,dress, traditional, cloth,Clothing
+Jacket,thing | object | item | word,dress, traditional, cloth,Clothing
+Coat,thing | object | item | word,dress, traditional, cloth,Clothing
+Sweater,thing | object | item | word,dress, traditional, cloth,Clothing
+Socks,thing | object | item | word,dress, traditional, cloth,Clothing
+Gloves,thing | object | item | word,dress, traditional, cloth,Clothing
+Tie,thing | object | item | word,dress, traditional, cloth,Clothing
+Belt,thing | object | item | word,dress, traditional, cloth,Clothing
+Trousers,thing | object | item | word,dress, traditional, cloth,Clothing
+Jeans,thing | object | item | word,dress, traditional, cloth,Clothing
+Shirt,thing | object | item | word,dress, traditional, cloth,Clothing
+Frock,thing | object | item | word,dress, traditional, cloth,Clothing
+Chair,thing | object | item | word,wood, sit, home,Furniture
+Table,thing | object | item | word,wood, sit, home,Furniture
+Sofa,thing | object | item | word,wood, sit, home,Furniture
+Bed,thing | object | item | word,wood, sit, home,Furniture
+Cupboard,thing | object | item | word,wood, sit, home,Furniture
+Wardrobe,thing | object | item | word,wood, sit, home,Furniture
+Cabinet,thing | object | item | word,wood, sit, home,Furniture
+Desk,thing | object | item | word,wood, sit, home,Furniture
+Stool,thing | object | item | word,wood, sit, home,Furniture
+Bench,thing | object | item | word,wood, sit, home,Furniture
+Bookshelf,thing | object | item | word,wood, sit, home,Furniture
+Dresser,thing | object | item | word,wood, sit, home,Furniture
+Mirror,thing | object | item | word,wood, sit, home,Furniture
+Lamp,thing | object | item | word,wood, sit, home,Furniture
+Rug,thing | object | item | word,wood, sit, home,Furniture
+Carpet,thing | object | item | word,wood, sit, home,Furniture
+Curtain,thing | object | item | word,wood, sit, home,Furniture
+Mattress,thing | object | item | word,wood, sit, home,Furniture
+Pillow,thing | object | item | word,wood, sit, home,Furniture
+Cushion,thing | object | item | word,wood, sit, home,Furniture
+Blanket,thing | object | item | word,wood, sit, home,Furniture
+Sheet,thing | object | item | word,wood, sit, home,Furniture
+Cot,thing | object | item | word,wood, sit, home,Furniture
+Cradle,thing | object | item | word,wood, sit, home,Furniture
+Recliner,thing | object | item | word,wood, sit, home,Furniture
+Spoon,thing | object | item | word,cook, metal, utensil,Kitchen Items
+Fork,thing | object | item | word,cook, metal, utensil,Kitchen Items
+Knife,thing | object | item | word,cook, metal, utensil,Kitchen Items
+Plate,thing | object | item | word,cook, metal, utensil,Kitchen Items
+Bowl,thing | object | item | word,cook, metal, utensil,Kitchen Items
+Glass,thing | object | item | word,cook, metal, utensil,Kitchen Items
+Cup,thing | object | item | word,cook, metal, utensil,Kitchen Items
+Mug,thing | object | item | word,cook, metal, utensil,Kitchen Items
+Jug,thing | object | item | word,cook, metal, utensil,Kitchen Items
+Teapot,thing | object | item | word,cook, metal, utensil,Kitchen Items
+Pan,thing | object | item | word,cook, metal, utensil,Kitchen Items
+Pot,thing | object | item | word,cook, metal, utensil,Kitchen Items
+Cooker,thing | object | item | word,metal, utensil, similar,Kitchen Items
+Tawa,thing | object | item | word,cook, metal, utensil,Kitchen Items
+Rolling Pin,Rolling | thing | object | item,kitchen, cook, metal,Kitchen Items
+Grater,thing | object | item | word,cook, metal, utensil,Kitchen Items
+Peeler,thing | object | item | word,cook, metal, utensil,Kitchen Items
+Strainer,thing | object | item | word,cook, metal, utensil,Kitchen Items
+Sieve,thing | object | item | word,cook, metal, utensil,Kitchen Items
+Tongs,thing | object | item | word,cook, metal, utensil,Kitchen Items
+Ladle,thing | object | item | word,cook, metal, utensil,Kitchen Items
+Tray,thing | object | item | word,cook, metal, utensil,Kitchen Items
+Bottle,thing | object | item | word,cook, metal, utensil,Kitchen Items
+Jar,thing | object | item | word,cook, metal, utensil,Kitchen Items
+Container,thing | object | item | word,cook, metal, utensil,Kitchen Items
+Lion,thing | object | item | word,wild, mammal, zoo,Animals
+Tiger,thing | object | item | word,wild, mammal, zoo,Animals
+Elephant,thing | object | item | word,wild, mammal, zoo,Animals
+Horse,thing | object | item | word,wild, mammal, zoo,Animals
+Dog,thing | object | item | word,wild, mammal, zoo,Animals
+Cat,thing | object | item | word,wild, mammal, zoo,Animals
+Cow,thing | object | item | word,wild, mammal, zoo,Animals
+Buffalo,thing | object | item | word,wild, mammal, zoo,Animals
+Goat,thing | object | item | word,wild, mammal, zoo,Animals
+Sheep,thing | object | item | word,wild, mammal, zoo,Animals
+Camel,thing | object | item | word,wild, mammal, zoo,Animals
+Donkey,thing | object | item | word,wild, mammal, zoo,Animals
+Monkey,thing | object | item | word,wild, mammal, zoo,Animals
+Bear,thing | object | item | word,wild, mammal, zoo,Animals
+Deer,thing | object | item | word,wild, mammal, zoo,Animals
+Rabbit,thing | object | item | word,wild, mammal, zoo,Animals
+Fox,thing | object | item | word,wild, mammal, zoo,Animals
+Wolf,thing | object | item | word,wild, mammal, zoo,Animals
+Snake,thing | object | item | word,wild, mammal, zoo,Animals
+Crocodile,thing | object | item | word,wild, mammal, zoo,Animals
+Turtle,thing | object | item | word,wild, mammal, zoo,Animals
+Frog,thing | object | item | word,wild, mammal, zoo,Animals
+Mouse,thing | object | item | word,wild, mammal, zoo,Animals
+Rat,thing | object | item | word,wild, mammal, zoo,Animals
+Squirrel,thing | object | item | word,wild, mammal, zoo,Animals
+Eagle,thing | object | item | word,fly, feather, nest,Birds
+Sparrow,thing | object | item | word,fly, feather, nest,Birds
+Pigeon,thing | object | item | word,fly, feather, nest,Birds
+Parrot,thing | object | item | word,fly, feather, nest,Birds
+Crow,thing | object | item | word,fly, feather, nest,Birds
+Peacock,thing | object | item | word,fly, feather, nest,Birds
+Hen,thing | object | item | word,fly, feather, nest,Birds
+Rooster,thing | object | item | word,fly, feather, nest,Birds
+Duck,thing | object | item | word,fly, feather, nest,Birds
+Swan,thing | object | item | word,fly, feather, nest,Birds
+Owl,thing | object | item | word,fly, feather, nest,Birds
+Hawk,thing | object | item | word,fly, feather, nest,Birds
+Kite,thing | object | item | word,fly, feather, nest,Birds
+Vulture,thing | object | item | word,fly, feather, nest,Birds
+Ostrich,thing | object | item | word,fly, feather, nest,Birds
+Penguin,thing | object | item | word,fly, feather, nest,Birds
+Flamingo,thing | object | item | word,fly, feather, nest,Birds
+Woodpecker,thing | object | item | word,fly, feather, nest,Birds
+Kingfisher,thing | object | item | word,fly, feather, nest,Birds
+Cuckoo,thing | object | item | word,fly, feather, nest,Birds
+Dove,thing | object | item | word,fly, feather, nest,Birds
+Myna,thing | object | item | word,fly, feather, nest,Birds
+Bulbul,thing | object | item | word,fly, feather, nest,Birds
+Chakor,thing | object | item | word,fly, feather, nest,Birds
+Partridge,thing | object | item | word,fly, feather, nest,Birds
+Cricket,thing | object | item | word,game, ball, player,Sports
+Hockey,thing | object | item | word,game, ball, player,Sports
+Football,thing | object | item | word,game, player, similar,Sports
+Tennis,thing | object | item | word,game, ball, player,Sports
+Squash,thing | object | item | word,game, ball, player,Sports
+Badminton,thing | object | item | word,game, ball, player,Sports
+Boxing,thing | object | item | word,game, ball, player,Sports
+Wrestling,thing | object | item | word,game, ball, player,Sports
+Kabaddi,thing | object | item | word,game, ball, player,Sports
+Polo,thing | object | item | word,game, ball, player,Sports
+Golf,thing | object | item | word,game, ball, player,Sports
+Swimming,thing | object | item | word,game, ball, player,Sports
+Running,thing | object | item | word,game, ball, player,Sports
+Cycling,thing | object | item | word,game, ball, player,Sports
+Volleyball,thing | object | item | word,game, player, similar,Sports
+Basketball,thing | object | item | word,game, player, similar,Sports
+Snooker,thing | object | item | word,game, ball, player,Sports
+Table Tennis,Table | thing | object | item,sport, game, ball,Sports
+Archery,thing | object | item | word,game, ball, player,Sports
+Shooting,thing | object | item | word,game, ball, player,Sports
+Skiing,thing | object | item | word,game, ball, player,Sports
+Skating,thing | object | item | word,game, ball, player,Sports
+Karate,thing | object | item | word,game, ball, player,Sports
+Judo,thing | object | item | word,game, ball, player,Sports
+Gymnastics,thing | object | item | word,game, ball, player,Sports
+Badshahi Mosque,Badshahi | thing | object | item,historic, old, monument,Historical Places
+Minar-e-Pakistan,Minar | thing | object | item,historic, old, monument,Historical Places
+Faisal Mosque,Faisal | thing | object | item,historic, old, monument,Historical Places
+Lahore Fort,Lahore | thing | object | item,historic, old, monument,Historical Places
+Shalimar Gardens,Shalimar | thing | object | item,historic, old, monument,Historical Places
+Rohtas Fort,Rohtas | thing | object | item,historic, old, monument,Historical Places
+Mohenjo-daro,Mohenjo | thing | object | item,historic, old, monument,Historical Places
+Harappa,thing | object | item | word,old, monument, ancient,Historical Places
+Taxila,thing | object | item | word,old, monument, ancient,Historical Places
+Hiran Minar,Hiran | thing | object | item,historic, old, monument,Historical Places
+Katas Raj,Katas | thing | object | item,historic, old, monument,Historical Places
+Derawar Fort,Derawar | thing | object | item,historic, old, monument,Historical Places
+Ranikot Fort,Ranikot | thing | object | item,historic, old, monument,Historical Places
+Baltit Fort,Baltit | thing | object | item,historic, old, monument,Historical Places
+Altit Fort,Altit | thing | object | item,historic, old, monument,Historical Places
+Noor Mahal,Noor | thing | object | item,historic, old, monument,Historical Places
+Wazir Khan Mosque,Wazir | thing | object | item,historic, old, monument,Historical Places
+Tomb of Jahangir,Tomb | thing | object | item,historic, old, monument,Historical Places
+Tomb of Jinnah,Tomb | thing | object | item,historic, old, monument,Historical Places
+Ziarat Residency,Ziarat | thing | object | item,historic, old, monument,Historical Places
+Khyber Pass,Khyber | thing | object | item,historic, old, monument,Historical Places
+Clifton Fort,Clifton | thing | object | item,historic, old, monument,Historical Places
+Frere Hall,Frere | thing | object | item,historic, old, monument,Historical Places
+Mohatta Palace,Mohatta | thing | object | item,historic, old, monument,Historical Places
+Shahi Qila,Shahi | thing | object | item,historic, old, monument,Historical Places
+Doctor,thing | object | item | word,work, professional, career,Occupations
+Engineer,thing | object | item | word,work, professional, career,Occupations
+Teacher,thing | object | item | word,work, professional, career,Occupations
+Pilot,thing | object | item | word,work, professional, career,Occupations
+Soldier,thing | object | item | word,work, professional, career,Occupations
+Police,thing | object | item | word,work, professional, career,Occupations
+Lawyer,thing | object | item | word,work, professional, career,Occupations
+Judge,thing | object | item | word,work, professional, career,Occupations
+Chef,thing | object | item | word,work, professional, career,Occupations
+Farmer,thing | object | item | word,work, professional, career,Occupations
+Driver,thing | object | item | word,work, professional, career,Occupations
+Tailor,thing | object | item | word,work, professional, career,Occupations
+Barber,thing | object | item | word,work, professional, career,Occupations
+Carpenter,thing | object | item | word,work, professional, career,Occupations
+Plumber,thing | object | item | word,work, professional, career,Occupations
+Electrician,thing | object | item | word,work, professional, career,Occupations
+Mechanic,thing | object | item | word,work, professional, career,Occupations
+Painter,thing | object | item | word,work, professional, career,Occupations
+Writer,thing | object | item | word,work, professional, career,Occupations
+Artist,thing | object | item | word,work, professional, career,Occupations
+Singer,thing | object | item | word,work, professional, career,Occupations
+Actor,thing | object | item | word,work, professional, career,Occupations
+Banker,thing | object | item | word,work, professional, career,Occupations
+Accountant,thing | object | item | word,work, professional, career,Occupations
+Scientist,thing | object | item | word,work, professional, career,Occupations
+Car,thing | object | item | word,ride, wheels, travel,Transport
+Bus,thing | object | item | word,ride, wheels, travel,Transport
+Truck,thing | object | item | word,ride, wheels, travel,Transport
+Bike,thing | object | item | word,ride, wheels, travel,Transport
+Cycle,thing | object | item | word,ride, wheels, travel,Transport
+Rickshaw,thing | object | item | word,ride, wheels, travel,Transport
+Chingchi,thing | object | item | word,ride, wheels, travel,Transport
+Train,thing | object | item | word,ride, wheels, travel,Transport
+Airplane,thing | object | item | word,ride, wheels, travel,Transport
+Boat,thing | object | item | word,ride, wheels, travel,Transport
+Ship,thing | object | item | word,ride, wheels, travel,Transport
+Van,thing | object | item | word,ride, wheels, travel,Transport
+Taxi,thing | object | item | word,ride, wheels, travel,Transport
+Scooter,thing | object | item | word,ride, wheels, travel,Transport
+Tractor,thing | object | item | word,ride, wheels, travel,Transport
+Trolley,thing | object | item | word,ride, wheels, travel,Transport
+Ambulance,thing | object | item | word,ride, wheels, travel,Transport
+Fire Truck,Fire | thing | object | item,vehicle, ride, wheels,Transport
+Police Car,Police | thing | object | item,vehicle, ride, wheels,Transport
+Jeep,thing | object | item | word,ride, wheels, travel,Transport
+Helicopter,thing | object | item | word,ride, wheels, travel,Transport
+Rocket,thing | object | item | word,ride, wheels, travel,Transport
+Metro Bus,Metro | thing | object | item,vehicle, ride, wheels,Transport
+Orange Line,Orange | thing | object | item,vehicle, ride, wheels,Transport
+Tongas,thing | object | item | word,ride, wheels, travel,Transport
+Pen,thing | object | item | word,write, school, office,Stationery
+Pencil,thing | object | item | word,write, school, office,Stationery
+Eraser,thing | object | item | word,write, school, office,Stationery
+Sharpener,thing | object | item | word,write, school, office,Stationery
+Ruler,thing | object | item | word,write, school, office,Stationery
+Notebook,thing | object | item | word,write, school, office,Stationery
+Paper,thing | object | item | word,school, office, similar,Stationery
+Glue,thing | object | item | word,write, school, office,Stationery
+Scissors,thing | object | item | word,write, school, office,Stationery
+Marker,thing | object | item | word,write, school, office,Stationery
+Highlighter,thing | object | item | word,write, school, office,Stationery
+Stapler,thing | object | item | word,write, school, office,Stationery
+Pin,thing | object | item | word,write, school, office,Stationery
+Clip,thing | object | item | word,write, school, office,Stationery
+Tape,thing | object | item | word,write, school, office,Stationery
+Calculator,thing | object | item | word,write, school, office,Stationery
+Compass,thing | object | item | word,write, school, office,Stationery
+Protractor,thing | object | item | word,write, school, office,Stationery
+File,thing | object | item | word,write, school, office,Stationery
+Folder,thing | object | item | word,write, school, office,Stationery
+Envelope,thing | object | item | word,write, school, office,Stationery
+Diary,thing | object | item | word,write, school, office,Stationery
+Chart,thing | object | item | word,write, school, office,Stationery
+Card,thing | object | item | word,write, school, office,Stationery
+Ink,thing | object | item | word,write, school, office,Stationery
+Red,thing | object | item | word,paint, bright, shade,Colors
+Blue,thing | object | item | word,paint, bright, shade,Colors
+Green,thing | object | item | word,paint, bright, shade,Colors
+Yellow,thing | object | item | word,paint, bright, shade,Colors
+Orange,thing | object | item | word,paint, bright, shade,Colors
+Purple,thing | object | item | word,paint, bright, shade,Colors
+Pink,thing | object | item | word,paint, bright, shade,Colors
+Black,thing | object | item | word,paint, bright, shade,Colors
+White,thing | object | item | word,paint, bright, shade,Colors
+Grey,thing | object | item | word,paint, bright, shade,Colors
+Brown,thing | object | item | word,paint, bright, shade,Colors
+Maroon,thing | object | item | word,paint, bright, shade,Colors
+Turquoise,thing | object | item | word,paint, bright, shade,Colors
+Gold,thing | object | item | word,paint, bright, shade,Colors
+Silver,thing | object | item | word,paint, bright, shade,Colors
+Beige,thing | object | item | word,paint, bright, shade,Colors
+Cream,thing | object | item | word,paint, bright, shade,Colors
+Indigo,thing | object | item | word,paint, bright, shade,Colors
+Violet,thing | object | item | word,paint, bright, shade,Colors
+Magenta,thing | object | item | word,paint, bright, shade,Colors
+Cyan,thing | object | item | word,paint, bright, shade,Colors
+Teal,thing | object | item | word,paint, bright, shade,Colors
+Olive,thing | object | item | word,paint, bright, shade,Colors
+Navy,thing | object | item | word,paint, bright, shade,Colors
+Peach,thing | object | item | word,paint, bright, shade,Colors
+Head,thing | object | item | word,human, anatomy, organ,Body Parts
+Eye,thing | object | item | word,human, anatomy, organ,Body Parts
+Ear,thing | object | item | word,human, anatomy, organ,Body Parts
+Nose,thing | object | item | word,human, anatomy, organ,Body Parts
+Mouth,thing | object | item | word,human, anatomy, organ,Body Parts
+Hand,thing | object | item | word,human, anatomy, organ,Body Parts
+Foot,thing | object | item | word,human, anatomy, organ,Body Parts
+Leg,thing | object | item | word,human, anatomy, organ,Body Parts
+Arm,thing | object | item | word,human, anatomy, organ,Body Parts
+Finger,thing | object | item | word,human, anatomy, organ,Body Parts
+Thumb,thing | object | item | word,human, anatomy, organ,Body Parts
+Knee,thing | object | item | word,human, anatomy, organ,Body Parts
+Elbow,thing | object | item | word,human, anatomy, organ,Body Parts
+Shoulder,thing | object | item | word,human, anatomy, organ,Body Parts
+Neck,thing | object | item | word,human, anatomy, organ,Body Parts
+Hair,thing | object | item | word,human, anatomy, organ,Body Parts
+Tooth,thing | object | item | word,human, anatomy, organ,Body Parts
+Tongue,thing | object | item | word,human, anatomy, organ,Body Parts
+Lip,thing | object | item | word,human, anatomy, organ,Body Parts
+Chin,thing | object | item | word,human, anatomy, organ,Body Parts
+Cheek,thing | object | item | word,human, anatomy, organ,Body Parts
+Forehead,thing | object | item | word,human, anatomy, organ,Body Parts
+Stomach,thing | object | item | word,human, anatomy, organ,Body Parts
+Back,thing | object | item | word,human, anatomy, organ,Body Parts
+Chest,thing | object | item | word,human, anatomy, organ,Body Parts
+Ring,thing | object | item | word,wear, shiny, precious,Jewelry
+Necklace,thing | object | item | word,wear, shiny, precious,Jewelry
+Bangle,thing | object | item | word,wear, shiny, precious,Jewelry
+Earring,thing | object | item | word,wear, shiny, precious,Jewelry
+Nose Pin,Nose | thing | object | item,gold, wear, shiny,Jewelry
+Anklet,thing | object | item | word,wear, shiny, precious,Jewelry
+Bracelet,thing | object | item | word,wear, shiny, precious,Jewelry
+Chain,thing | object | item | word,wear, shiny, precious,Jewelry
+Locket,thing | object | item | word,wear, shiny, precious,Jewelry
+Tiara,thing | object | item | word,wear, shiny, precious,Jewelry
+Crown,thing | object | item | word,wear, shiny, precious,Jewelry
+Diamond,thing | object | item | word,wear, shiny, precious,Jewelry
+Gold,thing | object | item | word,shiny, precious, similar,Jewelry
+Silver,thing | object | item | word,wear, shiny, precious,Jewelry
+Pearl,thing | object | item | word,wear, shiny, precious,Jewelry
+Ruby,thing | object | item | word,wear, shiny, precious,Jewelry
+Emerald,thing | object | item | word,wear, shiny, precious,Jewelry
+Sapphire,thing | object | item | word,wear, shiny, precious,Jewelry
+Choker,thing | object | item | word,wear, shiny, precious,Jewelry
+Jhumka,thing | object | item | word,wear, shiny, precious,Jewelry
+Matha Patti,Matha | thing | object | item,gold, wear, shiny,Jewelry
+Brooch,thing | object | item | word,wear, shiny, precious,Jewelry
+Pendant,thing | object | item | word,wear, shiny, precious,Jewelry
+Stud,thing | object | item | word,wear, shiny, precious,Jewelry
+Hoop,thing | object | item | word,wear, shiny, precious,Jewelry
+Sun,thing | object | item | word,outdoor, earth, sky,Nature
+Moon,thing | object | item | word,outdoor, earth, sky,Nature
+Star,thing | object | item | word,outdoor, earth, sky,Nature
+Sky,thing | object | item | word,outdoor, earth, similar,Nature
+Cloud,thing | object | item | word,outdoor, earth, sky,Nature
+Rain,thing | object | item | word,outdoor, earth, sky,Nature
+Snow,thing | object | item | word,outdoor, earth, sky,Nature
+Wind,thing | object | item | word,outdoor, earth, sky,Nature
+Storm,thing | object | item | word,outdoor, earth, sky,Nature
+River,thing | object | item | word,outdoor, earth, sky,Nature
+Sea,thing | object | item | word,outdoor, earth, sky,Nature
+Ocean,thing | object | item | word,outdoor, earth, sky,Nature
+Lake,thing | object | item | word,outdoor, earth, sky,Nature
+Pond,thing | object | item | word,outdoor, earth, sky,Nature
+Mountain,thing | object | item | word,outdoor, earth, sky,Nature
+Hill,thing | object | item | word,outdoor, earth, sky,Nature
+Valley,thing | object | item | word,outdoor, earth, sky,Nature
+Forest,thing | object | item | word,outdoor, earth, sky,Nature
+Tree,thing | object | item | word,outdoor, earth, sky,Nature
+Flower,thing | object | item | word,outdoor, earth, sky,Nature
+Grass,thing | object | item | word,outdoor, earth, sky,Nature
+Leaf,thing | object | item | word,outdoor, earth, sky,Nature
+Sand,thing | object | item | word,outdoor, earth, sky,Nature
+Rock,thing | object | item | word,outdoor, earth, sky,Nature
+Stone,thing | object | item | word,outdoor, earth, sky,Nature
+TV,thing | object | item | word,device, screen, battery,Electronics
+Radio,thing | object | item | word,device, screen, battery,Electronics
+Computer,thing | object | item | word,device, screen, battery,Electronics
+Laptop,thing | object | item | word,device, screen, battery,Electronics
+Mobile,thing | object | item | word,device, screen, battery,Electronics
+Tablet,thing | object | item | word,device, screen, battery,Electronics
+Camera,thing | object | item | word,device, screen, battery,Electronics
+Speaker,thing | object | item | word,device, screen, battery,Electronics
+Headphone,thing | object | item | word,device, screen, battery,Electronics
+Mouse,thing | object | item | word,device, screen, battery,Electronics
+Keyboard,thing | object | item | word,device, screen, battery,Electronics
+Printer,thing | object | item | word,device, screen, battery,Electronics
+Scanner,thing | object | item | word,device, screen, battery,Electronics
+Fan,thing | object | item | word,device, screen, battery,Electronics
+AC,thing | object | item | word,device, screen, battery,Electronics
+Heater,thing | object | item | word,device, screen, battery,Electronics
+Fridge,thing | object | item | word,device, screen, battery,Electronics
+Oven,thing | object | item | word,device, screen, battery,Electronics
+Microwave,thing | object | item | word,device, screen, battery,Electronics
+Iron,thing | object | item | word,device, screen, battery,Electronics
+Blender,thing | object | item | word,device, screen, battery,Electronics
+Toaster,thing | object | item | word,device, screen, battery,Electronics
+Juicer,thing | object | item | word,device, screen, battery,Electronics
+Watch,thing | object | item | word,device, screen, battery,Electronics
+Clock,thing | object | item | word,device, screen, battery,Electronics
+Hammer,thing | object | item | word,metal, work, fix,Tools
+Nail,thing | object | item | word,metal, work, fix,Tools
+Screw,thing | object | item | word,metal, work, fix,Tools
+Screwdriver,thing | object | item | word,metal, work, fix,Tools
+Wrench,thing | object | item | word,metal, work, fix,Tools
+Plier,thing | object | item | word,metal, work, fix,Tools
+Saw,thing | object | item | word,metal, work, fix,Tools
+Drill,thing | object | item | word,metal, work, fix,Tools
+Axe,thing | object | item | word,metal, work, fix,Tools
+Shovel,thing | object | item | word,metal, work, fix,Tools
+Spade,thing | object | item | word,metal, work, fix,Tools
+Rake,thing | object | item | word,metal, work, fix,Tools
+Hoe,thing | object | item | word,metal, work, fix,Tools
+Ladder,thing | object | item | word,metal, work, fix,Tools
+Tape Measure,Tape | thing | object | item,tool, metal, work,Tools
+Level,thing | object | item | word,metal, work, fix,Tools
+Chisel,thing | object | item | word,metal, work, fix,Tools
+File,thing | object | item | word,metal, work, fix,Tools
+Clamp,thing | object | item | word,metal, work, fix,Tools
+Vice,thing | object | item | word,metal, work, fix,Tools
+Cutter,thing | object | item | word,metal, work, fix,Tools
+Scissor,thing | object | item | word,metal, work, fix,Tools
+Knife,thing | object | item | word,metal, work, fix,Tools
+Torch,thing | object | item | word,metal, work, fix,Tools
+Brush,thing | object | item | word,metal, work, fix,Tools
+Cotton,thing | object | item | word,material, soft, weave,Fabrics
+Silk,thing | object | item | word,material, soft, weave,Fabrics
+Wool,thing | object | item | word,material, soft, weave,Fabrics
+Lawn,thing | object | item | word,material, soft, weave,Fabrics
+Linen,thing | object | item | word,material, soft, weave,Fabrics
+Khaddar,thing | object | item | word,material, soft, weave,Fabrics
+Velvet,thing | object | item | word,material, soft, weave,Fabrics
+Chiffon,thing | object | item | word,material, soft, weave,Fabrics
+Georgette,thing | object | item | word,material, soft, weave,Fabrics
+Denim,thing | object | item | word,material, soft, weave,Fabrics
+Leather,thing | object | item | word,material, soft, weave,Fabrics
+Polyester,thing | object | item | word,material, soft, weave,Fabrics
+Rayon,thing | object | item | word,material, soft, weave,Fabrics
+Satin,thing | object | item | word,material, soft, weave,Fabrics
+Net,thing | object | item | word,material, soft, weave,Fabrics
+Banarasi,thing | object | item | word,material, soft, weave,Fabrics
+Jamawar,thing | object | item | word,material, soft, weave,Fabrics
+Organza,thing | object | item | word,material, soft, weave,Fabrics
+Pashmina,thing | object | item | word,material, soft, weave,Fabrics
+Jute,thing | object | item | word,material, soft, weave,Fabrics
+Nylon,thing | object | item | word,material, soft, weave,Fabrics
+Spandex,thing | object | item | word,material, soft, weave,Fabrics
+Fleece,thing | object | item | word,material, soft, weave,Fabrics
+Corduroy,thing | object | item | word,material, soft, weave,Fabrics
+Canvas,thing | object | item | word,material, soft, weave,Fabrics
+Water,thing | object | item | word,liquid, cup, hot,Beverages
+Milk,thing | object | item | word,liquid, cup, hot,Beverages
+Tea,thing | object | item | word,liquid, cup, hot,Beverages
+Coffee,thing | object | item | word,liquid, cup, hot,Beverages
+Juice,thing | object | item | word,liquid, cup, hot,Beverages
+Soda,thing | object | item | word,liquid, cup, hot,Beverages
+Lassi,thing | object | item | word,liquid, cup, hot,Beverages
+Shake,thing | object | item | word,liquid, cup, hot,Beverages
+Smoothie,thing | object | item | word,liquid, cup, hot,Beverages
+Lemonade,thing | object | item | word,liquid, cup, hot,Beverages
+Squash,thing | object | item | word,liquid, cup, hot,Beverages
+Sherbet,thing | object | item | word,liquid, cup, hot,Beverages
+Rooh Afza,Rooh | thing | object | item,drink, liquid, cup,Beverages
+Kanji,thing | object | item | word,liquid, cup, hot,Beverages
+Sattu,thing | object | item | word,liquid, cup, hot,Beverages
+Buttermilk,thing | object | item | word,liquid, cup, hot,Beverages
+Green Tea,Green | thing | object | item,drink, liquid, cup,Beverages
+Kashmiri Chai,Kashmiri | thing | object | item,drink, liquid, cup,Beverages
+Doodh Soda,Doodh | thing | object | item,drink, liquid, cup,Beverages
+Cold Drink,Cold | thing | object | item,liquid, cup, hot,Beverages
+Energy Drink,Energy | thing | object | item,liquid, cup, hot,Beverages
+Soup,thing | object | item | word,liquid, cup, hot,Beverages
+Broth,thing | object | item | word,liquid, cup, hot,Beverages
+Cider,thing | object | item | word,liquid, cup, hot,Beverages
+Cocoa,thing | object | item | word,liquid, cup, hot,Beverages
+Gulab Jamun,Gulab | thing | object | item,sweet, sugar, eat,Desserts
+Barfi,thing | object | item | word,sugar, eat, delicious,Desserts
+Jalebi,thing | object | item | word,sugar, eat, delicious,Desserts
+Laddu,thing | object | item | word,sugar, eat, delicious,Desserts
+Halwa,thing | object | item | word,sugar, eat, delicious,Desserts
+Kheer,thing | object | item | word,sugar, eat, delicious,Desserts
+Custard,thing | object | item | word,sugar, eat, delicious,Desserts
+Cake,thing | object | item | word,sugar, eat, delicious,Desserts
+Pastry,thing | object | item | word,sugar, eat, delicious,Desserts
+Ice Cream,Ice | thing | object | item,sweet, sugar, eat,Desserts
+Chocolate,thing | object | item | word,sugar, eat, delicious,Desserts
+Cookie,thing | object | item | word,sugar, eat, delicious,Desserts
+Biscuit,thing | object | item | word,sugar, eat, delicious,Desserts
+Brownie,thing | object | item | word,sugar, eat, delicious,Desserts
+Pudding,thing | object | item | word,sugar, eat, delicious,Desserts
+Trifle,thing | object | item | word,sugar, eat, delicious,Desserts
+Falooda,thing | object | item | word,sugar, eat, delicious,Desserts
+Ras Malai,Ras | thing | object | item,sweet, sugar, eat,Desserts
+Cham Cham,Cham | thing | object | item,sweet, sugar, eat,Desserts
+Sohan Halwa,Sohan | thing | object | item,sweet, sugar, eat,Desserts
+Patisa,thing | object | item | word,sugar, eat, delicious,Desserts
+Kalakand,thing | object | item | word,sugar, eat, delicious,Desserts
+Zarda,thing | object | item | word,sugar, eat, delicious,Desserts
+Sheer Khurma,Sheer | thing | object | item,sweet, sugar, eat,Desserts
+Sawaiyan,thing | object | item | word,sugar, eat, delicious,Desserts
+Mother,thing | object | item | word,relative, blood, relation,Family Relations
+Father,thing | object | item | word,relative, blood, relation,Family Relations
+Brother,thing | object | item | word,relative, blood, relation,Family Relations
+Sister,thing | object | item | word,relative, blood, relation,Family Relations
+Son,thing | object | item | word,relative, blood, relation,Family Relations
+Daughter,thing | object | item | word,relative, blood, relation,Family Relations
+Grandfather,thing | object | item | word,relative, blood, relation,Family Relations
+Grandmother,thing | object | item | word,relative, blood, relation,Family Relations
+Uncle,thing | object | item | word,relative, blood, relation,Family Relations
+Aunt,thing | object | item | word,relative, blood, relation,Family Relations
+Cousin,thing | object | item | word,relative, blood, relation,Family Relations
+Nephew,thing | object | item | word,relative, blood, relation,Family Relations
+Niece,thing | object | item | word,relative, blood, relation,Family Relations
+Husband,thing | object | item | word,relative, blood, relation,Family Relations
+Wife,thing | object | item | word,relative, blood, relation,Family Relations
+Father-in-law,Father | thing | object | item,family, relative, blood,Family Relations
+Mother-in-law,Mother | thing | object | item,family, relative, blood,Family Relations
+Brother-in-law,Brother | thing | object | item,family, relative, blood,Family Relations
+Sister-in-law,Sister | thing | object | item,family, relative, blood,Family Relations
+Step-mother,Step | thing | object | item,family, relative, blood,Family Relations
+Step-father,Step | thing | object | item,family, relative, blood,Family Relations
+Grandson,thing | object | item | word,relative, blood, relation,Family Relations
+Granddaughter,thing | object | item | word,relative, blood, relation,Family Relations
+Ancestor,thing | object | item | word,relative, blood, relation,Family Relations
+Relative,thing | object | item | word,blood, relation, similar,Family Relations
+Abu Bakr,Abu | thing | object | item,companion, Prophet, Caliph,Sahaba
+Umar,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Uthman,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Ali,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Bilal,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Khalid,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Salman,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Abu Huraira,Abu | thing | object | item,companion, Prophet, Caliph,Sahaba
+Aisha,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Khadija,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Fatima,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Hassan,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Hussain,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Zaid,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Talha,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Zubair,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Saad,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Abdur Rahman,Abdur | thing | object | item,companion, Prophet, Caliph,Sahaba
+Anas,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Abdullah,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Muadh,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Usamah,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Ammar,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Suhaib,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Abu Ubaidah,Abu | thing | object | item,companion, Prophet, Caliph,Sahaba
+Hamza,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Abbas,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Jafar,thing | object | item | word,Prophet, Caliph, Muslim,Sahaba
+Adam,thing | object | item | word,messenger, Allah, revelation,Prophets
+Noah,thing | object | item | word,messenger, Allah, revelation,Prophets
+Abraham,thing | object | item | word,messenger, Allah, revelation,Prophets
+Ishmael,thing | object | item | word,messenger, Allah, revelation,Prophets
+Isaac,thing | object | item | word,messenger, Allah, revelation,Prophets
+Jacob,thing | object | item | word,messenger, Allah, revelation,Prophets
+Joseph,thing | object | item | word,messenger, Allah, revelation,Prophets
+Moses,thing | object | item | word,messenger, Allah, revelation,Prophets
+Aaron,thing | object | item | word,messenger, Allah, revelation,Prophets
+David,thing | object | item | word,messenger, Allah, revelation,Prophets
+Solomon,thing | object | item | word,messenger, Allah, revelation,Prophets
+Job,thing | object | item | word,messenger, Allah, revelation,Prophets
+Jonah,thing | object | item | word,messenger, Allah, revelation,Prophets
+Elijah,thing | object | item | word,messenger, Allah, revelation,Prophets
+Elisha,thing | object | item | word,messenger, Allah, revelation,Prophets
+Zachariah,thing | object | item | word,messenger, Allah, revelation,Prophets
+John,thing | object | item | word,messenger, Allah, revelation,Prophets
+Jesus,thing | object | item | word,messenger, Allah, revelation,Prophets
+Muhammad,thing | object | item | word,messenger, Allah, revelation,Prophets
+Lot,thing | object | item | word,messenger, Allah, revelation,Prophets
+Shuaib,thing | object | item | word,messenger, Allah, revelation,Prophets
+Hud,thing | object | item | word,messenger, Allah, revelation,Prophets
+Saleh,thing | object | item | word,messenger, Allah, revelation,Prophets
+Idris,thing | object | item | word,messenger, Allah, revelation,Prophets
+Dhul-Kifl,Dhul | thing | object | item,prophet, messenger, Allah,Prophets
+Yunus,thing | object | item | word,messenger, Allah, revelation,Prophets
+Allah,thing | object | item | word,Muslim, Arabic, religious,Islamic Terms
+Islam,thing | object | item | word,Arabic, religious, similar,Islamic Terms
+Muslim,thing | object | item | word,Arabic, religious, similar,Islamic Terms
+Quran,thing | object | item | word,Muslim, Arabic, religious,Islamic Terms
+Hadith,thing | object | item | word,Muslim, Arabic, religious,Islamic Terms
+Sunnah,thing | object | item | word,Muslim, Arabic, religious,Islamic Terms
+Salah,thing | object | item | word,Muslim, Arabic, religious,Islamic Terms
+Zakat,thing | object | item | word,Muslim, Arabic, religious,Islamic Terms
+Sawm,thing | object | item | word,Muslim, Arabic, religious,Islamic Terms
+Hajj,thing | object | item | word,Muslim, Arabic, religious,Islamic Terms
+Shahada,thing | object | item | word,Muslim, Arabic, religious,Islamic Terms
+Iman,thing | object | item | word,Muslim, Arabic, religious,Islamic Terms
+Taqwa,thing | object | item | word,Muslim, Arabic, religious,Islamic Terms
+Dua,thing | object | item | word,Muslim, Arabic, religious,Islamic Terms
+Dhikr,thing | object | item | word,Muslim, Arabic, religious,Islamic Terms
+Jannah,thing | object | item | word,Muslim, Arabic, religious,Islamic Terms
+Jahannam,thing | object | item | word,Muslim, Arabic, religious,Islamic Terms
+Ramadan,thing | object | item | word,Muslim, Arabic, religious,Islamic Terms
+Eid,thing | object | item | word,Muslim, Arabic, religious,Islamic Terms
+Kaaba,thing | object | item | word,Muslim, Arabic, religious,Islamic Terms
+Mecca,thing | object | item | word,Muslim, Arabic, religious,Islamic Terms
+Medina,thing | object | item | word,Muslim, Arabic, religious,Islamic Terms
+Masjid,thing | object | item | word,Muslim, Arabic, religious,Islamic Terms
+Imam,thing | object | item | word,Muslim, Arabic, religious,Islamic Terms
+Wudu,thing | object | item | word,Muslim, Arabic, religious,Islamic Terms
+Mecca,thing | object | item | word,holy, pilgrimage, similar,Islamic Locations
+Medina,thing | object | item | word,holy, Mecca, pilgrimage,Islamic Locations
+Jerusalem,thing | object | item | word,holy, Mecca, pilgrimage,Islamic Locations
+Kaaba,thing | object | item | word,holy, Mecca, pilgrimage,Islamic Locations
+Masjid al-Haram,Masjid | thing | object | item,mosque, holy, Mecca,Islamic Locations
+Masjid al-Nabawi,Masjid | thing | object | item,mosque, holy, Mecca,Islamic Locations
+Al-Aqsa,thing | object | item | word,holy, Mecca, pilgrimage,Islamic Locations
+Dome of the Rock,Dome | thing | object | item,mosque, holy, Mecca,Islamic Locations
+Mount Arafat,Mount | thing | object | item,mosque, holy, Mecca,Islamic Locations
+Mina,thing | object | item | word,holy, Mecca, pilgrimage,Islamic Locations
+Muzdalifah,thing | object | item | word,holy, Mecca, pilgrimage,Islamic Locations
+Safa,thing | object | item | word,holy, Mecca, pilgrimage,Islamic Locations
+Marwa,thing | object | item | word,holy, Mecca, pilgrimage,Islamic Locations
+Zamzam,thing | object | item | word,holy, Mecca, pilgrimage,Islamic Locations
+Cave Hira,Cave | thing | object | item,mosque, holy, Mecca,Islamic Locations
+Cave Thawr,Cave | thing | object | item,mosque, holy, Mecca,Islamic Locations
+Uhud,thing | object | item | word,holy, Mecca, pilgrimage,Islamic Locations
+Badr,thing | object | item | word,holy, Mecca, pilgrimage,Islamic Locations
+Quba,thing | object | item | word,holy, Mecca, pilgrimage,Islamic Locations
+Jannat al-Baqi,Jannat | thing | object | item,mosque, holy, Mecca,Islamic Locations
+Mount Uhud,Mount | thing | object | item,mosque, holy, Mecca,Islamic Locations
+Hudaybiyyah,thing | object | item | word,holy, Mecca, pilgrimage,Islamic Locations
+Taif,thing | object | item | word,holy, Mecca, pilgrimage,Islamic Locations
+Tabuk,thing | object | item | word,holy, Mecca, pilgrimage,Islamic Locations
+Khaybar,thing | object | item | word,holy, Mecca, pilgrimage,Islamic Locations
+Yemen,thing | object | item | word,holy, Mecca, pilgrimage,Islamic Locations
+Damascus,thing | object | item | word,holy, Mecca, pilgrimage,Islamic Locations
+Baghdad,thing | object | item | word,holy, Mecca, pilgrimage,Islamic Locations
+Cordoba,thing | object | item | word,holy, Mecca, pilgrimage,Islamic Locations
+Salahuddin,thing | object | item | word,Islamic, famous, history,Muslim Historical Figures
+Ibn Sina,Ibn | thing | object | item,scholar, Islamic, famous,Muslim Historical Figures
+Al-Khwarizmi,thing | object | item | word,Islamic, famous, history,Muslim Historical Figures
+Ibn Rushd,Ibn | thing | object | item,scholar, Islamic, famous,Muslim Historical Figures
+Al-Ghazali,thing | object | item | word,Islamic, famous, history,Muslim Historical Figures
+Rumi,thing | object | item | word,Islamic, famous, history,Muslim Historical Figures
+Ibn Battuta,Ibn | thing | object | item,scholar, Islamic, famous,Muslim Historical Figures
+Al-Biruni,thing | object | item | word,Islamic, famous, history,Muslim Historical Figures
+Ibn Khaldun,Ibn | thing | object | item,scholar, Islamic, famous,Muslim Historical Figures
+Harun al-Rashid,Harun | thing | object | item,scholar, Islamic, famous,Muslim Historical Figures
+Tariq ibn Ziyad,Tariq | thing | object | item,scholar, Islamic, famous,Muslim Historical Figures
+Umar ibn Abdul Aziz,Umar | thing | object | item,scholar, Islamic, famous,Muslim Historical Figures
+Imam Bukhari,Imam | thing | object | item,scholar, Islamic, famous,Muslim Historical Figures
+Imam Muslim,Imam | thing | object | item,scholar, Islamic, famous,Muslim Historical Figures
+Imam Abu Hanifa,Imam | thing | object | item,scholar, Islamic, famous,Muslim Historical Figures
+Imam Malik,Imam | thing | object | item,scholar, Islamic, famous,Muslim Historical Figures
+Imam Shafi,Imam | thing | object | item,scholar, Islamic, famous,Muslim Historical Figures
+Imam Ahmad,Imam | thing | object | item,scholar, Islamic, famous,Muslim Historical Figures
+Al-Farabi,thing | object | item | word,Islamic, famous, history,Muslim Historical Figures
+Ibn Taymiyyah,Ibn | thing | object | item,scholar, Islamic, famous,Muslim Historical Figures
+Al-Razi,thing | object | item | word,Islamic, famous, history,Muslim Historical Figures
+Omar Khayyam,Omar | thing | object | item,scholar, Islamic, famous,Muslim Historical Figures
+Fatima al-Fihri,Fatima | thing | object | item,scholar, Islamic, famous,Muslim Historical Figures
+Nusaybah,thing | object | item | word,Islamic, famous, history,Muslim Historical Figures
+Sultan Mehmed,Sultan | thing | object | item,scholar, Islamic, famous,Muslim Historical Figures
