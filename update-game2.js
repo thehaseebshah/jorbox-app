@@ -3,17 +3,23 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import Papa from 'papaparse';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Read game2.csv (which is currently a copy of game1.csv)
-const game2Path = path.join(__dirname, 'public', 'data', 'game2.csv');
-const content = fs.readFileSync(game2Path, 'utf-8');
-const lines = content.split('\n');
+// Read game1.csv using proper CSV parser
+const game1Path = path.join(__dirname, 'public', 'data', 'game1.csv');
+const game1Content = fs.readFileSync(game1Path, 'utf-8');
+
+// Parse CSV properly
+const parsed = Papa.parse(game1Content, {
+    header: true,
+    skipEmptyLines: true
+});
 
 // Function to generate 4 banned words for a given word and category
-function generateBannedWords(name, originalDescription, category) {
+function generateBannedWords(name, category) {
     const bannedWords = [];
 
     // Split the name into parts
@@ -79,37 +85,18 @@ function generateBannedWords(name, originalDescription, category) {
     return bannedWords.slice(0, 4).join(' | ');
 }
 
-// Process the file
-const output = [];
-for (let i = 0; i < lines.length; i++) {
-    const line = lines[i];
+// Create new data with banned words
+const newData = parsed.data.map(row => ({
+    Name: row.Name,
+    Description: generateBannedWords(row.Name, row.Category),
+    Category: row.Category
+}));
 
-    if (i === 0) {
-        // Keep header as is
-        output.push(line);
-        continue;
-    }
+// Convert back to CSV
+const csv = Papa.unparse(newData);
 
-    if (!line.trim()) {
-        output.push(line);
-        continue;
-    }
+// Write to game2.csv
+const game2Path = path.join(__dirname, 'public', 'data', 'game2.csv');
+fs.writeFileSync(game2Path, csv);
 
-    // Parse CSV properly (handle commas in quotes)
-    const match = line.match(/^([^,]+),([^,]+),(.+)$/);
-    if (match) {
-        const name = match[1].trim();
-        const description = match[2].trim();
-        const category = match[3].trim();
-
-        const bannedWords = generateBannedWords(name, description, category);
-        output.push(`${name},${bannedWords},${category}`);
-    } else {
-        output.push(line);
-    }
-}
-
-// Write back to game2.csv
-fs.writeFileSync(game2Path, output.join('\n'));
-
-console.log(`Updated ${output.length - 1} entries in game2.csv with banned words (pipe-separated)`);
+console.log(`Generated ${newData.length} entries for game2.csv with banned words (pipe-separated)`);
