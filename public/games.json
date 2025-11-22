@@ -13,8 +13,20 @@
     },
     {
         "id": "game4",
-        "name": "Kuch bhi Kaho (Say Anything)",
+        "name": "Kuch bhi Kaho",
         "csv": "/data/game4.csv",
+        "hasCategories": true
+    },
+    {
+        "id": "game5",
+        "name": "Haiwani Pattay",
+        "csv": "/data/game5.csv",
+        "hasCategories": true
+    },
+    {
+        "id": "game6",
+        "name": "Categories Game",
+        "csv": "/data/game6.csv",
         "hasCategories": true
     }
 ]
