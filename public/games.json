@@ -31,7 +31,7 @@
     },
     {
         "id": "game7",
-        "name": "Nokri (A copy of Funemployed)",
+        "name": "Nokri",
         "csv": "/data/game7.csv",
         "hasCategories": true
     }
