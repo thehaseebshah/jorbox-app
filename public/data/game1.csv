@@ -60,7 +60,6 @@ Cinnamon,A sweet spice,Spices
 Clove,An aromatic spice,Spices
 Nutmeg,An aromatic spice,Spices
 Saffron,A precious spice,Spices
-Ginger,A pungent spice,Spices
 Garlic,A pungent spice,Spices
 Anise,An aromatic spice,Spices
 Fenugreek,A bitter spice,Spices
@@ -103,7 +102,6 @@ Potato,A root vegetable,Vegetables
 Onion,A bulb vegetable,Vegetables
 Tomato,A red vegetable,Vegetables
 Garlic,A pungent bulb,Vegetables
-Ginger,A root vegetable,Vegetables
 Spinach,A leafy green,Vegetables
 Cauliflower,A cruciferous vegetable,Vegetables
 Cabbage,A leafy vegetable,Vegetables
@@ -237,16 +235,13 @@ Swan,A graceful water bird,Birds
 Owl,A nocturnal bird,Birds
 Hawk,A bird of prey,Birds
 Kite,A bird of prey,Birds
-Vulture,A scavenging bird,Birds
 Ostrich,A large flightless bird,Birds
 Penguin,A flightless water bird,Birds
 Flamingo,A pink water bird,Birds
 Woodpecker,A tree-dwelling bird,Birds
 Kingfisher,A fishing bird,Birds
-Cuckoo,A singing bird,Birds
 Dove,A peaceful bird,Birds
 Myna,A common bird,Birds
-Bulbul,A singing bird,Birds
 Chakor,A game bird,Birds
 Partridge,A game bird,Birds
 Cricket,A bat and ball sport,Sports
@@ -300,7 +295,6 @@ Frere Hall,A historic building,Historical Places
 Mohatta Palace,A historic palace,Historical Places
 Shahi Qila,A royal fort,Historical Places
 Doctor,A medical professional,Occupations
-Engineer,A technical professional,Occupations
 Teacher,An education professional,Occupations
 Pilot,An aviation professional,Occupations
 Soldier,A military professional,Occupations
@@ -319,7 +313,6 @@ Mechanic,A machine worker,Occupations
 Painter,An artist or decorator,Occupations
 Writer,A content creator,Occupations
 Artist,A creative professional,Occupations
-Singer,A music performer,Occupations
 Actor,A performance artist,Occupations
 Banker,A finance professional,Occupations
 Accountant,A finance professional,Occupations
@@ -446,7 +439,6 @@ Choker,A neck ornament,Jewelry
 Jhumka,Traditional earrings,Jewelry
 Matha Patti,A forehead ornament,Jewelry
 Brooch,A pin ornament,Jewelry
-Pendant,A hanging ornament,Jewelry
 Stud,A small earring,Jewelry
 Hoop,A circular earring,Jewelry
 Sun,A star,Nature
@@ -480,7 +472,6 @@ Computer,A computing device,Electronics
 Laptop,A portable computer,Electronics
 Mobile,A phone device,Electronics
 Tablet,A touch device,Electronics
-Camera,An imaging device,Electronics
 Speaker,An audio device,Electronics
 Headphone,An audio device,Electronics
 Mouse,A pointing device,Electronics
@@ -508,8 +499,6 @@ Plier,A gripping tool,Tools
 Saw,A cutting tool,Tools
 Drill,A boring tool,Tools
 Axe,A chopping tool,Tools
-Shovel,A digging tool,Tools
-Spade,A digging tool,Tools
 Rake,A gathering tool,Tools
 Hoe,A gardening tool,Tools
 Ladder,A climbing tool,Tools
@@ -737,7 +726,6 @@ Ibn Sina,Renowned physician,Muslim Historical Figures
 Al-Khwarizmi,Father of algebra,Muslim Historical Figures
 Ibn Rushd,Great philosopher,Muslim Historical Figures
 Al-Ghazali,Islamic theologian,Muslim Historical Figures
-Rumi,Sufi poet,Muslim Historical Figures
 Ibn Battuta,Great traveler,Muslim Historical Figures
 Al-Biruni,Polymath scholar,Muslim Historical Figures
 Ibn Khaldun,Historian and sociologist,Muslim Historical Figures

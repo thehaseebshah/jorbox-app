@@ -60,7 +60,6 @@ Cinnamon,spice | powder | flavor | cooking,Spices
 Clove,spice | powder | flavor | cooking,Spices
 Nutmeg,spice | powder | flavor | cooking,Spices
 Saffron,spice | powder | flavor | cooking,Spices
-Ginger,spice | powder | flavor | cooking,Spices
 Garlic,spice | powder | flavor | cooking,Spices
 Anise,spice | powder | flavor | cooking,Spices
 Fenugreek,spice | powder | flavor | cooking,Spices
@@ -103,7 +102,6 @@ Potato,vegetable | green | salad | cook,Vegetables
 Onion,vegetable | green | salad | cook,Vegetables
 Tomato,vegetable | green | salad | cook,Vegetables
 Garlic,vegetable | green | salad | cook,Vegetables
-Ginger,vegetable | green | salad | cook,Vegetables
 Spinach,vegetable | green | salad | cook,Vegetables
 Cauliflower,vegetable | green | salad | cook,Vegetables
 Cabbage,vegetable | green | salad | cook,Vegetables
@@ -300,7 +298,6 @@ Frere Hall,Frere | historic | old | monument,Historical Places
 Mohatta Palace,Mohatta | historic | old | monument,Historical Places
 Shahi Qila,Shahi | historic | old | monument,Historical Places
 Doctor,job | work | professional | career,Occupations
-Engineer,job | work | professional | career,Occupations
 Teacher,job | work | professional | career,Occupations
 Pilot,job | work | professional | career,Occupations
 Soldier,job | work | professional | career,Occupations
@@ -319,7 +316,6 @@ Mechanic,job | work | professional | career,Occupations
 Painter,job | work | professional | career,Occupations
 Writer,job | work | professional | career,Occupations
 Artist,job | work | professional | career,Occupations
-Singer,job | work | professional | career,Occupations
 Actor,job | work | professional | career,Occupations
 Banker,job | work | professional | career,Occupations
 Accountant,job | work | professional | career,Occupations
@@ -737,7 +733,6 @@ Ibn Sina,Ibn | scholar | Islamic | famous,Muslim Historical Figures
 Al-Khwarizmi,scholar | Islamic | famous | history,Muslim Historical Figures
 Ibn Rushd,Ibn | scholar | Islamic | famous,Muslim Historical Figures
 Al-Ghazali,scholar | Islamic | famous | history,Muslim Historical Figures
-Rumi,scholar | Islamic | famous | history,Muslim Historical Figures
 Ibn Battuta,Ibn | scholar | Islamic | famous,Muslim Historical Figures
 Al-Biruni,scholar | Islamic | famous | history,Muslim Historical Figures
 Ibn Khaldun,Ibn | scholar | Islamic | famous,Muslim Historical Figures

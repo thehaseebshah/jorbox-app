@@ -13,15 +13,9 @@
     },
     {
         "id": "game3",
-        "name": "Game 3",
+        "name": "Jasoosi Club",
         "csv": "/data/game3.csv",
         "hasCategories": false
-    },
-    {
-        "id": "game4",
-        "name": "Kuch bhi Kaho",
-        "csv": "/data/game4.csv",
-        "hasCategories": true
     },
     {
         "id": "game5",
@@ -36,21 +30,15 @@
         "hasCategories": true
     },
     {
-        "id": "game7",
-        "name": "Nokri",
-        "csv": "/data/game7.csv",
-        "hasCategories": true
-    },
-    {
-        "id": "game8",
-        "name": "Lagao Tukey",
-        "csv": "/data/game8.csv",
-        "hasCategories": true
-    },
-    {
         "id": "game9",
         "name": "Trivia",
         "csv": "/data/game9.csv",
+        "hasCategories": false
+    },
+    {
+        "id": "game10",
+        "name": "Aik Rangi Soch",
+        "csv": "/data/game10.csv",
         "hasCategories": false
     }
 ]

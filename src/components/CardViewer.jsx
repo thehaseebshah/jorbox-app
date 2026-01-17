@@ -58,14 +58,18 @@ const CardViewer = ({ cards }) => {
                 }}>
                     {currentCard.Name}
                 </h2>
-                <p style={{
-                    fontSize: '1.2rem',
-                    color: 'var(--text-primary)',
-                    lineHeight: '1.8',
-                    maxWidth: '80%'
-                }}>
-                    {currentCard.Description}
-                </p>
+                {currentCard.Description && (
+                    <p style={{
+                        fontSize: '1.2rem',
+                        color: 'var(--text-primary)',
+                        lineHeight: '1.8',
+                        maxWidth: '80%',
+                        overflowWrap: 'break-word',
+                        wordBreak: 'break-word'
+                    }}>
+                        {currentCard.Description}
+                    </p>
+                )}
 
                 {currentCard.Category && (
                     <span style={{
