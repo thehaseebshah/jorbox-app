@@ -46,5 +46,17 @@
         "name": "NaqshNigar",
         "csv": "/data/game7.csv",
         "hasCategories": true
+    },
+    {
+        "id": "game13",
+        "name": "Phansna Nahi",
+        "csv": "/data/game13.csv",
+        "hasCategories": false
+    },
+    {
+        "id": "game14",
+        "name": "Dilchasp Haqaiq",
+        "csv": "/data/game14.csv",
+        "hasCategories": true
     }
 ]
