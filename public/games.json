@@ -40,5 +40,11 @@
         "name": "Aik Rangi Soch",
         "csv": "/data/game10.csv",
         "hasCategories": false
+    },
+    {
+        "id": "game7",
+        "name": "NaqshNigar",
+        "csv": "/data/game7.csv",
+        "hasCategories": true
     }
 ]
