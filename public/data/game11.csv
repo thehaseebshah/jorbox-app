@@ -117,7 +117,7 @@ Problem,I wish I could get my _____ back!
 Problem,The worst part of winter is _____!!!
 Problem,I find _____ to be incredibly dangerous!
 Problem,My biggest fear is _____!
-Problem,It’s embarrassing to be on a date and not have _____!
+Problem,It’s embarrassing to be at a wedding and not have _____!
 Problem,I hate going camping because of _____!
 Problem,I annoy people when I _____!
 Problem,I’m always losing my _____!
@@ -162,7 +162,7 @@ Problem,I want to see more _____!
 Problem,_____ are too tall!
 Problem,I don’t look good in _____!
 Problem,I never have a _____ when I need one!
-Problem,Whenever I throw a party _____ shows up!
+Problem,Whenever I host a dinner _____ shows up!
 Problem,I hate going to _____!
 Problem,My friends are too busy with their _____!
 Problem,"Everywhere I look, I see _____!"
@@ -366,7 +366,7 @@ Customer,Biker
 Customer,Beach Bum
 Customer,Billionaire
 Customer,Beggar
-Customer,Blind Date
+Customer,Meeting Rishta
 Customer,Big Foot
 Customer,Bouncer
 Customer,Bridesmaid
@@ -406,7 +406,7 @@ Customer,Fortune Teller
 Customer,Geek
 Customer,College Student
 Customer,Gladiator
-Customer,Gambler
+Customer,Investor
 Customer,Grandma
 Customer,Goon
 Customer,High School Dropout
@@ -427,7 +427,7 @@ Customer,Life Guard
 Customer,Janitor
 Customer,Life Guard
 Customer,Last Person On Earth
-Customer,Lovers
+Customer,Best Friends
 Customer,Lawyer
 Customer,Lumberjack
 Customer,Little Red Ridinghood
@@ -450,11 +450,11 @@ Customer,Olympic Athlete
 Customer,Pirate
 Customer,Paparazzi
 Customer,Pizza Deliverer
-Customer,Party Animal
+Customer,Social butterfly
 Customer,Police Officer
-Customer,Party Host
+Customer,Dinner Host
 Customer,Police Officer
-Customer,Pop Singer
+Customer,Poet
 Customer,Politician
 Customer,Prisoner of War
 Customer,Pregnant Woman
@@ -463,7 +463,7 @@ Customer,Imam
 Customer,Pro Wrestler
 Customer,Princess
 Customer,Quarterback
-Customer,Prom Date
+Customer,Class Clown
 Customer,Rioter
 Customer,Protester
 Customer,Robot
