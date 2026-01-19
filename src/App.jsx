@@ -135,6 +135,7 @@ function App() {
         paddingTop: '2rem'
       }}>
         <p>&copy; {new Date().getFullYear()} Al Burhan JorBox</p>
+        <p style={{ marginTop: '0.5rem' }}>For corrections, edits and additions contact thehaseebshah@zohomail.in</p>
       </footer>
     </div>
   );
