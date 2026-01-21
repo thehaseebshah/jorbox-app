@@ -18,6 +18,12 @@
         "hasCategories": false
     },
     {
+        "id": "game4",
+        "name": "Daal men Kaala",
+        "csv": "/data/game4.csv",
+        "hasCategories": true
+    },
+    {
         "id": "game5",
         "name": "Haiwani Pattay",
         "csv": "/data/game5.csv",
@@ -27,6 +33,18 @@
         "id": "game6",
         "name": "Categories Game",
         "csv": "/data/game6.csv",
+        "hasCategories": true
+    },
+    {
+        "id": "game7",
+        "name": "NaqshNigar",
+        "csv": "/data/game7.csv",
+        "hasCategories": true
+    },
+    {
+        "id": "game8",
+        "name": "Dil ki Sun",
+        "csv": "/data/game8.csv",
         "hasCategories": true
     },
     {
@@ -42,9 +60,15 @@
         "hasCategories": false
     },
     {
-        "id": "game7",
-        "name": "NaqshNigar",
-        "csv": "/data/game7.csv",
+        "id": "game11",
+        "name": "Karobari",
+        "csv": "/data/game11.csv",
+        "hasCategories": true
+    },
+    {
+        "id": "game12",
+        "name": "Nouns",
+        "csv": "/data/game12.csv",
         "hasCategories": true
     },
     {
@@ -57,6 +81,12 @@
         "id": "game14",
         "name": "Dilchasp Haqaiq",
         "csv": "/data/game14.csv",
+        "hasCategories": true
+    },
+    {
+        "id": "game15",
+        "name": "Tareekhi",
+        "csv": "/data/game15.csv",
         "hasCategories": true
     }
 ]
