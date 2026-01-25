@@ -3,6 +3,9 @@ import { DataManager } from './utils/DataManager';
 import GameSelector from './components/GameSelector';
 import CardViewer from './components/CardViewer';
 import CategorySelector from './components/CategorySelector';
+
+import ParticleBackground from './components/ParticleBackground';
+import MouseGradient from './components/MouseGradient';
 import { Layers } from 'lucide-react';
 
 function App() {
@@ -61,7 +64,9 @@ function App() {
   }, [cards, selectedCategory]);
 
   return (
-    <div className="app-container" style={{ padding: '2rem', maxWidth: '1200px', margin: '0 auto' }}>
+    <div className="app-container" style={{ padding: '2rem', maxWidth: '1200px', margin: '0 auto', position: 'relative', zIndex: 1 }}>
+      <ParticleBackground />
+      <MouseGradient />
       <header style={{ textAlign: 'center', marginBottom: '3rem' }}>
         <div style={{
           display: 'inline-flex',
