@@ -88,5 +88,11 @@
         "name": "Tareekhi",
         "csv": "/data/game15.csv",
         "hasCategories": true
+    },
+    {
+        "id": "game16",
+        "name": "GupShup",
+        "csv": "/game16.csv",
+        "hasCategories": true
     }
 ]
